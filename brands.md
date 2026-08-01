@@ -8,6 +8,7 @@
 | Fluidra       | https://www.fluidra.com/             | 🇪🇸 Espagne     | 🇪🇸 Espagnol (société cotée)           | 🌍 36 usines dans 12 pays                              |
 | Gardena       | https://www.gardena.com/            | 🇩🇪 Allemagne   | 🇸🇪 Suédois (groupe Husqvarna)         | 🌍 Allemagne, Europe et Asie selon les produits        |
 | Husqvarna     | https://www.husqvarnagroup.com/     | 🇸🇪 Suède       | 🇸🇪 Suédois (société cotée)            | 🌍 30 sites de production dans 13 pays                 |
+| JJA           | https://www.groupe-jja.com/          | 🇫🇷 France      | 🇫🇷 Français                           | 🌍 Principalement Asie, selon les produits             |
 | Kingfisher    | https://www.kingfisher.com/         | 🇬🇧 Royaume-Uni | 🇬🇧 Britannique (société cotée)        | 🌍 Variable selon les enseignes et les produits        |
 | SONGMICS      | https://www.songmics.com/           | 🇨🇳 Chine       | 🇨🇳 Chinois (groupe Ziel Home)         | 🇨🇳 Principalement Chine                               |
 | Sundis        | https://www.sundis.com/             | 🇫🇷 France      | 🇫🇷 Français                           | 🇫🇷 France                                             |
