@@ -14,3 +14,4 @@
 | Sundis        | https://www.sundis.com/             | 🇫🇷 France      | 🇫🇷 Français                           | 🇫🇷 France                                             |
 | SVR           | https://fr.svr.com/                 | 🇫🇷 France      | 🇫🇷 Français                           | 🇫🇷 France                                             |
 | Zodiac (Pool) | https://www.zodiac-poolcare.com/    | 🇫🇷 France      | 🇪🇸 Espagnol (groupe Fluidra)          | 🌍 Variable selon les modèles et les sites industriels |
+| Ziel Home     | https://www.songmicshomegroup.com/   | 🇨🇳 Chine       | 🇨🇳 Chinois (société cotée)            | 🇨🇳 Principalement Chine (fabricants partenaires)      |
