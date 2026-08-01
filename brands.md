@@ -4,6 +4,7 @@
 | ------------- | ---------------------------------- | -------------- | ------------------------------------------- | ------------------------------------------------------ |
 | 5five         | https://www.5five.com/             | 🇫🇷 France      | 🇫🇷 Français (groupe [JJA](#jja))            | 🇨🇳 Principalement Chine                                |
 | Allegion      | https://www.allegion.com/           | 🇮🇪 Irlande     | 🇮🇪 Irlandais (société cotée au NYSE)        | 🌍 Réseau industriel mondial                           |
+| ASSA ABLOY    | https://www.assaabloy.com/          | 🇸🇪 Suède       | 🇸🇪 Suédois (société cotée)                  | 🌍 Réseau industriel mondial                           |
 | CAMIF         | https://www.camif.fr/              | 🇫🇷 France      | 🇫🇷 Français                                 | 🇫🇷 Majoritairement France, sinon 🇪🇺 Europe             |
 | Fiskars       | https://www.fiskars.com/           | 🇫🇮 Finlande    | 🇫🇮 Finlandais (société cotée)               | 🌍 Finlande, Europe et Asie selon les produits         |
 | Fluidra       | https://www.fluidra.com/           | 🇪🇸 Espagne     | 🇪🇸 Espagnol (société cotée)                 | 🌍 36 usines dans 12 pays                              |
