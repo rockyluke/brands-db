@@ -9,3 +9,4 @@
 | Kingfisher    | https://www.kingfisher.com/         | 🇬🇧 Royaume-Uni | 🇬🇧 Britannique (société cotée)        | 🌍 Variable selon les enseignes et les produits       |
 | SONGMICS      | https://www.songmics.com/           | 🇨🇳 Chine       | 🇨🇳 Chinois (groupe Ziel Home)         | 🇨🇳 Principalement Chine                              |
 | Sundis        | https://www.sundis.com/             | 🇫🇷 France      | 🇫🇷 Français                           | 🇫🇷 France                                            |
+| SVR           | https://fr.svr.com/                 | 🇫🇷 France      | 🇫🇷 Français                           | 🇫🇷 France                                            |
