@@ -14,6 +14,7 @@
 | Husqvarna     | https://www.husqvarnagroup.com/    | 🇸🇪 Suède       | 🇸🇪 Suédois (société cotée)                  | 🌍 30 sites de production dans 13 pays                 |
 | JJA           | https://www.groupe-jja.com/        | 🇫🇷 France      | 🇫🇷 Français                                 | 🌍 Principalement Asie, selon les produits             |
 | Kingfisher    | https://www.kingfisher.com/        | 🇬🇧 Royaume-Uni | 🇬🇧 Britannique (société cotée)              | 🌍 Variable selon les enseignes et les produits        |
+| Moulinex      | https://www.moulinex.fr/            | 🇫🇷 France      | 🇫🇷 Français (groupe [Groupe SEB](#groupe-seb)) | 🌍 France, Europe et Asie selon les produits          |
 | SONGMICS      | https://www.songmics.com/          | 🇨🇳 Chine       | 🇨🇳 Chinois (groupe [Ziel Home](#ziel-home)) | 🇨🇳 Principalement Chine                                |
 | Sundis        | https://www.sundis.com/            | 🇫🇷 France      | 🇫🇷 Français                                 | 🇫🇷 France                                              |
 | SVR           | https://fr.svr.com/                | 🇫🇷 France      | 🇫🇷 Français                                 | 🇫🇷 France                                              |
