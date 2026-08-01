@@ -18,5 +18,6 @@
 | SONGMICS      | https://www.songmics.com/          | 🇨🇳 Chine       | 🇨🇳 Chinois (groupe [Ziel Home](#ziel-home)) | 🇨🇳 Principalement Chine                                |
 | Sundis        | https://www.sundis.com/            | 🇫🇷 France      | 🇫🇷 Français                                 | 🇫🇷 France                                              |
 | SVR           | https://fr.svr.com/                | 🇫🇷 France      | 🇫🇷 Français                                 | 🇫🇷 France                                              |
+| Vachette      | https://www.vachette.fr/            | 🇫🇷 France      | 🇸🇪 Suédois (groupe [ASSA ABLOY](#assa-abloy)) | 🇫🇷 France (3 sites de production)                    |
 | Zodiac (Pool) | https://www.zodiac-poolcare.com/   | 🇫🇷 France      | 🇪🇸 Espagnol (groupe [Fluidra](#fluidra))    | 🌍 Variable selon les modèles et les sites industriels |
 | Ziel Home     | https://www.songmicshomegroup.com/ | 🇨🇳 Chine       | 🇨🇳 Chinois (société cotée)                  | 🇨🇳 Principalement Chine (fabricants partenaires)       |
