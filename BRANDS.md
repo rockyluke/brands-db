@@ -5,6 +5,7 @@
 | Brand                  | Website                                | Headquarters   | Ownership                                                       | Manufacturing                                          | Last checked |
 | ---------------------- | -------------------------------------- | -------------- | --------------------------------------------------------------- | ------------------------------------------------------ | ------------ |
 | Gardena                | https://www.gardena.com/               | 🇩🇪 Allemagne   | 🇸🇪 Suédois (groupe [Husqvarna](#husqvarna))                     | 🌍 Allemagne, Europe et Asie selon les produits        | 2026-08-03   |
+| JOKARI                 | https://jokari.de/                     | 🇩🇪 Allemagne   | 🇩🇪 Allemand (entreprise familiale)                              | 🇩🇪 Allemagne                                           | 2026-08-03   |
 
 ## Bulgarie 🇧🇬
 
