@@ -98,3 +98,9 @@
 | ---------------------- | -------------------------------------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------ |
 | ASSA ABLOY             | https://www.assaabloy.com/             | 🇸🇪 Suède       | 🇸🇪 Suédois (société cotée au [Nasdaq Stockholm](https://www.nasdaq.com/european-market-activity/shares/assa-b))                                                        | 🌍 Réseau industriel mondial                           | 2026-08-03   |
 | Husqvarna              | https://www.husqvarnagroup.com/        | 🇸🇪 Suède       | 🇸🇪 Suédois (société cotée au [Nasdaq Stockholm](https://www.nasdaq.com/european-market-activity/shares/husq-b))                                                        | 🌍 30 sites de production dans 13 pays                 | 2026-08-03   |
+
+## Tchéquie 🇨🇿
+
+| Brand                  | Website                                | Headquarters   | Ownership                                                                                                                                                              | Manufacturing                                          | Last checked |
+| ---------------------- | -------------------------------------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------ |
+| Immax                  | https://www.immax.cz/                  | 🇨🇿 Tchéquie    | 🇨🇿 Tchèque (entreprise privée)                                                                                                                                         | ❓ Non documentée publiquement                          | 2026-08-03   |
