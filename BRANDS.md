@@ -79,6 +79,7 @@
 
 | Brand                  | Website                                | Headquarters   | Ownership                                                                                                                                                              | Manufacturing                                          | Last checked |
 | ---------------------- | -------------------------------------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------ |
+| Inter IKEA Group       | https://www.inter.ikea.com/            | 🇳🇱 Pays-Bas    | 🇳🇱 Néerlandais (groupe privé)                                                                                                                                          | 🌍 Réseau mondial de fournisseurs et production propre | 2026-08-03   |
 | Philips                | https://www.philips.com/               | 🇳🇱 Pays-Bas    | 🇳🇱 Néerlandais (société cotée à [Euronext Amsterdam](https://live.euronext.com/en/product/equities/NL0000009538-XAMS))                                                 | 🌍 Réseau industriel mondial                           | 2026-08-03   |
 
 ## Royaume-Uni 🇬🇧
