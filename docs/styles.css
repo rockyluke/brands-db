@@ -272,6 +272,8 @@ h2 { margin: 0; font-family: Georgia, serif; font-size: clamp(2.4rem, 5vw, 4.3re
 .brand-card dl div { display: grid; grid-template-columns: 82px 1fr; gap: 10px; }
 .brand-card dt { color: var(--muted); font-size: 0.7rem; font-weight: 800; letter-spacing: 0.08em; text-transform: uppercase; }
 .brand-card dd { margin: 0; font-size: 0.83rem; line-height: 1.45; }
+.brand-card dd a { color: inherit; font-weight: 700; text-decoration-color: var(--accent); text-decoration-thickness: 1px; text-underline-offset: 3px; }
+.brand-card dd a:hover { color: var(--accent); }
 .brand-link { display: flex; align-items: center; justify-content: space-between; margin-top: auto; padding-top: 16px; border-top: 1px solid var(--line); color: var(--ink); text-decoration: none; font-size: 0.8rem; font-weight: 750; }
 .brand-link span { color: var(--accent); font-size: 1rem; }
 

@@ -17,11 +17,14 @@ const elements = {
   template: document.querySelector("#brand-card-template"),
 };
 
-function plainText(value) {
+function markdownText(value) {
   return value
     .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1")
-    .replace(/[*_`]/g, "")
-    .trim();
+    .replace(/[*_`]/g, "");
+}
+
+function plainText(value) {
+  return markdownText(value).trim();
 }
 
 function parseBrands(markdown) {
@@ -35,9 +38,38 @@ function parseBrands(markdown) {
       website,
       headquarters: plainText(headquarters),
       ownership: plainText(ownership),
+      ownershipMarkdown: ownership,
       manufacturing: plainText(manufacturing),
       checked,
     }));
+}
+
+function renderMarkdownLinks(element, markdown) {
+  const pattern = /\[([^\]]+)\]\(([^)]+)\)/g;
+  let cursor = 0;
+  let match;
+
+  while ((match = pattern.exec(markdown)) !== null) {
+    element.append(document.createTextNode(markdownText(markdown.slice(cursor, match.index))));
+    const href = match[2];
+
+    if (href.startsWith("https://") || href.startsWith("http://") || href.startsWith("#")) {
+      const link = document.createElement("a");
+      link.textContent = match[1];
+      link.href = href;
+      if (!href.startsWith("#")) {
+        link.target = "_blank";
+        link.rel = "noreferrer";
+      }
+      element.append(link);
+    } else {
+      element.append(document.createTextNode(match[1]));
+    }
+
+    cursor = pattern.lastIndex;
+  }
+
+  element.append(document.createTextNode(markdownText(markdown.slice(cursor))));
 }
 
 function normalize(value) {
@@ -58,12 +90,13 @@ function formatDate(value) {
 function createCard(brand, index) {
   const fragment = elements.template.content.cloneNode(true);
   const card = fragment.querySelector(".brand-card");
+  card.id = normalize(brand.name).replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
   card.style.animationDelay = `${Math.min(index, 12) * 35}ms`;
   fragment.querySelector("h3").textContent = brand.name;
   fragment.querySelector(".country").textContent = brand.headquarters;
   fragment.querySelector(".checked").textContent = brand.checked;
   fragment.querySelector(".checked").dateTime = brand.checked;
-  fragment.querySelector(".ownership").textContent = brand.ownership;
+  renderMarkdownLinks(fragment.querySelector(".ownership"), brand.ownershipMarkdown);
   fragment.querySelector(".manufacturing").textContent = brand.manufacturing;
   fragment.querySelector(".brand-link").href = brand.website;
   return fragment;

@@ -14,8 +14,8 @@
 
 | Brand        | Website                       | Headquarters | Ownership                                                                                                     | Manufacturing                             | Last checked |
 | ------------ | ----------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ------------ |
-| Shelly       | https://www.shelly.com/       | 🇧🇬 Bulgarie  | 🇧🇬 Bulgare (groupe [Shelly Group](#shelly-group))                                                             | 🇨🇳 Chine (fabricant partenaire principal) | 2026-08-03   |
-| Shelly Group | https://corporate.shelly.com/ | 🇧🇬 Bulgarie  | 🇧🇬 Bulgare (société cotée à la [Bourse de Francfort](https://www.boerse-frankfurt.de/equity/shelly-group-se)) | 🇨🇳 Chine (fabricant partenaire principal) | 2026-08-03   |
+| Shelly       | https://www.shelly.com/       | 🇧🇬 Bulgarie  | 🇧🇬 Bulgare (groupe [Shelly Group](#shelly-group))                                                             | 🇨🇳 Chine                                  | 2026-08-03   |
+| Shelly Group | https://corporate.shelly.com/ | 🇧🇬 Bulgarie  | 🇧🇬 Bulgare (société cotée à la [Bourse de Francfort](https://www.boerse-frankfurt.de/equity/shelly-group-se)) | 🇨🇳 Chine                                  | 2026-08-03   |
 
 ## Chine 🇨🇳
 
@@ -24,9 +24,9 @@
 | Aqara       | https://www.aqara.com/             | 🇨🇳 Chine     | 🇨🇳 Chinois ([Lumi United](#lumi-united))                                                                                                       | 🇨🇳 Chine                                         | 2026-08-03   |
 | ITEAD       | https://itead.cc/                  | 🇨🇳 Chine     | 🇨🇳 Chinois (entreprise privée)                                                                                                                 | 🇨🇳 Chine                                         | 2026-08-03   |
 | Lumi United | https://www.lumiunited.com/        | 🇨🇳 Chine     | 🇨🇳 Chinois (entreprise privée)                                                                                                                 | 🇨🇳 Chine                                         | 2026-08-03   |
-| SONGMICS    | https://www.songmics.com/          | 🇨🇳 Chine     | 🇨🇳 Chinois (groupe [Ziel Home](#ziel-home))                                                                                                    | 🇨🇳 Principalement Chine                          | 2026-08-03   |
+| SONGMICS    | https://www.songmics.com/          | 🇨🇳 Chine     | 🇨🇳 Chinois (groupe [Ziel Home](#ziel-home))                                                                                                    | 🇨🇳 Chine                                         | 2026-08-03   |
 | Sonoff      | https://sonoff.tech/               | 🇨🇳 Chine     | 🇨🇳 Chinois ([ITEAD](#itead))                                                                                                                   | 🇨🇳 Chine                                         | 2026-08-03   |
-| Ziel Home   | https://www.songmicshomegroup.com/ | 🇨🇳 Chine     | 🇨🇳 Chinois (société cotée à la [Bourse de Shenzhen](https://www.szse.cn/English/siteMarketData/siteMarketDatas/stocks/index.html?code=301376)) | 🇨🇳 Principalement Chine (fabricants partenaires) | 2026-08-03   |
+| Ziel Home   | https://www.songmicshomegroup.com/ | 🇨🇳 Chine     | 🇨🇳 Chinois (société cotée à la [Bourse de Shenzhen](https://www.szse.cn/English/siteMarketData/siteMarketDatas/stocks/index.html?code=301376)) | 🇨🇳 Chine                                         | 2026-08-03   |
 
 ## Danemark 🇩🇰
 
@@ -63,7 +63,7 @@
 
 | Brand                | Website                                | Headquarters | Ownership                                                                                                       | Manufacturing                                                | Last checked |
 | -------------------- | -------------------------------------- | ------------ | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ------------ |
-| 5five                | https://www.5five.com/                 | 🇫🇷 France    | 🇫🇷 Français (groupe [JJA](#jja))                                                                                | 🇨🇳 Principalement Chine                                      | 2026-08-03   |
+| 5five                | https://www.5five.com/                 | 🇫🇷 France    | 🇫🇷 Français (groupe [JJA](#jja))                                                                                | 🇨🇳 Chine                                                     | 2026-08-03   |
 | ADEO                 | https://www.adeo.com/                  | 🇫🇷 France    | 🇫🇷 Français (Association Familiale Mulliez et salariés)                                                         | 🌍 Variable selon les enseignes et les produits              | 2026-08-03   |
 | Botanic              | https://www.botanic.com/               | 🇫🇷 France    | 🇫🇷 Français (entreprise familiale)                                                                              | 🌍 Distributeur; origine variable selon les produits         | 2026-08-03   |
 | Boulanger            | https://www.boulanger.com/             | 🇫🇷 France    | 🇫🇷 Français (groupe [United.b](#unitedb))                                                                       | 🌍 Distributeur; origine variable selon les produits         | 2026-08-03   |
