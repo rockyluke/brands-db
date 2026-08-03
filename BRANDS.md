@@ -103,6 +103,12 @@
 | Vachette             | https://www.vachette.fr/               | 🇫🇷 France    | 🇸🇪 Suédois (groupe [ASSA ABLOY](#assa-abloy))                                                                   | 🇫🇷 France (3 sites de production)                            | 2026-08-03   |
 | Zodiac (Pool)        | https://www.zodiac-poolcare.com/       | 🇫🇷 France    | 🇪🇸 Espagnol (groupe [Fluidra](#fluidra))                                                                        | 🌍 Variable selon les modèles et les sites industriels       | 2026-08-03   |
 
+## Hong Kong 🇭🇰
+
+| Brand | Website                    | Headquarters | Ownership                                 | Manufacturing | Last checked |
+| ----- | -------------------------- | ------------ | ----------------------------------------- | ------------- | ------------ |
+| Intex | https://www.intexcorp.com/ | 🇭🇰 Hong Kong | 🇭🇰 Hongkongais (groupe privé indépendant) | 🇨🇳 Chine      | 2026-08-03   |
+
 ## Irlande 🇮🇪
 
 | Brand    | Website                   | Headquarters | Ownership                                                                    | Manufacturing                | Last checked |
