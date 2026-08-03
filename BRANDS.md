@@ -44,14 +44,14 @@
 
 ## États-Unis 🇺🇸
 
-| Brand                  | Website                                | Headquarters  | Ownership                                                                    | Manufacturing                | Last checked |
-| ---------------------- | -------------------------------------- | ------------- | ---------------------------------------------------------------------------- | ---------------------------- | ------------ |
-| Kenvue                 | https://www.kenvue.com/                | 🇺🇸 États-Unis | 🇺🇸 Américain (société cotée au [NYSE](https://www.nyse.com/quote/XNYS:KVUE)) | 🌍 27 sites de fabrication   | 2026-08-03   |
-| Nabu Casa              | https://www.nabucasa.com/              | 🇺🇸 États-Unis | 🇺🇸 Américain (entreprise privée)                                             | ❓ Non documentée publiquement | 2026-08-03   |
+| Brand                  | Website                                | Headquarters  | Ownership                                                                                    | Manufacturing                     | Last checked |
+| ---------------------- | -------------------------------------- | ------------- | -------------------------------------------------------------------------------------------- | --------------------------------- | ------------ |
+| Kenvue                 | https://www.kenvue.com/                | 🇺🇸 États-Unis | 🇺🇸 Américain (société cotée au [NYSE](https://www.nyse.com/quote/XNYS:KVUE))                 | 🌍 27 sites de fabrication        | 2026-08-03   |
+| Nabu Casa              | https://www.nabucasa.com/              | 🇺🇸 États-Unis | 🇺🇸 Américain (entreprise privée)                                                             | ❓ Non documentée publiquement    | 2026-08-03   |
 | Sonos                  | https://www.sonos.com/                 | 🇺🇸 États-Unis | 🇺🇸 Américain (société cotée au [Nasdaq](https://www.nasdaq.com/market-activity/stocks/sono)) | 🌏 Fabricants partenaires en Asie | 2026-08-03   |
-| Stanley Black & Decker | https://www.stanleyblackanddecker.com/ | 🇺🇸 États-Unis | 🇺🇸 Américain (société cotée au [NYSE](https://www.nyse.com/quote/XNYS:SWK))  | 🌍 Réseau industriel mondial | 2026-08-03   |
-| Ubiquiti               | https://www.ui.com/                    | 🇺🇸 États-Unis | 🇺🇸 Américain (société cotée au [NYSE](https://www.nyse.com/quote/XNYS:UI))   | 🌏 Fabricants partenaires en Asie | 2026-08-03   |
-| UniFi                  | https://www.ui.com/                    | 🇺🇸 États-Unis | 🇺🇸 Américain ([Ubiquiti](#ubiquiti))                                           | 🌏 Fabricants partenaires en Asie | 2026-08-03   |
+| Stanley Black & Decker | https://www.stanleyblackanddecker.com/ | 🇺🇸 États-Unis | 🇺🇸 Américain (société cotée au [NYSE](https://www.nyse.com/quote/XNYS:SWK))                  | 🌍 Réseau industriel mondial      | 2026-08-03   |
+| Ubiquiti               | https://www.ui.com/                    | 🇺🇸 États-Unis | 🇺🇸 Américain (société cotée au [NYSE](https://www.nyse.com/quote/XNYS:UI))                   | 🌏 Fabricants partenaires en Asie | 2026-08-03   |
+| UniFi                  | https://www.ui.com/                    | 🇺🇸 États-Unis | 🇺🇸 Américain ([Ubiquiti](#ubiquiti))                                                         | 🌏 Fabricants partenaires en Asie | 2026-08-03   |
 
 ## Finlande 🇫🇮
 
@@ -69,7 +69,7 @@
 | Boulanger            | https://www.boulanger.com/             | 🇫🇷 France    | 🇫🇷 Français (groupe [United.b](#unitedb))                                                                       | 🌍 Distributeur; origine variable selon les produits         | 2026-08-03   |
 | Bricard              | https://bricard.com/                   | 🇫🇷 France    | 🇮🇪 Irlandais (groupe [Allegion](#allegion))                                                                     | 🇫🇷 France selon les références                               | 2026-08-03   |
 | CAMIF                | https://www.camif.fr/                  | 🇫🇷 France    | 🇫🇷 Français                                                                                                     | 🇫🇷 Majoritairement France, sinon 🇪🇺 Europe                   | 2026-08-03   |
-| Decathlon            | https://www.decathlon.com/             | 🇫🇷 France    | 🇫🇷 Français (entreprise familiale et salariés)                                                                  | 🌍 Fournisseurs dans 45 pays et 9 sites propres        | 2026-08-03   |
+| Decathlon            | https://www.decathlon.com/             | 🇫🇷 France    | 🇫🇷 Français (entreprise familiale et salariés)                                                                  | 🌍 Fournisseurs dans 45 pays et 9 sites propres              | 2026-08-03   |
 | EssentielB           | https://boulanger.com/info/essentielb/ | 🇫🇷 France    | 🇫🇷 Français ([Boulanger](#boulanger))                                                                           | 🌍 Fabricants partenaires selon les produits                 | 2026-08-03   |
 | Facom                | https://www.facom.com/                 | 🇫🇷 France    | 🇺🇸 Américain ([Stanley Black & Decker](#stanley-black--decker))                                                 | 🌍 France, Europe et Asie selon les produits                 | 2026-08-03   |
 | Groupe SEB           | https://www.groupeseb.com/             | 🇫🇷 France    | 🇫🇷 Français (société cotée à [Euronext Paris](https://live.euronext.com/en/product/equities/FR0000121709-XPAR)) | 🌍 40 sites industriels dans le monde                        | 2026-08-03   |
@@ -99,19 +99,19 @@
 
 ## Japon 🇯🇵
 
-| Brand  | Website                 | Headquarters | Ownership                                                                                   | Manufacturing                                   | Last checked |
-| ------ | ----------------------- | ------------ | ------------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------ |
+| Brand  | Website                 | Headquarters | Ownership                                                                                                                            | Manufacturing                                         | Last checked |
+| ------ | ----------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------- | ------------ |
 | Daikin | https://www.daikin.com/ | 🇯🇵 Japon     | 🇯🇵 Japonais (société cotée à la [Bourse de Tokyo](https://www.jpx.co.jp/english/corporate/news/news-releases/2041/20250828-01.html)) | 🌍 8 filiales industrielles au Japon et 58 hors Japon | 2026-08-03   |
 
 ## Pays-Bas 🇳🇱
 
-| Brand            | Website                     | Headquarters | Ownership                                                                                                              | Manufacturing                                          | Last checked |
-| ---------------- | --------------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------ |
-| IKEA             | https://www.ikea.com/       | 🇳🇱 Pays-Bas  | 🇳🇱 Néerlandais ([Inter IKEA Group](#inter-ikea-group))                                                                 | 🌍 Fournisseurs dans 54 pays et production propre      | 2026-08-03   |
-| Inter IKEA Group | https://www.inter.ikea.com/ | 🇳🇱 Pays-Bas  | 🇳🇱 Néerlandais (groupe privé)                                                                                          | 🌍 Réseau mondial de fournisseurs et production propre | 2026-08-03   |
-| Maxeda DIY Group | https://www.maxedadiygroup.com/ | 🇳🇱 Pays-Bas | 🇳🇱 Néerlandais (groupe privé)                                                                                          | 🌍 Distributeur; fabricants partenaires                | 2026-08-03   |
-| Philips          | https://www.philips.com/    | 🇳🇱 Pays-Bas  | 🇳🇱 Néerlandais (société cotée à [Euronext Amsterdam](https://live.euronext.com/en/product/equities/NL0000009538-XAMS)) | 🌍 Réseau industriel mondial                           | 2026-08-03   |
-| Sencys           | https://www.maxedadiygroup.com/our-brands/sencys/ | 🇳🇱 Pays-Bas | 🇳🇱 Néerlandais ([Maxeda DIY Group](#maxeda-diy-group)) | 🌍 Fabricants partenaires selon les produits | 2026-08-03   |
+| Brand            | Website                                           | Headquarters | Ownership                                                                                                              | Manufacturing                                          | Last checked |
+| ---------------- | ------------------------------------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------ |
+| IKEA             | https://www.ikea.com/                             | 🇳🇱 Pays-Bas  | 🇳🇱 Néerlandais ([Inter IKEA Group](#inter-ikea-group))                                                                 | 🌍 Fournisseurs dans 54 pays et production propre      | 2026-08-03   |
+| Inter IKEA Group | https://www.inter.ikea.com/                       | 🇳🇱 Pays-Bas  | 🇳🇱 Néerlandais (groupe privé)                                                                                          | 🌍 Réseau mondial de fournisseurs et production propre | 2026-08-03   |
+| Maxeda DIY Group | https://www.maxedadiygroup.com/                   | 🇳🇱 Pays-Bas  | 🇳🇱 Néerlandais (groupe privé)                                                                                          | 🌍 Distributeur; fabricants partenaires                | 2026-08-03   |
+| Philips          | https://www.philips.com/                          | 🇳🇱 Pays-Bas  | 🇳🇱 Néerlandais (société cotée à [Euronext Amsterdam](https://live.euronext.com/en/product/equities/NL0000009538-XAMS)) | 🌍 Réseau industriel mondial                           | 2026-08-03   |
+| Sencys           | https://www.maxedadiygroup.com/our-brands/sencys/ | 🇳🇱 Pays-Bas  | 🇳🇱 Néerlandais ([Maxeda DIY Group](#maxeda-diy-group))                                                                 | 🌍 Fabricants partenaires selon les produits           | 2026-08-03   |
 
 ## Royaume-Uni 🇬🇧
 
@@ -125,11 +125,12 @@
 | ---------- | ------------------------------- | ------------ | --------------------------------------------------------------------------------------------------------------- | -------------------------------------- | ------------ |
 | ASSA ABLOY | https://www.assaabloy.com/      | 🇸🇪 Suède     | 🇸🇪 Suédois (société cotée au [Nasdaq Stockholm](https://www.nasdaq.com/european-market-activity/shares/assa-b)) | 🌍 Réseau industriel mondial           | 2026-08-03   |
 | Husqvarna  | https://www.husqvarnagroup.com/ | 🇸🇪 Suède     | 🇸🇪 Suédois (société cotée au [Nasdaq Stockholm](https://www.nasdaq.com/european-market-activity/shares/husq-b)) | 🌍 30 sites de production dans 13 pays | 2026-08-03   |
+| Yubico     | https://www.yubico.com/         | 🇸🇪 Suède     | 🇸🇪 Suédois (société cotée au [Nasdaq Stockholm](https://www.nasdaq.com/european-market-activity/shares/yubico)) | 🇸🇪 Suède et 🇺🇸 États-Unis              | 2026-08-03   |
 
 ## Taïwan 🇹🇼
 
-| Brand    | Website                   | Headquarters | Ownership                         | Manufacturing                  | Last checked |
-| -------- | ------------------------- | ------------ | --------------------------------- | ------------------------------ | ------------ |
+| Brand    | Website                   | Headquarters | Ownership                        | Manufacturing                  | Last checked |
+| -------- | ------------------------- | ------------ | -------------------------------- | ------------------------------ | ------------ |
 | Synology | https://www.synology.com/ | 🇹🇼 Taïwan    | 🇹🇼 Taïwanais (entreprise privée) | ❓ Non documentée publiquement | 2026-08-03   |
 
 ## Tchéquie 🇨🇿
