@@ -151,6 +151,12 @@
 | Husqvarna  | https://www.husqvarnagroup.com/ | 🇸🇪 Suède     | 🇸🇪 Suédois (société cotée au [Nasdaq Stockholm](https://www.nasdaq.com/european-market-activity/shares/husq-b)) | 🌍 30 sites de production dans 13 pays | 2026-08-03   |
 | Yubico     | https://www.yubico.com/         | 🇸🇪 Suède     | 🇸🇪 Suédois (société cotée au [Nasdaq Stockholm](https://www.nasdaq.com/european-market-activity/shares/yubico)) | 🇸🇪 Suède et 🇺🇸 États-Unis              | 2026-08-03   |
 
+## Suisse 🇨🇭
+
+| Brand             | Website                       | Headquarters | Ownership                                  | Manufacturing             | Last checked |
+| ----------------- | ----------------------------- | ------------ | ------------------------------------------ | ------------------------- | ------------ |
+| Proton Foundation | https://proton.me/foundation/ | 🇨🇭 Suisse    | 🇨🇭 Suisse (fondation sans actionnaires)    | — Sans objet (fondation)  | 2026-08-03   |
+
 ## Taïwan 🇹🇼
 
 | Brand    | Website                   | Headquarters | Ownership                        | Manufacturing                  | Last checked |
