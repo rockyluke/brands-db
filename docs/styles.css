@@ -112,14 +112,20 @@ footer {
   text-transform: uppercase;
 }
 
+.eyebrow a {
+  color: inherit;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
 h1 {
-  max-width: 820px;
   margin: 0;
   font-family: Georgia, "Times New Roman", serif;
-  font-size: clamp(4rem, 10vw, 8.1rem);
+  font-size: clamp(3.2rem, 7.2vw, 6.4rem);
   font-weight: 400;
-  line-height: 0.82;
+  line-height: 0.92;
   letter-spacing: -0.075em;
+  white-space: nowrap;
 }
 
 h1 em { color: var(--accent); font-weight: 400; }
@@ -298,7 +304,7 @@ footer a { color: var(--ink); font-weight: 700; text-decoration: none; }
   .source-link { font-size: 0; }
   .source-link span { font-size: 1.1rem; }
   .hero { padding-top: 62px; }
-  h1 { font-size: clamp(3.55rem, 19vw, 5.3rem); }
+  h1 { font-size: clamp(1.95rem, 9vw, 3.2rem); }
   .intro { margin-top: 32px; }
   .search { min-height: 59px; box-shadow: 4px 4px 0 var(--ink); }
   kbd { display: none; }

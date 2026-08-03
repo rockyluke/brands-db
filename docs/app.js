@@ -108,7 +108,7 @@ function countryName(value) {
 
 async function init() {
   try {
-    const response = await fetch("BRANDS.md", { cache: "no-cache" });
+    const response = await fetch("https://raw.githubusercontent.com/rockyluke/brands-db/main/BRANDS.md", { cache: "no-cache" });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     state.brands = parseBrands(await response.text());
     elements.brandCount.textContent = state.brands.length;
@@ -119,7 +119,7 @@ async function init() {
     render();
   } catch (error) {
     elements.grid.setAttribute("aria-busy", "false");
-    elements.grid.innerHTML = `<p>La base n’a pas pu être chargée. <a href="BRANDS.md">Consulter le fichier source</a>.</p>`;
+    elements.grid.innerHTML = `<p>La base n’a pas pu être chargée. <a href="https://github.com/rockyluke/brands-db/blob/main/BRANDS.md">Consulter le fichier source</a>.</p>`;
     console.error(error);
   }
 }
