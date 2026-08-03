@@ -13,8 +13,8 @@
 
 ## Autriche 🇦🇹
 
-| Brand   | Website                  | Headquarters | Ownership                                | Manufacturing                          | Last checked |
-| ------- | ------------------------ | ------------ | ---------------------------------------- | -------------------------------------- | ------------ |
+| Brand   | Website                  | Headquarters | Ownership                               | Manufacturing                          | Last checked |
+| ------- | ------------------------ | ------------ | --------------------------------------- | -------------------------------------- | ------------ |
 | Proxmox | https://www.proxmox.com/ | 🇦🇹 Autriche  | 🇦🇹 Autrichien (entreprise indépendante) | 🇦🇹 Développement en Autriche et Europe | 2026-08-03   |
 
 ## Bulgarie 🇧🇬
@@ -123,9 +123,9 @@
 
 ## Norvège 🇳🇴
 
-| Brand      | Website                     | Headquarters | Ownership                           | Manufacturing       | Last checked |
-| ---------- | --------------------------- | ------------ | ----------------------------------- | ------------------- | ------------ |
-| reMarkable | https://www.remarkable.com/ | 🇳🇴 Norvège   | 🇳🇴 Norvégien (entreprise privée)    | 🇨🇳 Chine et 🇻🇳 Vietnam | 2026-08-03   |
+| Brand      | Website                     | Headquarters | Ownership                        | Manufacturing          | Last checked |
+| ---------- | --------------------------- | ------------ | -------------------------------- | ---------------------- | ------------ |
+| reMarkable | https://www.remarkable.com/ | 🇳🇴 Norvège   | 🇳🇴 Norvégien (entreprise privée) | 🇨🇳 Chine et 🇻🇳 Vietnam | 2026-08-03   |
 
 ## Pays-Bas 🇳🇱
 
@@ -153,10 +153,10 @@
 
 ## Suisse 🇨🇭
 
-| Brand             | Website                       | Headquarters | Ownership                                  | Manufacturing             | Last checked |
-| ----------------- | ----------------------------- | ------------ | ------------------------------------------ | ------------------------- | ------------ |
+| Brand             | Website                       | Headquarters | Ownership                                                  | Manufacturing                          | Last checked |
+| ----------------- | ----------------------------- | ------------ | ---------------------------------------------------------- | -------------------------------------- | ------------ |
 | Proton            | https://proton.me/            | 🇨🇭 Suisse    | 🇨🇭 Suisse (groupe [Proton Foundation](#proton-foundation)) | 🇨🇭 Infrastructure principale en Suisse | 2026-08-03   |
-| Proton Foundation | https://proton.me/foundation/ | 🇨🇭 Suisse    | 🇨🇭 Suisse (fondation sans actionnaires)    | — Sans objet (fondation)  | 2026-08-03   |
+| Proton Foundation | https://proton.me/foundation/ | 🇨🇭 Suisse    | 🇨🇭 Suisse (fondation sans actionnaires)                    | — Sans objet (fondation)               | 2026-08-03   |
 
 ## Taïwan 🇹🇼
 
