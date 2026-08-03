@@ -11,6 +11,12 @@
 | Lidl          | https://info.lidl/         | 🇩🇪 Allemagne | 🇩🇪 Allemand ([Schwarz Group](#schwarz-group)) | 🌍 Variable; production partielle par le groupe   | 2026-08-03   |
 | Schwarz Group | https://gruppe.schwarz/en/ | 🇩🇪 Allemagne | 🇩🇪 Allemand (groupe privé)                    | 🇩🇪 Allemagne et 🇬🇧 Royaume-Uni, plus fournisseurs | 2026-08-03   |
 
+## Autriche 🇦🇹
+
+| Brand   | Website                  | Headquarters | Ownership                                | Manufacturing                          | Last checked |
+| ------- | ------------------------ | ------------ | ---------------------------------------- | -------------------------------------- | ------------ |
+| Proxmox | https://www.proxmox.com/ | 🇦🇹 Autriche  | 🇦🇹 Autrichien (entreprise indépendante) | 🇦🇹 Développement en Autriche et Europe | 2026-08-03   |
+
 ## Bulgarie 🇧🇬
 
 | Brand        | Website                       | Headquarters | Ownership                                                                                                     | Manufacturing                             | Last checked |
