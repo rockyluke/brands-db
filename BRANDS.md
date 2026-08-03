@@ -20,6 +20,7 @@
 | ITEAD                  | https://itead.cc/                      | 🇨🇳 Chine       | 🇨🇳 Chinois (entreprise privée)                    | 🇨🇳 Chine                                               | 2026-08-03   |
 | Lumi United            | https://www.lumiunited.com/            | 🇨🇳 Chine       | 🇨🇳 Chinois (entreprise privée)                    | 🇨🇳 Chine                                               | 2026-08-03   |
 | SONGMICS               | https://www.songmics.com/              | 🇨🇳 Chine       | 🇨🇳 Chinois (groupe [Ziel Home](#ziel-home))       | 🇨🇳 Principalement Chine                                | 2026-08-03   |
+| Sonoff                 | https://sonoff.tech/                   | 🇨🇳 Chine       | 🇨🇳 Chinois ([ITEAD](#itead))                      | 🇨🇳 Chine                                               | 2026-08-03   |
 | Ziel Home              | https://www.songmicshomegroup.com/     | 🇨🇳 Chine       | 🇨🇳 Chinois (société cotée)                        | 🇨🇳 Principalement Chine (fabricants partenaires)       | 2026-08-03   |
 
 ## Danemark 🇩🇰
