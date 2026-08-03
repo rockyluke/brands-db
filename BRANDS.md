@@ -155,6 +155,7 @@
 
 | Brand             | Website                       | Headquarters | Ownership                                  | Manufacturing             | Last checked |
 | ----------------- | ----------------------------- | ------------ | ------------------------------------------ | ------------------------- | ------------ |
+| Proton            | https://proton.me/            | 🇨🇭 Suisse    | 🇨🇭 Suisse (groupe [Proton Foundation](#proton-foundation)) | 🇨🇭 Infrastructure principale en Suisse | 2026-08-03   |
 | Proton Foundation | https://proton.me/foundation/ | 🇨🇭 Suisse    | 🇨🇭 Suisse (fondation sans actionnaires)    | — Sans objet (fondation)  | 2026-08-03   |
 
 ## Taïwan 🇹🇼
