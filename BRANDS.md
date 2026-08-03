@@ -11,12 +11,6 @@
 | Lidl          | https://info.lidl/         | 🇩🇪 Allemagne | 🇩🇪 Allemand ([Schwarz Group](#schwarz-group)) | 🌍 Variable; production partielle par le groupe   | 2026-08-03   |
 | Schwarz Group | https://gruppe.schwarz/en/ | 🇩🇪 Allemagne | 🇩🇪 Allemand (groupe privé)                    | 🇩🇪 Allemagne et 🇬🇧 Royaume-Uni, plus fournisseurs | 2026-08-03   |
 
-## Autriche 🇦🇹
-
-| Brand   | Website                  | Headquarters | Ownership                               | Manufacturing                          | Last checked |
-| ------- | ------------------------ | ------------ | --------------------------------------- | -------------------------------------- | ------------ |
-| Proxmox | https://www.proxmox.com/ | 🇦🇹 Autriche  | 🇦🇹 Autrichien (entreprise indépendante) | 🇦🇹 Développement en Autriche et Europe | 2026-08-03   |
-
 ## Bulgarie 🇧🇬
 
 | Brand        | Website                       | Headquarters | Ownership                                                                                                     | Manufacturing                             | Last checked |
@@ -54,11 +48,8 @@
 | Brand                  | Website                                | Headquarters  | Ownership                                                                                    | Manufacturing                     | Last checked |
 | ---------------------- | -------------------------------------- | ------------- | -------------------------------------------------------------------------------------------- | --------------------------------- | ------------ |
 | Apple                  | https://www.apple.com/                 | 🇺🇸 États-Unis | 🇺🇸 Américain (société cotée au [Nasdaq](https://www.nasdaq.com/market-activity/stocks/aapl)) | 🌍 Réseau mondial de fournisseurs | 2026-08-03   |
-| Dashlane               | https://www.dashlane.com/              | 🇺🇸 États-Unis | 🇺🇸 Américain (entreprise privée)                                                             | 💻 Service logiciel               | 2026-08-03   |
 | Kenvue                 | https://www.kenvue.com/                | 🇺🇸 États-Unis | 🇺🇸 Américain (société cotée au [NYSE](https://www.nyse.com/quote/XNYS:KVUE))                 | 🌍 27 sites de fabrication        | 2026-08-03   |
 | Nabu Casa              | https://www.nabucasa.com/              | 🇺🇸 États-Unis | 🇺🇸 Américain (entreprise privée)                                                             | ❓ Non documentée publiquement    | 2026-08-03   |
-| Salesforce             | https://www.salesforce.com/            | 🇺🇸 États-Unis | 🇺🇸 Américain (société cotée au [NYSE](https://investor.salesforce.com/stock-info/))          | 💻 Service logiciel               | 2026-08-03   |
-| Slack                  | https://slack.com/                     | 🇺🇸 États-Unis | 🇺🇸 Américain (groupe [Salesforce](#salesforce))                                               | 💻 Service logiciel               | 2026-08-03   |
 | Sonos                  | https://www.sonos.com/                 | 🇺🇸 États-Unis | 🇺🇸 Américain (société cotée au [Nasdaq](https://www.nasdaq.com/market-activity/stocks/sono)) | 🌏 Fabricants partenaires en Asie | 2026-08-03   |
 | Stanley Black & Decker | https://www.stanleyblackanddecker.com/ | 🇺🇸 États-Unis | 🇺🇸 Américain (société cotée au [NYSE](https://www.nyse.com/quote/XNYS:SWK))                  | 🌍 Réseau industriel mondial      | 2026-08-03   |
 | Tesla                  | https://www.tesla.com/                 | 🇺🇸 États-Unis | 🇺🇸 Américain (société cotée au [Nasdaq](https://www.nasdaq.com/market-activity/stocks/tsla)) | 🌍 États-Unis, Chine et Allemagne | 2026-08-03   |
@@ -151,13 +142,6 @@
 | ASSA ABLOY | https://www.assaabloy.com/      | 🇸🇪 Suède     | 🇸🇪 Suédois (société cotée au [Nasdaq Stockholm](https://www.nasdaq.com/european-market-activity/shares/assa-b)) | 🌍 Réseau industriel mondial           | 2026-08-03   |
 | Husqvarna  | https://www.husqvarnagroup.com/ | 🇸🇪 Suède     | 🇸🇪 Suédois (société cotée au [Nasdaq Stockholm](https://www.nasdaq.com/european-market-activity/shares/husq-b)) | 🌍 30 sites de production dans 13 pays | 2026-08-03   |
 | Yubico     | https://www.yubico.com/         | 🇸🇪 Suède     | 🇸🇪 Suédois (société cotée au [Nasdaq Stockholm](https://www.nasdaq.com/european-market-activity/shares/yubico)) | 🇸🇪 Suède et 🇺🇸 États-Unis              | 2026-08-03   |
-
-## Suisse 🇨🇭
-
-| Brand             | Website                       | Headquarters | Ownership                                                  | Manufacturing                          | Last checked |
-| ----------------- | ----------------------------- | ------------ | ---------------------------------------------------------- | -------------------------------------- | ------------ |
-| Proton            | https://proton.me/            | 🇨🇭 Suisse    | 🇨🇭 Suisse (groupe [Proton Foundation](#proton-foundation)) | 🇨🇭 Infrastructure principale en Suisse | 2026-08-03   |
-| Proton Foundation | https://proton.me/foundation/ | 🇨🇭 Suisse    | 🇨🇭 Suisse (fondation sans actionnaires)                    | — Sans objet (fondation)               | 2026-08-03   |
 
 ## Taïwan 🇹🇼
 
