@@ -72,6 +72,12 @@
 | ---------------------- | -------------------------------------- | -------------- | ------------------------------------------------- | ------------------------------------------------------ | ------------ |
 | Allegion               | https://www.allegion.com/              | 🇮🇪 Irlande     | 🇮🇪 Irlandais (société cotée au NYSE)              | 🌍 Réseau industriel mondial                           | 2026-08-03   |
 
+## Pays-Bas 🇳🇱
+
+| Brand                  | Website                                | Headquarters   | Ownership                                         | Manufacturing                                          | Last checked |
+| ---------------------- | -------------------------------------- | -------------- | ------------------------------------------------- | ------------------------------------------------------ | ------------ |
+| Philips                | https://www.philips.com/               | 🇳🇱 Pays-Bas    | 🇳🇱 Néerlandais (société cotée)                    | 🌍 Réseau industriel mondial                           | 2026-08-03   |
+
 ## Royaume-Uni 🇬🇧
 
 | Brand                  | Website                                | Headquarters   | Ownership                                         | Manufacturing                                          | Last checked |
