@@ -51,6 +51,7 @@
 | Sonos                  | https://www.sonos.com/                 | 🇺🇸 États-Unis | 🇺🇸 Américain (société cotée au [Nasdaq](https://www.nasdaq.com/market-activity/stocks/sono)) | 🌏 Fabricants partenaires en Asie | 2026-08-03   |
 | Stanley Black & Decker | https://www.stanleyblackanddecker.com/ | 🇺🇸 États-Unis | 🇺🇸 Américain (société cotée au [NYSE](https://www.nyse.com/quote/XNYS:SWK))  | 🌍 Réseau industriel mondial | 2026-08-03   |
 | Ubiquiti               | https://www.ui.com/                    | 🇺🇸 États-Unis | 🇺🇸 Américain (société cotée au [NYSE](https://www.nyse.com/quote/XNYS:UI))   | 🌏 Fabricants partenaires en Asie | 2026-08-03   |
+| UniFi                  | https://www.ui.com/                    | 🇺🇸 États-Unis | 🇺🇸 Américain ([Ubiquiti](#ubiquiti))                                           | 🌏 Fabricants partenaires en Asie | 2026-08-03   |
 
 ## Finlande 🇫🇮
 
