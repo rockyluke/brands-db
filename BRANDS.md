@@ -47,6 +47,7 @@
 | Brand                  | Website                                | Headquarters  | Ownership                                                                    | Manufacturing                | Last checked |
 | ---------------------- | -------------------------------------- | ------------- | ---------------------------------------------------------------------------- | ---------------------------- | ------------ |
 | Kenvue                 | https://www.kenvue.com/                | 🇺🇸 États-Unis | 🇺🇸 Américain (société cotée au [NYSE](https://www.nyse.com/quote/XNYS:KVUE)) | 🌍 27 sites de fabrication   | 2026-08-03   |
+| Nabu Casa              | https://www.nabucasa.com/              | 🇺🇸 États-Unis | 🇺🇸 Américain (entreprise privée)                                             | ❓ Non documentée publiquement | 2026-08-03   |
 | Stanley Black & Decker | https://www.stanleyblackanddecker.com/ | 🇺🇸 États-Unis | 🇺🇸 Américain (société cotée au [NYSE](https://www.nyse.com/quote/XNYS:SWK))  | 🌍 Réseau industriel mondial | 2026-08-03   |
 
 ## Finlande 🇫🇮
