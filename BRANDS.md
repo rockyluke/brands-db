@@ -17,6 +17,7 @@
 
 | Brand              | Website                            | Headquarters   | Ownership                                         | Manufacturing                                          | Last checked |
 | ------------------ | ---------------------------------- | -------------- | ------------------------------------------------- | ------------------------------------------------------ | ------------ |
+| ITEAD              | https://itead.cc/                  | 🇨🇳 Chine       | 🇨🇳 Chinois (entreprise privée)                    | 🇨🇳 Chine                                               | 2026-08-03   |
 | SONGMICS           | https://www.songmics.com/          | 🇨🇳 Chine       | 🇨🇳 Chinois (groupe [Ziel Home](#ziel-home))       | 🇨🇳 Principalement Chine                                | 2026-08-03   |
 | Ziel Home          | https://www.songmicshomegroup.com/ | 🇨🇳 Chine       | 🇨🇳 Chinois (société cotée)                        | 🇨🇳 Principalement Chine (fabricants partenaires)       | 2026-08-03   |
 
