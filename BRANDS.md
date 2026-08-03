@@ -110,6 +110,12 @@
 | -------- | ------------------------- | ------------ | ---------------------------------------------------------------------------- | ---------------------------- | ------------ |
 | Allegion | https://www.allegion.com/ | 🇮🇪 Irlande   | 🇮🇪 Irlandais (société cotée au [NYSE](https://www.nyse.com/quote/XNYS:ALLE)) | 🌍 Réseau industriel mondial | 2026-08-03   |
 
+## Italie 🇮🇹
+
+| Brand         | Website                           | Headquarters | Ownership                          | Manufacturing                              | Last checked |
+| ------------- | --------------------------------- | ------------ | ---------------------------------- | ------------------------------------------ | ------------ |
+| Sodalis Group | https://www.sodalisgroup.com/en/  | 🇮🇹 Italie    | 🇮🇹 Italien (groupe familial privé) | 🌍 5 sites de production, dont un en France | 2026-08-03   |
+
 ## Japon 🇯🇵
 
 | Brand  | Website                 | Headquarters | Ownership                                                                                                                            | Manufacturing                                         | Last checked |
