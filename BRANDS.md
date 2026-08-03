@@ -98,6 +98,7 @@
 | ---------------- | --------------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------ |
 | IKEA             | https://www.ikea.com/       | 🇳🇱 Pays-Bas  | 🇳🇱 Néerlandais ([Inter IKEA Group](#inter-ikea-group))                                                                 | 🌍 Fournisseurs dans 54 pays et production propre      | 2026-08-03   |
 | Inter IKEA Group | https://www.inter.ikea.com/ | 🇳🇱 Pays-Bas  | 🇳🇱 Néerlandais (groupe privé)                                                                                          | 🌍 Réseau mondial de fournisseurs et production propre | 2026-08-03   |
+| Maxeda DIY Group | https://www.maxedadiygroup.com/ | 🇳🇱 Pays-Bas | 🇳🇱 Néerlandais (groupe privé)                                                                                          | 🌍 Distributeur; fabricants partenaires                | 2026-08-03   |
 | Philips          | https://www.philips.com/    | 🇳🇱 Pays-Bas  | 🇳🇱 Néerlandais (société cotée à [Euronext Amsterdam](https://live.euronext.com/en/product/equities/NL0000009538-XAMS)) | 🌍 Réseau industriel mondial                           | 2026-08-03   |
 
 ## Royaume-Uni 🇬🇧
