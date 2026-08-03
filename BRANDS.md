@@ -17,6 +17,7 @@
 
 | Brand                  | Website                                | Headquarters   | Ownership                                         | Manufacturing                                          | Last checked |
 | ---------------------- | -------------------------------------- | -------------- | ------------------------------------------------- | ------------------------------------------------------ | ------------ |
+| Aqara                  | https://www.aqara.com/                 | 🇨🇳 Chine       | 🇨🇳 Chinois ([Lumi United](#lumi-united))          | 🇨🇳 Chine                                               | 2026-08-03   |
 | ITEAD                  | https://itead.cc/                      | 🇨🇳 Chine       | 🇨🇳 Chinois (entreprise privée)                    | 🇨🇳 Chine                                               | 2026-08-03   |
 | Lumi United            | https://www.lumiunited.com/            | 🇨🇳 Chine       | 🇨🇳 Chinois (entreprise privée)                    | 🇨🇳 Chine                                               | 2026-08-03   |
 | SONGMICS               | https://www.songmics.com/              | 🇨🇳 Chine       | 🇨🇳 Chinois (groupe [Ziel Home](#ziel-home))       | 🇨🇳 Principalement Chine                                | 2026-08-03   |
