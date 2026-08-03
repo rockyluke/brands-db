@@ -141,7 +141,9 @@ function countryName(value) {
 
 async function init() {
   try {
-    const response = await fetch("https://raw.githubusercontent.com/rockyluke/brands-db/main/BRANDS.md", { cache: "no-cache" });
+    const sourceUrl = new URL("https://raw.githubusercontent.com/rockyluke/brands-db/main/BRANDS.md");
+    sourceUrl.searchParams.set("v", Date.now().toString());
+    const response = await fetch(sourceUrl, { cache: "no-store" });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     state.brands = parseBrands(await response.text());
     elements.brandCount.textContent = state.brands.length;
