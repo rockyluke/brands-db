@@ -60,6 +60,7 @@
 | JJA                    | https://www.groupe-jja.com/            | 🇫🇷 France      | 🇫🇷 Français                                       | 🌍 Principalement Asie, selon les produits             | 2026-08-03   |
 | Moulinex               | https://www.moulinex.fr/               | 🇫🇷 France      | 🇫🇷 Français ([Groupe SEB](#groupe-seb))           | 🌍 France, Europe et Asie selon les produits           | 2026-08-03   |
 | Schneider Electric     | https://www.se.com/                    | 🇫🇷 France      | 🇫🇷 Français (société cotée)                       | 🌍 Monde, dont 25 sites de production en France        | 2026-08-03   |
+| Somfy                  | https://www.somfy.fr/                  | 🇫🇷 France      | 🇫🇷 Français (famille Despature)                   | 🌍 France, Italie, Tunisie, Pologne et Chine           | 2026-08-03   |
 | Sundis                 | https://www.sundis.com/                | 🇫🇷 France      | 🇫🇷 Français                                       | 🇫🇷 France                                              | 2026-08-03   |
 | SVR                    | https://fr.svr.com/                    | 🇫🇷 France      | 🇫🇷 Français                                       | 🇫🇷 France                                              | 2026-08-03   |
 | Vachette               | https://www.vachette.fr/               | 🇫🇷 France      | 🇸🇪 Suédois (groupe [ASSA ABLOY](#assa-abloy))     | 🇫🇷 France (3 sites de production)                      | 2026-08-03   |
