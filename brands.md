@@ -15,6 +15,7 @@
 | JJA           | https://www.groupe-jja.com/        | 🇫🇷 France      | 🇫🇷 Français                                   | 🌍 Principalement Asie, selon les produits             |
 | Kingfisher    | https://www.kingfisher.com/        | 🇬🇧 Royaume-Uni | 🇬🇧 Britannique (société cotée)                | 🌍 Variable selon les enseignes et les produits        |
 | Moulinex      | https://www.moulinex.fr/           | 🇫🇷 France      | 🇫🇷 Français ([Groupe SEB](#groupe-seb))       | 🌍 France, Europe et Asie selon les produits           |
+| Shelly        | https://www.shelly.com/             | 🇧🇬 Bulgarie    | 🇧🇬 Bulgare (groupe [Shelly Group](#shelly-group)) | 🇨🇳 Chine (fabricant partenaire principal)          |
 | Shelly Group  | https://corporate.shelly.com/       | 🇧🇬 Bulgarie    | 🇧🇬 Bulgare (société cotée)                    | 🇨🇳 Chine (fabricant partenaire principal)             |
 | SONGMICS      | https://www.songmics.com/          | 🇨🇳 Chine       | 🇨🇳 Chinois (groupe [Ziel Home](#ziel-home))   | 🇨🇳 Principalement Chine                                |
 | Sundis        | https://www.sundis.com/            | 🇫🇷 France      | 🇫🇷 Français                                   | 🇫🇷 France                                              |
