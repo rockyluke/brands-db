@@ -100,6 +100,7 @@
 | Inter IKEA Group | https://www.inter.ikea.com/ | 🇳🇱 Pays-Bas  | 🇳🇱 Néerlandais (groupe privé)                                                                                          | 🌍 Réseau mondial de fournisseurs et production propre | 2026-08-03   |
 | Maxeda DIY Group | https://www.maxedadiygroup.com/ | 🇳🇱 Pays-Bas | 🇳🇱 Néerlandais (groupe privé)                                                                                          | 🌍 Distributeur; fabricants partenaires                | 2026-08-03   |
 | Philips          | https://www.philips.com/    | 🇳🇱 Pays-Bas  | 🇳🇱 Néerlandais (société cotée à [Euronext Amsterdam](https://live.euronext.com/en/product/equities/NL0000009538-XAMS)) | 🌍 Réseau industriel mondial                           | 2026-08-03   |
+| Sencys           | https://www.maxedadiygroup.com/our-brands/sencys/ | 🇳🇱 Pays-Bas | 🇳🇱 Néerlandais ([Maxeda DIY Group](#maxeda-diy-group)) | 🌍 Fabricants partenaires selon les produits | 2026-08-03   |
 
 ## Royaume-Uni 🇬🇧
 
