@@ -97,6 +97,12 @@
 | -------- | ------------------------- | ------------ | ---------------------------------------------------------------------------- | ---------------------------- | ------------ |
 | Allegion | https://www.allegion.com/ | 🇮🇪 Irlande   | 🇮🇪 Irlandais (société cotée au [NYSE](https://www.nyse.com/quote/XNYS:ALLE)) | 🌍 Réseau industriel mondial | 2026-08-03   |
 
+## Japon 🇯🇵
+
+| Brand  | Website                 | Headquarters | Ownership                                                                                   | Manufacturing                                   | Last checked |
+| ------ | ----------------------- | ------------ | ------------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------ |
+| Daikin | https://www.daikin.com/ | 🇯🇵 Japon     | 🇯🇵 Japonais (société cotée à la [Bourse de Tokyo](https://www.jpx.co.jp/english/corporate/news/news-releases/2041/20250828-01.html)) | 🌍 8 filiales industrielles au Japon et 58 hors Japon | 2026-08-03   |
+
 ## Pays-Bas 🇳🇱
 
 | Brand            | Website                     | Headquarters | Ownership                                                                                                              | Manufacturing                                          | Last checked |
