@@ -26,6 +26,7 @@
 
 | Brand                  | Website                                | Headquarters   | Ownership                                         | Manufacturing                                          | Last checked |
 | ---------------------- | -------------------------------------- | -------------- | ------------------------------------------------- | ------------------------------------------------------ | ------------ |
+| Frient                 | https://www.frient.com/                | 🇩🇰 Danemark    | 🇩🇰 Danois ([Onics](#onics))                       | 🌏 Asie, notamment Thaïlande, selon les produits       | 2026-08-03   |
 | Onics                  | https://www.onics.com/                 | 🇩🇰 Danemark    | 🇩🇰 Danois (entreprise privée)                     | 🌏 Asie, notamment Thaïlande, selon les produits       | 2026-08-03   |
 
 ## Espagne 🇪🇸
