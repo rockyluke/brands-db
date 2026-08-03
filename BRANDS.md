@@ -53,6 +53,7 @@
 
 | Brand                  | Website                                | Headquarters  | Ownership                                                                                    | Manufacturing                     | Last checked |
 | ---------------------- | -------------------------------------- | ------------- | -------------------------------------------------------------------------------------------- | --------------------------------- | ------------ |
+| Apple                  | https://www.apple.com/                 | 🇺🇸 États-Unis | 🇺🇸 Américain (société cotée au [Nasdaq](https://www.nasdaq.com/market-activity/stocks/aapl)) | 🌍 Réseau mondial de fournisseurs | 2026-08-03   |
 | Kenvue                 | https://www.kenvue.com/                | 🇺🇸 États-Unis | 🇺🇸 Américain (société cotée au [NYSE](https://www.nyse.com/quote/XNYS:KVUE))                 | 🌍 27 sites de fabrication        | 2026-08-03   |
 | Nabu Casa              | https://www.nabucasa.com/              | 🇺🇸 États-Unis | 🇺🇸 Américain (entreprise privée)                                                             | ❓ Non documentée publiquement    | 2026-08-03   |
 | Sonos                  | https://www.sonos.com/                 | 🇺🇸 États-Unis | 🇺🇸 Américain (société cotée au [Nasdaq](https://www.nasdaq.com/market-activity/stocks/sono)) | 🌏 Fabricants partenaires en Asie | 2026-08-03   |
