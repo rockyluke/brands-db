@@ -11,6 +11,7 @@
 | Brand         | Website                    | Headquarters | Ownership                                     | Manufacturing                                     | Last checked |
 | ------------- | -------------------------- | ------------ | --------------------------------------------- | ------------------------------------------------- | ------------ |
 | Bosch         | https://www.bosch.com/     | 🇩🇪 Allemagne | 🇩🇪 Allemand (fondation Bosch et famille)      | 🌍 Réseau industriel mondial                      | 2026-08-03   |
+| Decobus       | https://www.decobusgroup.de/ | 🇩🇪 Allemagne | 🇺🇸 Américain ([GigaCloud Technology](#gigacloud-technology)) | 🌍 Fabricants partenaires selon les produits | 2026-08-05   |
 | Gardena       | https://www.gardena.com/   | 🇩🇪 Allemagne | 🇸🇪 Suédois (groupe [Husqvarna](#husqvarna))   | 🌍 Allemagne, Europe et Asie selon les produits   | 2026-08-03   |
 | JOKARI        | https://jokari.de/         | 🇩🇪 Allemagne | 🇩🇪 Allemand (entreprise familiale)            | 🇩🇪 Allemagne                                      | 2026-08-03   |
 | Kärcher       | https://www.kaercher.com/  | 🇩🇪 Allemagne | 🇩🇪 Allemand (entreprise familiale)            | 🌍 Production en Europe, Amériques et Chine       | 2026-08-03   |
