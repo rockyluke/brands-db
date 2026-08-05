@@ -1,5 +1,11 @@
 # BRANDS
 
+## Autriche 🇦🇹
+
+| Brand      | Website              | Headquarters | Ownership                            | Manufacturing                              | Last checked |
+| ---------- | -------------------- | ------------ | ------------------------------------ | ------------------------------------------ | ------------ |
+| HEAD Group | https://www.head.com/ | 🇦🇹 Autriche  | 🇦🇹 Autrichien (groupe privé)         | 🌍 Réseau industriel mondial               | 2026-08-05   |
+
 ## Allemagne 🇩🇪
 
 | Brand         | Website                    | Headquarters | Ownership                                     | Manufacturing                                     | Last checked |
