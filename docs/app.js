@@ -1,5 +1,6 @@
 const state = {
   brands: [],
+  logos: {},
   query: "",
   country: "all",
 };
@@ -93,6 +94,16 @@ function createCard(brand, index) {
   card.id = normalize(brand.name).replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
   card.style.animationDelay = `${Math.min(index, 12) * 35}ms`;
   fragment.querySelector("h3").textContent = brand.name;
+  const logo = state.logos[brand.name];
+  if (logo) {
+    const logoLink = fragment.querySelector(".brand-logo");
+    const logoImage = logoLink.querySelector("img");
+    logoLink.hidden = false;
+    logoLink.href = logo.source;
+    logoLink.title = `Logo de ${brand.name} — source Wikimedia Commons`;
+    logoImage.src = `assets/logos/${logo.file}`;
+    logoImage.alt = `Logo ${brand.name}`;
+  }
   fragment.querySelector(".country").textContent = brand.headquarters;
   fragment.querySelector(".checked").textContent = brand.checked;
   fragment.querySelector(".checked").dateTime = brand.checked;
@@ -146,6 +157,8 @@ async function init() {
     const response = await fetch(sourceUrl, { cache: "no-store" });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     state.brands = parseBrands(await response.text());
+    const logoResponse = await fetch("assets/logos/logos.json", { cache: "no-store" });
+    if (logoResponse.ok) state.logos = await logoResponse.json();
     elements.brandCount.textContent = state.brands.length;
     const latest = state.brands.map(({ checked }) => checked).sort().at(-1);
     elements.lastChecked.textContent = formatDate(latest);

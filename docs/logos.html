@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Crédits des logos — Brands</title>
+    <link rel="stylesheet" href="styles.css" />
+    <style>
+      .credits { padding: 70px 0 100px; }
+      .credits h1 { white-space: normal; font-size: clamp(2.8rem, 7vw, 5.5rem); }
+      .credits-list { display: grid; gap: 12px; margin-top: 48px; padding: 0; list-style: none; }
+      .credits-list li { padding: 18px 0; border-top: 1px solid var(--line); line-height: 1.6; }
+      .credits-list strong { display: block; }
+      .credits-list span { color: var(--muted); }
+    </style>
+  </head>
+  <body>
+    <header class="site-header"><a class="wordmark" href="./">← Brands</a></header>
+    <main class="credits">
+      <p class="eyebrow">Wikimedia Commons</p>
+      <h1>Crédits des logos</h1>
+      <p class="intro">Seuls les logos disponibles sur Wikimedia Commons sont affichés. Chaque fichier est conservé localement avec sa source et sa licence.</p>
+      <ul class="credits-list" id="credits"></ul>
+    </main>
+    <script>
+      fetch("assets/logos/logos.json").then((response) => response.json()).then((logos) => {
+        const list = document.querySelector("#credits");
+        Object.entries(logos).sort(([a], [b]) => a.localeCompare(b, "fr")).forEach(([brand, logo]) => {
+          const item = document.createElement("li");
+          const title = document.createElement("strong");
+          const details = document.createElement("span");
+          const source = document.createElement("a");
+          title.textContent = brand;
+          details.textContent = `${logo.license}${logo.artist ? ` — ${logo.artist}` : ""} — `;
+          source.href = logo.source;
+          source.target = "_blank";
+          source.rel = "noreferrer";
+          source.textContent = logo.commons_title;
+          details.append(source);
+          item.append(title, details);
+          list.append(item);
+        });
+      });
+    </script>
+  </body>
+</html>

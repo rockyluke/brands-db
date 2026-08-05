@@ -267,7 +267,18 @@ h2 { margin: 0; font-family: Georgia, serif; font-size: clamp(2.4rem, 5vw, 4.3re
 .card-topline { display: flex; justify-content: space-between; gap: 12px; color: var(--muted); font-size: 0.72rem; }
 .country { font-weight: 750; }
 .checked { font-variant-numeric: tabular-nums; }
-.brand-card h3 { margin: 29px 0 26px; font-family: Georgia, serif; font-size: 2rem; font-weight: 400; line-height: 1.05; letter-spacing: -0.045em; }
+.brand-logo {
+  display: flex;
+  align-items: center;
+  width: fit-content;
+  height: 52px;
+  max-width: 170px;
+  margin-top: 25px;
+}
+.brand-logo[hidden] { display: none; }
+.brand-logo img { display: block; width: auto; height: auto; max-width: 100%; max-height: 52px; object-fit: contain; }
+.brand-card h3 { margin: 25px 0 26px; font-family: Georgia, serif; font-size: 2rem; font-weight: 400; line-height: 1.05; letter-spacing: -0.045em; }
+.brand-logo[hidden] + h3 { margin-top: 29px; }
 .brand-card dl { display: grid; gap: 16px; margin: 0 0 25px; }
 .brand-card dl div { display: grid; grid-template-columns: 82px 1fr; gap: 10px; }
 .brand-card dt { color: var(--muted); font-size: 0.7rem; font-weight: 800; letter-spacing: 0.08em; text-transform: uppercase; }

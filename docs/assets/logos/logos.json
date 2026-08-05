@@ -1,0 +1,219 @@
+{
+  "Bosch": {
+    "file": "bosch.svg",
+    "commons_title": "File:Bosch-logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Bosch-logo.svg",
+    "license": "Public domain",
+    "artist": "Robert BOSCH GmbH"
+  },
+  "Gardena": {
+    "file": "gardena.svg",
+    "commons_title": "File:Gardena Logo 2026.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Gardena_Logo_2026.svg",
+    "license": "Public domain",
+    "artist": "Gardena Deutschland GmbH"
+  },
+  "Kärcher": {
+    "file": "karcher.svg",
+    "commons_title": "File:KÄRCHER logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:K%C3%84RCHER_logo.svg",
+    "license": "Public domain",
+    "artist": "Kärcher"
+  },
+  "Lidl": {
+    "file": "lidl.svg",
+    "commons_title": "File:Lidl logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lidl_logo.svg",
+    "license": "CC0",
+    "artist": "Wyatt123456Fan"
+  },
+  "Fluidra": {
+    "file": "fluidra.svg",
+    "commons_title": "File:Fluidra logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Fluidra_logo.svg",
+    "license": "Public domain",
+    "artist": "Fluidra"
+  },
+  "Apple": {
+    "file": "apple.svg",
+    "commons_title": "File:Apple logo black.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Apple_logo_black.svg",
+    "license": "Public domain",
+    "artist": "Original:  Rob Janoff"
+  },
+  "Hasbro": {
+    "file": "hasbro.svg",
+    "commons_title": "File:Hasbro logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hasbro_logo.svg",
+    "license": "Public domain",
+    "artist": "Hasbro"
+  },
+  "Kenvue": {
+    "file": "kenvue.svg",
+    "commons_title": "File:Kenvue logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Kenvue_logo.svg",
+    "license": "Public domain",
+    "artist": "Kenvue"
+  },
+  "Stanley Black & Decker": {
+    "file": "stanley-black-decker.svg",
+    "commons_title": "File:Stanley Black & Decker Logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Stanley_Black_%26_Decker_Logo.svg",
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author"
+  },
+  "Ubiquiti": {
+    "file": "ubiquiti.svg",
+    "commons_title": "File:Ubiquiti Logo 2023.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ubiquiti_Logo_2023.svg",
+    "license": "Public domain",
+    "artist": "Ubiquiti Inc."
+  },
+  "Fiskars": {
+    "file": "fiskars.svg",
+    "commons_title": "File:Fiskars logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Fiskars_logo.svg",
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author"
+  },
+  "ADEO": {
+    "file": "adeo.svg",
+    "commons_title": "File:Logo Adeo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_Adeo.svg",
+    "license": "Public domain",
+    "artist": "ADEO"
+  },
+  "BIC": {
+    "file": "bic.svg",
+    "commons_title": "File:Bic logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Bic_logo.svg",
+    "license": "Public domain",
+    "artist": "Société Bic"
+  },
+  "Boulanger": {
+    "file": "boulanger.svg",
+    "commons_title": "File:Boulanger logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Boulanger_logo.svg",
+    "license": "Public domain",
+    "artist": "BOULANGER SA"
+  },
+  "Aqualung": {
+    "file": "aqualung.svg",
+    "commons_title": "File:Aqualung logo (drop).svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Aqualung_logo_(drop).svg",
+    "license": "Public domain",
+    "artist": "Maja Kocon"
+  },
+  "Decathlon": {
+    "file": "decathlon.svg",
+    "commons_title": "File:Decathlon.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Decathlon.svg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Sixula"
+  },
+  "Facom": {
+    "file": "facom.svg",
+    "commons_title": "File:FACOM logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:FACOM_logo.svg",
+    "license": "Public domain",
+    "artist": "Darklanlan"
+  },
+  "Le Petit Marseillais": {
+    "file": "le-petit-marseillais.svg",
+    "commons_title": "File:Le Petit Marseillais logotype.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Le_Petit_Marseillais_logotype.svg",
+    "license": "Public domain",
+    "artist": "Johnson & Johnson Santé Beauté France"
+  },
+  "Moulinex": {
+    "file": "moulinex.svg",
+    "commons_title": "File:Moulinex Logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Moulinex_Logo.svg",
+    "license": "Public domain",
+    "artist": "Moulinex"
+  },
+  "Norauto": {
+    "file": "norauto.svg",
+    "commons_title": "File:NORAUTO Logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:NORAUTO_Logo.svg",
+    "license": "Public domain",
+    "artist": "Norauto - upload: Giov.c"
+  },
+  "Oxford": {
+    "file": "oxford.svg",
+    "commons_title": "File:Oxford logo Standalone Twilight.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Oxford_logo_Standalone_Twilight.svg",
+    "license": "CC BY-SA 4.0",
+    "artist": "JOstapchuk"
+  },
+  "Schneider Electric": {
+    "file": "schneider-electric.svg",
+    "commons_title": "File:SchneiderElectric Logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:SchneiderElectric_Logo.svg",
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author"
+  },
+  "Somfy": {
+    "file": "somfy.svg",
+    "commons_title": "File:Somfy logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Somfy_logo.svg",
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author"
+  },
+  "Mares": {
+    "file": "mares.svg",
+    "commons_title": "File:Mares logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Mares_logo.svg",
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author"
+  },
+  "Daikin": {
+    "file": "daikin.svg",
+    "commons_title": "File:DAIKIN logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:DAIKIN_logo.svg",
+    "license": "Public domain",
+    "artist": "Daikin Industries"
+  },
+  "IKEA": {
+    "file": "ikea.svg",
+    "commons_title": "File:Ikea logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ikea_logo.svg",
+    "license": "Public domain",
+    "artist": "IKEA International Group"
+  },
+  "Philips": {
+    "file": "philips.svg",
+    "commons_title": "File:Philips logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Philips_logo.svg",
+    "license": "Public domain",
+    "artist": ""
+  },
+  "ASSA ABLOY": {
+    "file": "assa-abloy.svg",
+    "commons_title": "File:Assa Abloy.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Assa_Abloy.svg",
+    "license": "Public domain",
+    "artist": "Vector version: Stoffe at brandsoftheworld.com\n\nOriginal: Assa Abloy"
+  },
+  "Husqvarna": {
+    "file": "husqvarna.svg",
+    "commons_title": "File:Husqvarna logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Husqvarna_logo.svg",
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author"
+  },
+  "Yubico": {
+    "file": "yubico.svg",
+    "commons_title": "File:Yubico logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Yubico_logo.svg",
+    "license": "Public domain",
+    "artist": "™/®Yubico Inc."
+  },
+  "Synology": {
+    "file": "synology.svg",
+    "commons_title": "File:Synology Logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Synology_Logo.svg",
+    "license": "Public domain",
+    "artist": "Synology"
+  }
+}
