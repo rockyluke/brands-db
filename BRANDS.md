@@ -133,6 +133,7 @@
 
 | Brand         | Website                           | Headquarters | Ownership                          | Manufacturing                              | Last checked |
 | ------------- | --------------------------------- | ------------ | ---------------------------------- | ------------------------------------------ | ------------ |
+| Mares         | https://www.mares.com/            | 🇮🇹 Italie    | 🇦🇹 Autrichien ([HEAD Group](#head-group)) | 🌍 Italie et autres sites selon les produits | 2026-08-05   |
 | Sodalis Group | https://www.sodalisgroup.com/en/  | 🇮🇹 Italie    | 🇮🇹 Italien (groupe familial privé) | 🌍 5 sites de production, dont un en France | 2026-08-03   |
 
 ## Japon 🇯🇵
