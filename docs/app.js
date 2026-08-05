@@ -57,7 +57,7 @@ function renderMarkdownLinks(element, markdown) {
     if (href.startsWith("https://") || href.startsWith("http://") || href.startsWith("#")) {
       const link = document.createElement("a");
       link.textContent = match[1];
-      link.href = href;
+      link.href = href.startsWith("#") ? `#${brandId(href.slice(1))}` : href;
       if (!href.startsWith("#")) {
         link.target = "_blank";
         link.rel = "noreferrer";
@@ -77,6 +77,10 @@ function normalize(value) {
   return value.toLocaleLowerCase("fr").normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 }
 
+function brandId(value) {
+  return normalize(value).replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+}
+
 function matches(brand) {
   const query = normalize(state.query);
   const haystack = normalize([brand.name, brand.headquarters, brand.ownership, brand.manufacturing].join(" "));
@@ -91,7 +95,7 @@ function formatDate(value) {
 function createCard(brand, index) {
   const fragment = elements.template.content.cloneNode(true);
   const card = fragment.querySelector(".brand-card");
-  card.id = normalize(brand.name).replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+  card.id = brandId(brand.name);
   card.style.animationDelay = `${Math.min(index, 12) * 35}ms`;
   fragment.querySelector("h3").textContent = brand.name;
   const logo = state.logos[brand.name];
