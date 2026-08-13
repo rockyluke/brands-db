@@ -161,6 +161,7 @@
 | Philips          | https://www.philips.com/                          | 🇳🇱 Pays-Bas  | 🇳🇱 Néerlandais (société cotée à [Euronext Amsterdam](https://live.euronext.com/en/product/equities/NL0000009538-XAMS)) | 🌍 Réseau industriel mondial                            | 2026-08-03   |
 | Sencys           | https://www.maxedadiygroup.com/our-brands/sencys/ | 🇳🇱 Pays-Bas  | 🇳🇱 Néerlandais ([Maxeda DIY Group](#maxeda-diy-group))                                                                 | 🌍 Fabricants partenaires selon les produits            | 2026-08-03   |
 | Smartwares Group | https://www.smartwaresgroup.com/                   | 🇳🇱 Pays-Bas  | 🇳🇱 Néerlandais (entreprise privée)                                                                                       | 🌏 Fabricants partenaires en Asie                       | 2026-08-13   |
+| Tristar          | https://www.tristar.eu/                            | 🇳🇱 Pays-Bas  | 🇳🇱 Néerlandais ([Smartwares Group](#smartwares-group))                                                                   | 🌏 Fabricants partenaires en Asie                       | 2026-08-13   |
 
 ## Pakistan 🇵🇰
 
