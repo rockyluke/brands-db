@@ -215,5 +215,19 @@
     "source": "https://commons.wikimedia.org/wiki/File:Synology_Logo.svg",
     "license": "Public domain",
     "artist": "Synology"
+  },
+  "Merlin Gerin": {
+    "file": "merlin-gerin.svg",
+    "commons_title": "File:Merlin Gerin Logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Merlin_Gerin_Logo.svg",
+    "license": "Public domain",
+    "artist": "Merlin Gerin"
+  },
+  "Stanley": {
+    "file": "stanley.svg",
+    "commons_title": "File:Stanley Hand Tools logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Stanley_Hand_Tools_logo.svg",
+    "license": "Public domain",
+    "artist": "Stanley Hand Tools"
   }
 }
