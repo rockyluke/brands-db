@@ -179,6 +179,7 @@
 
 | Brand      | Website                                                                          | Headquarters   | Ownership                                                                                                             | Manufacturing                                   | Last checked |
 | ---------- | -------------------------------------------------------------------------------- | -------------- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------ |
+| Erbauer    | https://www.kingfisher.com/our-banners-and-brands/own-exclusive-brands/erbauer   | 🇬🇧 Royaume-Uni | 🇬🇧 Britannique ([Kingfisher](#kingfisher))                                                                            | 🇨🇳 Chine et 🇹🇼 Taïwan                           | 2026-08-13   |
 | Kingfisher | https://www.kingfisher.com/                                                      | 🇬🇧 Royaume-Uni | 🇬🇧 Britannique (société cotée à la [Bourse de Londres](https://www.londonstockexchange.com/stock/KGF/kingfisher-plc)) | 🌍 Variable selon les enseignes et les produits  | 2026-08-03   |
 | Magnusson  | https://www.kingfisher.com/our-banners-and-brands/own-exclusive-brands/magnusson | 🇬🇧 Royaume-Uni | 🇬🇧 Britannique ([Kingfisher](#kingfisher))                                                                            | 🇨🇳 Chine                                        | 2026-08-13   |
 
