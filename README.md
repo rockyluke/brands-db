@@ -152,10 +152,11 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 
 ## Italie 🇮🇹
 
-| Brand         | Website                           | Headquarters | Ownership                                 | Manufacturing                               | Last checked |
-| ------------- | --------------------------------- | ------------ | ----------------------------------------- | ------------------------------------------- | ------------ |
-| Mares         | https://www.mares.com/            | 🇮🇹 Italie    | 🇦🇹 Autrichien ([HEAD Group](#head-group)) | 🌍 Italie et autres sites selon les produits | 2026-08-05   |
-| Sodalis Group | https://www.sodalisgroup.com/en/  | 🇮🇹 Italie    | 🇮🇹 Italien (groupe familial privé)        | 🌍 5 sites de production, dont un en France  | 2026-08-03   |
+| Brand         | Website                           | Headquarters | Ownership                                                                                                                                                      | Manufacturing                                              | Last checked |
+| ------------- | --------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ------------ |
+| Dexelance     | https://www.dexelance.com/        | 🇮🇹 Italie    | 🇮🇹 Italien (société cotée à la [Bourse de Milan](https://www.borsaitaliana.it/borsa/azioni/profilo-societa-dettaglio.html?isin=IT0005543480&lang=en&mic=MTAA)) | 🇮🇹 Réseau industriel italien dans le mobilier et le design | 2026-08-14   |
+| Mares         | https://www.mares.com/            | 🇮🇹 Italie    | 🇦🇹 Autrichien ([HEAD Group](#head-group))                                                                                                                      | 🌍 Italie et autres sites selon les produits                | 2026-08-05   |
+| Sodalis Group | https://www.sodalisgroup.com/en/  | 🇮🇹 Italie    | 🇮🇹 Italien (groupe familial privé)                                                                                                                             | 🌍 5 sites de production, dont un en France                 | 2026-08-03   |
 
 ## Japon 🇯🇵
 
