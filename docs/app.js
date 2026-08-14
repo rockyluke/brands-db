@@ -157,7 +157,7 @@ function countryName(value) {
 
 async function init() {
   try {
-    const sourceUrl = new URL("https://raw.githubusercontent.com/rockyluke/brands-db/main/BRANDS.md");
+    const sourceUrl = new URL("https://raw.githubusercontent.com/rockyluke/cette-marque/main/README.md");
     sourceUrl.searchParams.set("v", Date.now().toString());
     const response = await fetch(sourceUrl, { cache: "no-store" });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
@@ -172,7 +172,7 @@ async function init() {
     render();
   } catch (error) {
     elements.grid.setAttribute("aria-busy", "false");
-    elements.grid.innerHTML = `<p>La base n’a pas pu être chargée. <a href="https://github.com/rockyluke/brands-db/blob/main/BRANDS.md">Consulter le fichier source</a>.</p>`;
+    elements.grid.innerHTML = `<p>La base n’a pas pu être chargée. <a href="https://github.com/rockyluke/cette-marque/blob/main/README.md">Consulter le fichier source</a>.</p>`;
     console.error(error);
   }
 }

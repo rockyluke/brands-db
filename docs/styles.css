@@ -131,7 +131,7 @@ h1 {
 h1 em { color: var(--accent); font-weight: 400; }
 
 .intro {
-  max-width: 580px;
+  max-width: none;
   margin: 42px 0 38px;
   color: var(--muted);
   font-size: clamp(1.05rem, 2vw, 1.28rem);

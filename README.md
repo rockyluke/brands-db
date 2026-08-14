@@ -1,4 +1,6 @@
-# BRANDS
+# CETTE MARQUE ?
+
+Une base ouverte pour retrouver le siège, le capital et les lieux de fabrication des marques, disponible sur [cette-marque.fr](https://cette-marque.fr/).
 
 ## Autriche 🇦🇹
 
