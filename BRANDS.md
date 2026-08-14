@@ -192,6 +192,12 @@
 | Husqvarna  | https://www.husqvarnagroup.com/ | 🇸🇪 Suède     | 🇸🇪 Suédois (société cotée au [Nasdaq Stockholm](https://www.nasdaq.com/european-market-activity/shares/husq-b)) | 🌍 30 sites de production dans 13 pays  | 2026-08-03   |
 | Yubico     | https://www.yubico.com/         | 🇸🇪 Suède     | 🇸🇪 Suédois (société cotée au [Nasdaq Stockholm](https://www.nasdaq.com/european-market-activity/shares/yubico)) | 🇸🇪 Suède et 🇺🇸 États-Unis              | 2026-08-03   |
 
+## Suisse 🇨🇭
+
+| Brand   | Website                  | Headquarters | Ownership                                                                                                                                                                          | Manufacturing                                                         | Last checked |
+| ------- | ------------------------ | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------ |
+| Geberit | https://www.geberit.com/ | 🇨🇭 Suisse    | 🇨🇭 Suisse (société cotée à la [SIX Swiss Exchange](https://www.six-group.com/en/market-data/shares/share-explorer/share-details.CH0030170408CHF4.html))                            | 🌍 26 usines, principalement en Europe, plus États-Unis, Chine et Inde | 2026-08-14   |
+
 ## Taïwan 🇹🇼
 
 | Brand    | Website                   | Headquarters | Ownership                        | Manufacturing                  | Last checked |
