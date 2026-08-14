@@ -175,6 +175,7 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | Sphinx           | https://www.geberit.com/company/group-history/    | 🇳🇱 Pays-Bas  | 🇨🇭 Suisse ([Geberit](#geberit))                                                                                        | Marque remplacée par Geberit en 2020; historiquement 🇳🇱 Pays-Bas puis 🇸🇪 Suède | 2026-08-14   |
 | Smartwares Group | https://www.smartwaresgroup.com/                  | 🇳🇱 Pays-Bas  | 🇳🇱 Néerlandais (entreprise privée)                                                                                     | 🌏 Fabricants partenaires en Asie                                               | 2026-08-13   |
 | Tristar          | https://www.tristar.eu/                           | 🇳🇱 Pays-Bas  | 🇳🇱 Néerlandais ([Smartwares Group](#smartwares-group))                                                                 | 🌏 Fabricants partenaires en Asie                                               | 2026-08-13   |
+| XD Connects      | https://www.xdconnects.com/                       | 🇳🇱 Pays-Bas  | 🇺🇸 Américain ([Platinum Equity](#platinum-equity))                                                                     | 🇷🇴 Personnalisation en Roumanie et sourcing en 🇨🇳 Chine                        | 2026-08-14   |
 
 ## Pakistan 🇵🇰
 
