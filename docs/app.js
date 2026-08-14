@@ -109,7 +109,7 @@ function createCard(brand, index) {
     logoImage.src = `assets/logos/${logo.file}`;
     logoImage.alt = `Logo ${brand.name}`;
   }
-  fragment.querySelector(".country").textContent = brand.headquarters;
+  fragment.querySelector(".headquarters").textContent = brand.headquarters;
   fragment.querySelector(".checked").textContent = brand.checked;
   fragment.querySelector(".checked").dateTime = brand.checked;
   renderMarkdownLinks(fragment.querySelector(".ownership"), brand.ownershipMarkdown);

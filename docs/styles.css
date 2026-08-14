@@ -264,8 +264,7 @@ h2 { margin: 0; font-family: Georgia, serif; font-size: clamp(2.4rem, 5vw, 4.3re
   box-shadow: var(--shadow);
 }
 
-.card-topline { display: flex; justify-content: space-between; gap: 12px; color: var(--muted); font-size: 0.72rem; }
-.country { font-weight: 750; }
+.card-topline { display: flex; justify-content: flex-end; color: var(--muted); font-size: 0.72rem; }
 .checked { font-variant-numeric: tabular-nums; }
 .brand-logo {
   display: flex;
@@ -283,8 +282,8 @@ h2 { margin: 0; font-family: Georgia, serif; font-size: clamp(2.4rem, 5vw, 4.3re
 .brand-card h3 { margin: 25px 0 26px; font-family: Georgia, serif; font-size: 2rem; font-weight: 400; line-height: 1.05; letter-spacing: -0.045em; }
 .brand-logo[hidden] + h3 { margin-top: 29px; }
 .brand-card dl { display: grid; gap: 16px; margin: 0 0 25px; }
-.brand-card dl div { display: grid; grid-template-columns: 82px 1fr; gap: 10px; }
-.brand-card dt { color: var(--muted); font-size: 0.7rem; font-weight: 800; letter-spacing: 0.08em; text-transform: uppercase; }
+.brand-card dl div { display: grid; grid-template-columns: 94px minmax(0, 1fr); align-items: baseline; gap: 10px; }
+.brand-card dt { color: var(--muted); font-size: 0.7rem; font-weight: 800; line-height: 1.45; letter-spacing: 0.08em; text-transform: uppercase; }
 .brand-card dd { margin: 0; font-size: 0.83rem; line-height: 1.45; }
 .brand-card dd a { color: inherit; font-weight: 700; text-decoration-color: var(--accent); text-decoration-thickness: 1px; text-underline-offset: 3px; }
 .brand-card dd a:hover { color: var(--accent); }
