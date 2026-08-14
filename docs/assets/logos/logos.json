@@ -137,7 +137,8 @@
     "commons_title": "File:NORAUTO Logo.svg",
     "source": "https://commons.wikimedia.org/wiki/File:NORAUTO_Logo.svg",
     "license": "Public domain",
-    "artist": "Norauto - upload: Giov.c"
+    "artist": "Norauto - upload: Giov.c",
+    "background": "#0050a4"
   },
   "Oxford": {
     "file": "oxford.svg",

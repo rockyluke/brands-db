@@ -105,6 +105,7 @@ function createCard(brand, index) {
     logoLink.hidden = false;
     logoLink.href = logo.source;
     logoLink.title = `Logo de ${brand.name} — source Wikimedia Commons`;
+    if (logo.background) logoLink.style.background = logo.background;
     logoImage.src = `assets/logos/${logo.file}`;
     logoImage.alt = `Logo ${brand.name}`;
   }
