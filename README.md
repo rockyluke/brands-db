@@ -176,6 +176,7 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | Smartwares Group | https://www.smartwaresgroup.com/                  | 🇳🇱 Pays-Bas  | 🇳🇱 Néerlandais (entreprise privée)                                                                                     | 🌏 Fabricants partenaires en Asie                                               | 2026-08-13   |
 | Tristar          | https://www.tristar.eu/                           | 🇳🇱 Pays-Bas  | 🇳🇱 Néerlandais ([Smartwares Group](#smartwares-group))                                                                 | 🌏 Fabricants partenaires en Asie                                               | 2026-08-13   |
 | XD Connects      | https://www.xdconnects.com/                       | 🇳🇱 Pays-Bas  | 🇺🇸 Américain ([Platinum Equity](#platinum-equity))                                                                     | 🇷🇴 Personnalisation en Roumanie et sourcing en 🇨🇳 Chine                        | 2026-08-14   |
+| XD Design        | https://xd-design.com/                            | 🇳🇱 Pays-Bas  | 🇺🇸 Américain ([XD Connects](#xd-connects))                                                                             | 🌍 Fabricants partenaires certifiés BSCI                                        | 2026-08-14   |
 
 ## Pakistan 🇵🇰
 
