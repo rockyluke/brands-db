@@ -99,17 +99,17 @@
   },
   "Aqualung": {
     "file": "aqualung.svg",
-    "commons_title": "File:Aqualung logo (drop).svg",
-    "source": "https://commons.wikimedia.org/wiki/File:Aqualung_logo_(drop).svg",
+    "commons_title": "File:Aqualung Group Logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Aqualung_Group_Logo.svg",
     "license": "Public domain",
-    "artist": "Maja Kocon"
+    "artist": "Aqualung Group"
   },
   "Decathlon": {
     "file": "decathlon.svg",
-    "commons_title": "File:Decathlon.svg",
-    "source": "https://commons.wikimedia.org/wiki/File:Decathlon.svg",
-    "license": "CC BY-SA 4.0",
-    "artist": "Sixula"
+    "commons_title": "File:Decathlon - logo (France, 2024).svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Decathlon_-_logo_(France,_2024).svg",
+    "license": "Public domain",
+    "artist": "Wolff Olins"
   },
   "Facom": {
     "file": "facom.svg",
@@ -230,5 +230,75 @@
     "source": "https://commons.wikimedia.org/wiki/File:Stanley_Hand_Tools_logo.svg",
     "license": "Public domain",
     "artist": "Stanley Hand Tools"
+  },
+  "HEAD Group": {
+    "file": "head-group.svg",
+    "commons_title": "File:HEAD.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:HEAD.svg",
+    "license": "Public domain",
+    "artist": "HEAD"
+  },
+  "CAMIF": {
+    "file": "camif.png",
+    "commons_title": "File:Logo camif bleu (2).png",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_camif_bleu_(2).png",
+    "license": "CC BY-SA 4.0",
+    "artist": "CAMIF"
+  },
+  "Sonoff": {
+    "file": "sonoff.png",
+    "commons_title": "File:SONOFF-logo.png",
+    "source": "https://commons.wikimedia.org/wiki/File:SONOFF-logo.png",
+    "license": "CC BY-SA 4.0",
+    "artist": "Vickyitead"
+  },
+  "Sonos": {
+    "file": "sonos.png",
+    "commons_title": "File:Sonos 2015-Logo.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Sonos_2015-Logo.png",
+    "license": "Public domain",
+    "artist": "Sonos, Inc. / Bruce Mau Design"
+  },
+  "Botanic": {
+    "file": "botanic.jpg",
+    "commons_title": "File:BOTANIC LOGO.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:BOTANIC_LOGO.jpg",
+    "license": "CC BY-SA 3.0",
+    "artist": "Botanic74"
+  },
+  "Groupe SEB": {
+    "file": "groupe-seb.svg",
+    "commons_title": "File:Group Seb Logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Group_Seb_Logo.svg",
+    "license": "Public domain",
+    "artist": "Arosio Stefano"
+  },
+  "Jacob Delafon": {
+    "file": "jacob-delafon.jpg",
+    "commons_title": "File:Logo Jacob Delafon.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_Jacob_Delafon.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Metge Dujour"
+  },
+  "Legrand": {
+    "file": "legrand.svg",
+    "commons_title": "File:Logo Legrand SA.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_Legrand_SA.svg",
+    "license": "Public domain",
+    "artist": "Legrand S.A."
+  },
+  "Netatmo": {
+    "file": "netatmo.png",
+    "commons_title": "File:Netatmo logo.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Netatmo_logo.png",
+    "license": "Public domain",
+    "artist": "Netatmo"
+  },
+  "Sphinx": {
+    "file": "sphinx.png",
+    "commons_title": "File:Sphinx-Geberit Group logo.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Sphinx-Geberit_Group_logo.png",
+    "license": "Public domain",
+    "artist": "Sphinx / Geberit Group"
   }
 }
