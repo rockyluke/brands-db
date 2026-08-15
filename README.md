@@ -27,6 +27,7 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | Kärcher       | https://www.kaercher.com/       | 🇩🇪 Allemagne | 🇩🇪 Allemand (entreprise familiale)                                      | 🌍 Production en Europe, Amériques et Chine        | 2026-08-03   |
 | Lidl          | https://info.lidl/              | 🇩🇪 Allemagne | 🇩🇪 Allemand ([Schwarz Group](#schwarz-group))                           | 🌍 Variable; production partielle par le groupe    | 2026-08-03   |
 | Miele         | https://www.miele.com/          | 🇩🇪 Allemagne | 🇩🇪 Allemand (familles Miele et Zinkann)                                 | 🌍 19 sites de production dans le monde            | 2026-08-15   |
+| Rowenta       | https://www.rowenta.fr/         | 🇩🇪 Allemagne | 🇫🇷 Français ([Groupe SEB](#groupe-seb))                                 | 🌍 France, Allemagne et Chine selon les produits   | 2026-08-15   |
 | Schwarz Group | https://gruppe.schwarz/en/      | 🇩🇪 Allemagne | 🇩🇪 Allemand (groupe privé)                                              | 🇩🇪 Allemagne et 🇬🇧 Royaume-Uni, plus fournisseurs | 2026-08-03   |
 
 ## Bulgarie 🇧🇬
