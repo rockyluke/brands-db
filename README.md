@@ -56,10 +56,11 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 
 ## Danemark 🇩🇰
 
-| Brand  | Website                 | Headquarters | Ownership                     | Manufacturing                                    | Last checked |
-| ------ | ----------------------- | ------------ | ----------------------------- | ------------------------------------------------ | ------------ |
-| Frient | https://www.frient.com/ | 🇩🇰 Danemark  | 🇩🇰 Danois ([Onics](#onics))   | 🌏 Asie, notamment Thaïlande, selon les produits  | 2026-08-03   |
-| Onics  | https://www.onics.com/  | 🇩🇰 Danemark  | 🇩🇰 Danois (entreprise privée) | 🌏 Asie, notamment Thaïlande, selon les produits  | 2026-08-03   |
+| Brand           | Website                         | Headquarters | Ownership                                                                                                            | Manufacturing                                    | Last checked |
+| --------------- | ------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ------------ |
+| Carlsberg Group | https://www.carlsberggroup.com/ | 🇩🇰 Danemark  | 🇩🇰 Danois (société cotée au [Nasdaq Copenhagen](https://www.nasdaq.com/european-market-activity/shares/carlsberg-b)) | 🌍 Réseau industriel mondial                      | 2026-08-15   |
+| Frient          | https://www.frient.com/         | 🇩🇰 Danemark  | 🇩🇰 Danois ([Onics](#onics))                                                                                          | 🌏 Asie, notamment Thaïlande, selon les produits  | 2026-08-03   |
+| Onics           | https://www.onics.com/          | 🇩🇰 Danemark  | 🇩🇰 Danois (entreprise privée)                                                                                        | 🌏 Asie, notamment Thaïlande, selon les produits  | 2026-08-03   |
 
 ## Espagne 🇪🇸
 
