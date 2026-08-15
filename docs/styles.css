@@ -100,7 +100,7 @@ footer {
 .hero {
   display: grid;
   justify-items: start;
-  padding: clamp(74px, 11vw, 132px) 0 clamp(78px, 10vw, 120px);
+  padding: clamp(74px, 11vw, 132px) 0 clamp(36px, 5vw, 58px);
 }
 
 .eyebrow {
@@ -201,25 +201,21 @@ kbd {
 .summary i { width: 3px; height: 3px; margin: 0 5px; border-radius: 50%; background: var(--accent); }
 
 .catalog {
-  padding: clamp(58px, 8vw, 92px) 0 110px;
+  padding: clamp(20px, 3vw, 34px) 0 110px;
   border-top: 1px solid var(--line);
 }
 
 .catalog-heading {
   display: flex;
-  align-items: end;
-  justify-content: space-between;
-  gap: 24px;
+  justify-content: flex-end;
 }
 
-.catalog-heading .eyebrow { margin-bottom: 10px; }
-h2 { margin: 0; font-family: Georgia, serif; font-size: clamp(2.4rem, 5vw, 4.3rem); font-weight: 400; letter-spacing: -0.055em; }
-#result-count { margin: 0 0 8px; color: var(--muted); font-size: 0.85rem; }
+#result-count { margin: 0; color: var(--muted); font-size: 0.85rem; }
 
 .filters {
   display: flex;
   gap: 8px;
-  margin: 36px 0 30px;
+  margin: 10px 0 30px;
   padding-bottom: 8px;
   overflow-x: auto;
   scrollbar-width: thin;
@@ -324,7 +320,6 @@ footer a { color: var(--ink); font-weight: 700; text-decoration: none; }
   .search { min-height: 59px; box-shadow: 4px 4px 0 var(--ink); }
   kbd { display: none; }
   .summary { flex-wrap: wrap; }
-  .catalog-heading { align-items: start; flex-direction: column; }
   .brand-grid { grid-template-columns: 1fr; }
   .brand-card { min-height: 290px; }
   footer { flex-direction: column; }
