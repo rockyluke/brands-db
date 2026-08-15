@@ -67,6 +67,7 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | Brand   | Website                  | Headquarters | Ownership                                                                                                                                                              | Manufacturing                  | Last checked |
 | ------- | ------------------------ | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ------------ |
 | Fluidra | https://www.fluidra.com/ | 🇪🇸 Espagne   | 🇪🇸 Espagnol (société cotée à la [Bourse de Madrid](https://www.bolsasymercados.es/bme-exchange/en/Prices-and-Markets/Shares/Main-Market/Details/Fluidra-ES0137650018)) | 🌍 36 usines dans 12 pays       | 2026-08-03   |
+| Deoleo  | https://deoleo.com/      | 🇪🇸 Espagne   | 🇪🇸 Espagnol (groupe privé)                                                                                                                                             | 🇪🇸 Espagne et 🇮🇹 Italie        | 2026-08-15   |
 | Vigar   | https://vigar-shop.com/  | 🇪🇸 Espagne   | 🇪🇸 Espagnol (entreprise familiale)                                                                                                                                     | ❓ Non documentée publiquement  | 2026-08-03   |
 
 ## États-Unis 🇺🇸
