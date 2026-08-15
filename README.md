@@ -16,15 +16,16 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 
 ## Allemagne 🇩🇪
 
-| Brand         | Website                      | Headquarters | Ownership                                                    | Manufacturing                                     | Last checked |
-| ------------- | ---------------------------- | ------------ | ------------------------------------------------------------ | ------------------------------------------------- | ------------ |
-| Bosch         | https://www.bosch.com/       | 🇩🇪 Allemagne | 🇩🇪 Allemand (fondation Bosch et famille)                     | 🌍 Réseau industriel mondial                       | 2026-08-03   |
-| Decobus       | https://www.decobusgroup.de/ | 🇩🇪 Allemagne | 🇺🇸 Américain ([GigaCloud Technology](#gigacloud-technology)) | 🌍 Fabricants partenaires selon les produits       | 2026-08-05   |
-| Gardena       | https://www.gardena.com/     | 🇩🇪 Allemagne | 🇸🇪 Suédois (groupe [Husqvarna](#husqvarna))                  | 🌍 Allemagne, Europe et Asie selon les produits    | 2026-08-03   |
-| JOKARI        | https://jokari.de/           | 🇩🇪 Allemagne | 🇩🇪 Allemand (entreprise familiale)                           | 🇩🇪 Allemagne                                      | 2026-08-03   |
-| Kärcher       | https://www.kaercher.com/    | 🇩🇪 Allemagne | 🇩🇪 Allemand (entreprise familiale)                           | 🌍 Production en Europe, Amériques et Chine        | 2026-08-03   |
-| Lidl          | https://info.lidl/           | 🇩🇪 Allemagne | 🇩🇪 Allemand ([Schwarz Group](#schwarz-group))                | 🌍 Variable; production partielle par le groupe    | 2026-08-03   |
-| Schwarz Group | https://gruppe.schwarz/en/   | 🇩🇪 Allemagne | 🇩🇪 Allemand (groupe privé)                                   | 🇩🇪 Allemagne et 🇬🇧 Royaume-Uni, plus fournisseurs | 2026-08-03   |
+| Brand         | Website                         | Headquarters | Ownership                                                               | Manufacturing                                     | Last checked |
+| ------------- | ------------------------------- | ------------ | ----------------------------------------------------------------------- | ------------------------------------------------- | ------------ |
+| Bosch         | https://www.bosch.com/          | 🇩🇪 Allemagne | 🇩🇪 Allemand (fondation Bosch et famille)                                | 🌍 Réseau industriel mondial                       | 2026-08-03   |
+| Braun         | https://www.braunhousehold.com/ | 🇩🇪 Allemagne | 🇮🇹 Italien ([De'Longhi Group](#delonghi-group), licence électroménager) | 🌍 Europe, Chine et fabricants partenaires         | 2026-08-15   |
+| Decobus       | https://www.decobusgroup.de/    | 🇩🇪 Allemagne | 🇺🇸 Américain ([GigaCloud Technology](#gigacloud-technology))            | 🌍 Fabricants partenaires selon les produits       | 2026-08-05   |
+| Gardena       | https://www.gardena.com/        | 🇩🇪 Allemagne | 🇸🇪 Suédois (groupe [Husqvarna](#husqvarna))                             | 🌍 Allemagne, Europe et Asie selon les produits    | 2026-08-03   |
+| JOKARI        | https://jokari.de/              | 🇩🇪 Allemagne | 🇩🇪 Allemand (entreprise familiale)                                      | 🇩🇪 Allemagne                                      | 2026-08-03   |
+| Kärcher       | https://www.kaercher.com/       | 🇩🇪 Allemagne | 🇩🇪 Allemand (entreprise familiale)                                      | 🌍 Production en Europe, Amériques et Chine        | 2026-08-03   |
+| Lidl          | https://info.lidl/              | 🇩🇪 Allemagne | 🇩🇪 Allemand ([Schwarz Group](#schwarz-group))                           | 🌍 Variable; production partielle par le groupe    | 2026-08-03   |
+| Schwarz Group | https://gruppe.schwarz/en/      | 🇩🇪 Allemagne | 🇩🇪 Allemand (groupe privé)                                              | 🇩🇪 Allemagne et 🇬🇧 Royaume-Uni, plus fournisseurs | 2026-08-03   |
 
 ## Bulgarie 🇧🇬
 
