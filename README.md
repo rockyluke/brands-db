@@ -194,6 +194,12 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | ------ | ----------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------- | ------------ |
 | Daikin | https://www.daikin.com/ | 🇯🇵 Japon     | 🇯🇵 Japonais (société cotée à la [Bourse de Tokyo](https://www.jpx.co.jp/english/corporate/news/news-releases/2041/20250828-01.html)) | 🌍 8 filiales industrielles au Japon et 58 hors Japon  | 2026-08-03   |
 
+## Luxembourg 🇱🇺
+
+| Brand                | Website              | Headquarters  | Ownership                                                                                                                 | Manufacturing                | Last checked |
+| -------------------- | -------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------ |
+| CVC Capital Partners | https://www.cvc.com/ | 🇱🇺 Luxembourg | 🇱🇺 Luxembourgeois (société cotée à [Euronext Amsterdam](https://live.euronext.com/en/product/equities/GG00BR9YYY14-XAMS)) | 🌍 Portefeuille international | 2026-08-15   |
+
 ## Norvège 🇳🇴
 
 | Brand      | Website                     | Headquarters | Ownership                        | Manufacturing          | Last checked |
