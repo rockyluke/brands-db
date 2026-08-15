@@ -10,7 +10,6 @@ const elements = {
   input: document.querySelector("#search-input"),
   grid: document.querySelector("#brand-grid"),
   filters: document.querySelector("#country-filters"),
-  resultCount: document.querySelector("#result-count"),
   brandCount: document.querySelector("#brand-count"),
   lastChecked: document.querySelector("#last-checked"),
   empty: document.querySelector("#empty-state"),
@@ -88,15 +87,24 @@ function brandId(value) {
   return normalize(value).replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 }
 
+function ownedBrands(parent) {
+  const parentAnchor = `#${brandId(parent.name)}`;
+  return state.brands.filter((brand) => {
+    const links = [...brand.ownershipMarkdown.matchAll(/\[[^\]]+\]\((#[^)]+)\)/g)];
+    return links.some(([, href]) => `#${brandId(href.slice(1))}` === parentAnchor);
+  });
+}
+
 function matches(brand) {
   const query = normalize(state.query);
-  const haystack = normalize([brand.name, brand.headquarters, brand.ownership, brand.manufacturing].join(" "));
+  const children = ownedBrands(brand).map(({ name }) => name);
+  const haystack = normalize([brand.name, brand.headquarters, brand.ownership, brand.manufacturing, ...children].join(" "));
   return (!query || haystack.includes(query)) && (state.country === "all" || brand.headquarters === state.country);
 }
 
 function formatDate(value) {
   if (!value) return "—";
-  return new Intl.DateTimeFormat("fr-FR", { day: "numeric", month: "short", year: "numeric" }).format(new Date(`${value}T12:00:00`));
+  return new Intl.DateTimeFormat("fr-FR", { day: "numeric", month: "long", year: "numeric" }).format(new Date(`${value}T12:00:00`));
 }
 
 function createCard(brand, index) {
@@ -121,6 +129,19 @@ function createCard(brand, index) {
   fragment.querySelector(".checked").dateTime = brand.checked;
   renderMarkdownLinks(fragment.querySelector(".ownership"), brand.ownershipMarkdown);
   fragment.querySelector(".manufacturing").textContent = brand.manufacturing;
+  const children = ownedBrands(brand);
+  if (children.length > 1) {
+    const brandsRow = fragment.querySelector(".owned-brands");
+    const brandsList = brandsRow.querySelector("dd");
+    children.forEach((child, childIndex) => {
+      if (childIndex) brandsList.append(document.createTextNode(", "));
+      const link = document.createElement("a");
+      link.href = `#${brandId(child.name)}`;
+      link.textContent = child.name;
+      brandsList.append(link);
+    });
+    brandsRow.hidden = false;
+  }
   fragment.querySelector(".brand-link").href = brand.website;
   return fragment;
 }
@@ -129,7 +150,6 @@ function render() {
   const visible = state.brands.filter(matches);
   elements.grid.replaceChildren(...visible.map(createCard));
   elements.grid.setAttribute("aria-busy", "false");
-  elements.resultCount.textContent = `${visible.length} résultat${visible.length > 1 ? "s" : ""}`;
   elements.empty.hidden = visible.length !== 0;
   elements.grid.hidden = visible.length === 0;
 

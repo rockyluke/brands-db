@@ -198,24 +198,14 @@ kbd {
 }
 
 .summary strong { color: var(--ink); font-size: 1rem; }
-.summary i { width: 3px; height: 3px; margin: 0 5px; border-radius: 50%; background: var(--accent); }
-
 .catalog {
-  padding: clamp(20px, 3vw, 34px) 0 110px;
-  border-top: 1px solid var(--line);
+  padding: 0 0 110px;
 }
-
-.catalog-heading {
-  display: flex;
-  justify-content: flex-end;
-}
-
-#result-count { margin: 0; color: var(--muted); font-size: 0.85rem; }
 
 .filters {
   display: flex;
   gap: 8px;
-  margin: 10px 0 30px;
+  margin: 0 0 30px;
   padding-bottom: 8px;
   overflow-x: auto;
   scrollbar-width: thin;
