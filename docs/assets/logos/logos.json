@@ -300,5 +300,54 @@
     "source": "https://commons.wikimedia.org/wiki/File:Sphinx-Geberit_Group_logo.png",
     "license": "Public domain",
     "artist": "Sphinx / Geberit Group"
+  },
+  "Tefal": {
+    "file": "tefal.webp",
+    "commons_title": "File:Tefal logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Tefal_logo.svg",
+    "license": "Public domain",
+    "artist": "Tefal"
+  },
+  "Krups": {
+    "file": "krups.webp",
+    "commons_title": "File:Krups Logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Krups_Logo.svg",
+    "license": "Public domain",
+    "artist": "Krups"
+  },
+  "Rowenta": {
+    "file": "rowenta.webp",
+    "commons_title": "File:Rowenta logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Rowenta_logo.svg",
+    "license": "Public domain",
+    "artist": "Rowenta"
+  },
+  "BaByliss": {
+    "file": "babyliss.svg",
+    "title": "Site officiel BaByliss",
+    "source": "https://www.babyliss.com/on/demandware.static/Sites-ml-babyliss-Site/-/default/dw5c9ee199/images/BaByliss-logo.svg",
+    "license": "Logo officiel",
+    "artist": "BaByliss"
+  },
+  "Evian": {
+    "file": "evian.webp",
+    "commons_title": "File:Evian 2023 logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Evian_2023_logo.svg",
+    "license": "Public domain",
+    "artist": "Evian"
+  },
+  "Danone": {
+    "file": "danone.png",
+    "commons_title": "File:DANONE LOGO VERTICAL.png",
+    "source": "https://commons.wikimedia.org/wiki/File:DANONE_LOGO_VERTICAL.png",
+    "license": "CC BY-SA 4.0",
+    "artist": "Danone"
+  },
+  "Volvic": {
+    "file": "volvic.png",
+    "commons_title": "File:Volvic brand logo.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Volvic_brand_logo.png",
+    "license": "Public domain",
+    "artist": "Volvic"
   }
 }

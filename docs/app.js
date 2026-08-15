@@ -56,7 +56,14 @@ function renderMarkdownLinks(element, markdown) {
 
     if (href.startsWith("https://") || href.startsWith("http://") || href.startsWith("#")) {
       const link = document.createElement("a");
-      link.textContent = match[1];
+      const boldLabel = match[1].match(/^\*\*(.+)\*\*$/);
+      if (boldLabel) {
+        const strong = document.createElement("strong");
+        strong.textContent = boldLabel[1];
+        link.append(strong);
+      } else {
+        link.textContent = markdownText(match[1]);
+      }
       link.href = href.startsWith("#") ? `#${brandId(href.slice(1))}` : href;
       if (!href.startsWith("#")) {
         link.target = "_blank";
@@ -104,7 +111,7 @@ function createCard(brand, index) {
     const logoImage = logoLink.querySelector("img");
     logoLink.hidden = false;
     logoLink.href = logo.source;
-    logoLink.title = `Logo de ${brand.name} — source Wikimedia Commons`;
+    logoLink.title = `Logo de ${brand.name} — consulter la source`;
     if (logo.background) logoLink.style.background = logo.background;
     logoImage.src = `assets/logos/${logo.file}`;
     logoImage.alt = `Logo ${brand.name}`;

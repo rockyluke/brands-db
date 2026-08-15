@@ -17,9 +17,9 @@
   <body>
     <header class="site-header"><a class="wordmark" href="./">← Cette marque ?</a></header>
     <main class="credits">
-      <p class="eyebrow">Wikimedia Commons</p>
+      <p class="eyebrow">Sources des logos</p>
       <h1>Crédits des logos</h1>
-      <p class="intro">Seuls les logos disponibles sur Wikimedia Commons sont affichés. Chaque fichier est conservé localement avec sa source et sa licence.</p>
+      <p class="intro">Les logos proviennent de Wikimedia Commons ou du site officiel de la marque. Chaque fichier est conservé localement avec sa source et sa licence.</p>
       <ul class="credits-list" id="credits"></ul>
     </main>
     <script>
@@ -35,7 +35,7 @@
           source.href = logo.source;
           source.target = "_blank";
           source.rel = "noreferrer";
-          source.textContent = logo.commons_title;
+          source.textContent = logo.title || logo.commons_title;
           details.append(source);
           item.append(title, details);
           list.append(item);
