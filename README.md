@@ -22,6 +22,7 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | Braun         | https://www.braunhousehold.com/ | 🇩🇪 Allemagne | 🇮🇹 Italien ([De'Longhi Group](#delonghi-group), licence électroménager) | 🌍 Europe, Chine et fabricants partenaires         | 2026-08-15   |
 | Decobus       | https://www.decobusgroup.de/    | 🇩🇪 Allemagne | 🇺🇸 Américain ([GigaCloud Technology](#gigacloud-technology))            | 🌍 Fabricants partenaires selon les produits       | 2026-08-05   |
 | Gardena       | https://www.gardena.com/        | 🇩🇪 Allemagne | 🇸🇪 Suédois (groupe [Husqvarna](#husqvarna))                             | 🌍 Allemagne, Europe et Asie selon les produits    | 2026-08-03   |
+| Krups         | https://www.krups.fr/           | 🇩🇪 Allemagne | 🇫🇷 Français ([Groupe SEB](#groupe-seb))                                 | 🌍 France, Europe et Chine selon les produits      | 2026-08-15   |
 | JOKARI        | https://jokari.de/              | 🇩🇪 Allemagne | 🇩🇪 Allemand (entreprise familiale)                                      | 🇩🇪 Allemagne                                      | 2026-08-03   |
 | Kärcher       | https://www.kaercher.com/       | 🇩🇪 Allemagne | 🇩🇪 Allemand (entreprise familiale)                                      | 🌍 Production en Europe, Amériques et Chine        | 2026-08-03   |
 | Lidl          | https://info.lidl/              | 🇩🇪 Allemagne | 🇩🇪 Allemand ([Schwarz Group](#schwarz-group))                           | 🌍 Variable; production partielle par le groupe    | 2026-08-03   |
