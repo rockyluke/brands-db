@@ -41,10 +41,9 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 
 ## Bulgarie 🇧🇬
 
-| Brand        | Website                       | Headquarters | Ownership                                                                                                     | Manufacturing                             | Last checked |
-| ------------ | ----------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ------------ |
-| Shelly       | https://www.shelly.com/       | 🇧🇬 Bulgarie  | 🇧🇬 Bulgare (groupe [Shelly Group](#shelly-group))                                                             | 🇨🇳 Chine                                  | 2026-08-03   |
-| Shelly Group | https://corporate.shelly.com/ | 🇧🇬 Bulgarie  | 🇧🇬 Bulgare (société cotée à la [Bourse de Francfort](https://www.boerse-frankfurt.de/equity/shelly-group-se)) | 🇨🇳 Chine                                  | 2026-08-03   |
+| Brand        | Website                       | Headquarters | Ownership                                                                                                         | Manufacturing                             | Last checked |
+| ------------ | ----------------------------- | ------------ | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ------------ |
+| Shelly       | https://www.shelly.com/       | 🇧🇬 Bulgarie  | 🇧🇬 Bulgare (société cotée à la [**Bourse de Francfort**](https://www.boerse-frankfurt.de/equity/shelly-group-se)) | 🇨🇳 Chine                                  | 2026-08-15   |
 
 ## Chine 🇨🇳
 
