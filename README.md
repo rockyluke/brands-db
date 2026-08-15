@@ -2,6 +2,12 @@
 
 Une base ouverte pour retrouver le siège, le capital et les lieux de fabrication des marques, disponible sur [cette-marque.fr](https://cette-marque.fr/).
 
+## Algérie 🇩🇿
+
+| Brand   | Website                  | Headquarters | Ownership                                | Manufacturing       | Last checked |
+| ------- | ------------------------ | ------------ | ---------------------------------------- | ------------------- | ------------ |
+| Cevital | https://www.cevital.com/ | 🇩🇿 Algérie   | 🇩🇿 Algérien (groupe familial privé)      | 🌍 Réseau industriel | 2026-08-15   |
+
 ## Autriche 🇦🇹
 
 | Brand      | Website               | Headquarters | Ownership                            | Manufacturing                              | Last checked |
