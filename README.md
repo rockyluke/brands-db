@@ -211,9 +211,10 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 
 ## Luxembourg 🇱🇺
 
-| Brand                | Website              | Headquarters  | Ownership                                                                                                                 | Manufacturing                | Last checked |
-| -------------------- | -------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------ |
-| CVC Capital Partners | https://www.cvc.com/ | 🇱🇺 Luxembourg | 🇱🇺 Luxembourgeois (société cotée à [Euronext Amsterdam](https://live.euronext.com/en/product/equities/GG00BR9YYY14-XAMS)) | 🌍 Portefeuille international | 2026-08-15   |
+| Brand                | Website                    | Headquarters  | Ownership                                                                                                                                                       | Manufacturing                                                              | Last checked |
+| -------------------- | -------------------------- | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------------ |
+| CVC Capital Partners | https://www.cvc.com/       | 🇱🇺 Luxembourg | 🇱🇺 Luxembourgeois (société cotée à [Euronext Amsterdam](https://live.euronext.com/en/product/equities/GG00BR9YYY14-XAMS))                                       | 🌍 Portefeuille international                                               | 2026-08-15   |
+| Samsonite            | https://www.samsonite.com/ | 🇱🇺 Luxembourg | 🇱🇺 Luxembourgeois (société cotée à la [Bourse de Hong Kong](https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1910&sc_lang=en)) | 🌍 Belgique, Hongrie, Inde et fabricants partenaires principalement en Asie | 2026-08-15   |
 
 ## Norvège 🇳🇴
 
