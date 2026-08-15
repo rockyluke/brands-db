@@ -30,6 +30,12 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | Rowenta       | https://www.rowenta.fr/         | 🇩🇪 Allemagne | 🇫🇷 Français ([Groupe SEB](#groupe-seb))                                 | 🌍 France, Allemagne et Chine selon les produits   | 2026-08-15   |
 | Schwarz Group | https://gruppe.schwarz/en/      | 🇩🇪 Allemagne | 🇩🇪 Allemand (groupe privé)                                              | 🇩🇪 Allemagne et 🇬🇧 Royaume-Uni, plus fournisseurs | 2026-08-03   |
 
+## Belgique 🇧🇪
+
+| Brand  | Website                 | Headquarters | Ownership                                                                                                                      | Manufacturing                  | Last checked |
+| ------ | ----------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------ | ------------ |
+| Spadel | https://www.spadel.com/ | 🇧🇪 Belgique  | 🇧🇪 Belge (société cotée à [Euronext Brussels](https://live.euronext.com/en/product/equities/BE0003798155-XBRU))                | 🇧🇪 Belgique et sites régionaux | 2026-08-15   |
+
 ## Bulgarie 🇧🇬
 
 | Brand        | Website                       | Headquarters | Ownership                                                                                                     | Manufacturing                             | Last checked |
