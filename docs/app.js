@@ -130,7 +130,7 @@ function createCard(brand, index) {
   renderMarkdownLinks(fragment.querySelector(".ownership"), brand.ownershipMarkdown);
   fragment.querySelector(".manufacturing").textContent = brand.manufacturing;
   const children = ownedBrands(brand);
-  if (children.length > 1) {
+  if (children.length > 0) {
     const brandsRow = fragment.querySelector(".owned-brands");
     const brandsList = brandsRow.querySelector("dd");
     children.forEach((child, childIndex) => {
