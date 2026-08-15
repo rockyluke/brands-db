@@ -283,3 +283,9 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | Brand | Website               | Headquarters | Ownership                      | Manufacturing                  | Last checked |
 | ----- | --------------------- | ------------ | ------------------------------ | ------------------------------ | ------------ |
 | Immax | https://www.immax.cz/ | 🇨🇿 Tchéquie  | 🇨🇿 Tchèque (entreprise privée) | ❓ Non documentée publiquement  | 2026-08-03   |
+
+## Turquie 🇹🇷
+
+| Brand | Website                           | Headquarters | Ownership                                                                                                                   | Manufacturing                | Last checked |
+| ----- | --------------------------------- | ------------ | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------ |
+| Beko  | https://www.bekocorporate.com/    | 🇹🇷 Turquie   | 🇹🇷 Turc (société cotée à la [Bourse d’Istanbul](https://www.kap.org.tr/en/sirket-bilgileri/ozet/923-arcelik-a-s))           | 🌍 Réseau industriel mondial  | 2026-08-15   |
