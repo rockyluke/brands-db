@@ -93,6 +93,7 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | Tesla                  | https://www.tesla.com/                 | 🇺🇸 États-Unis | 🇺🇸 Américain (société cotée au [Nasdaq](https://www.nasdaq.com/market-activity/stocks/tsla)) | 🌍 États-Unis, Chine et Allemagne    | 2026-08-03   |
 | Ubiquiti               | https://www.ui.com/                    | 🇺🇸 États-Unis | 🇺🇸 Américain (société cotée au [NYSE](https://www.nyse.com/quote/XNYS:UI))                   | 🌏 Fabricants partenaires en Asie    | 2026-08-03   |
 | UniFi                  | https://www.ui.com/                    | 🇺🇸 États-Unis | 🇺🇸 Américain ([Ubiquiti](#ubiquiti))                                                         | 🌏 Fabricants partenaires en Asie    | 2026-08-03   |
+| Whirlpool              | https://www.whirlpoolcorp.com/         | 🇺🇸 États-Unis | 🇺🇸 Américain (société cotée au [NYSE](https://www.nyse.com/quote/XNYS:WHR))                  | 🌍 Amériques, Inde et Europe         | 2026-08-15   |
 
 ## Finlande 🇫🇮
 
