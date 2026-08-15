@@ -229,9 +229,10 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 
 ## Suisse 🇨🇭
 
-| Brand   | Website                  | Headquarters | Ownership                                                                                                                                                                          | Manufacturing                                                         | Last checked |
-| ------- | ------------------------ | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------ |
-| Geberit | https://www.geberit.com/ | 🇨🇭 Suisse    | 🇨🇭 Suisse (société cotée à la [SIX Swiss Exchange](https://www.six-group.com/en/market-data/shares/share-explorer/share-details.CH0030170408CHF4.html))                            | 🌍 26 usines, principalement en Europe, plus États-Unis, Chine et Inde | 2026-08-14   |
+| Brand     | Website                    | Headquarters | Ownership                                                                                                                                                                          | Manufacturing                                                         | Last checked |
+| --------- | -------------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------ |
+| Geberit   | https://www.geberit.com/   | 🇨🇭 Suisse    | 🇨🇭 Suisse (société cotée à la [SIX Swiss Exchange](https://www.six-group.com/en/market-data/shares/share-explorer/share-details.CH0030170408CHF4.html))                            | 🌍 26 usines, principalement en Europe, plus États-Unis, Chine et Inde | 2026-08-14   |
+| Laurastar | https://www.laurastar.com/ | 🇨🇭 Suisse    | 🇨🇭 Suisse (entreprise familiale)                                                                                                                                                   | 🇭🇺 Hongrie                                                            | 2026-08-15   |
 
 ## Taïwan 🇹🇼
 
