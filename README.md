@@ -293,6 +293,7 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | Brand | Website               | Headquarters | Ownership                      | Manufacturing                  | Last checked |
 | ----- | --------------------- | ------------ | ------------------------------ | ------------------------------ | ------------ |
 | Immax | https://www.immax.cz/ | 🇨🇿 Tchéquie  | 🇨🇿 Tchèque (entreprise privée) | ❓ Non documentée publiquement  | 2026-08-03   |
+| iQsub | https://iqsub.com/    | 🇨🇿 Tchéquie  | 🇨🇿 Tchèque (entreprise privée) | 🇨🇿 Tchéquie (Orlová)           | 2026-08-16   |
 
 ## Turquie 🇹🇷
 
