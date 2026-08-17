@@ -278,6 +278,8 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 
 | Kiri | https://www.kiri.fr/ | 🇫🇷 France | 🇫🇷 Français ([Groupe Bel](#groupe-bel)) | 🇫🇷 France, notamment Sablé-sur-Sarthe | 2026-08-17 |
 
+| La Vache qui rit | https://www.lavachequirit.com/ | 🇫🇷 France | 🇫🇷 Français ([Groupe Bel](#groupe-bel)) | 🌍 France et autres sites du Groupe Bel | 2026-08-17 |
+
 ## Hong Kong 🇭🇰
 
 | Brand | Website                    | Headquarters | Ownership                                 | Manufacturing | Last checked |
