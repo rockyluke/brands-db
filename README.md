@@ -250,6 +250,8 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 
 | Le Temps des Cerises (épicerie) | https://www.coursesu.com/c/epicerie-sucree/le-temps-des-cerises | 🇫🇷 France | 🇫🇷 Français ([Système U](#système-u)) | 🌍 Fabricants partenaires selon les produits | 2026-08-17 |
 
+| St Marc | https://www.st-marc.fr/ | 🇫🇷 France | 🇺🇸 Américain ([Vestacy](#vestacy)) | 🌍 Europe et autres sites Vestacy selon les produits | 2026-08-17 |
+
 ## Hong Kong 🇭🇰
 
 | Brand | Website                    | Headquarters | Ownership                                 | Manufacturing | Last checked |
