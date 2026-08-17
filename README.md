@@ -268,6 +268,8 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 
 | Sources Alma | https://www.sources-alma.com/ | 🇫🇷 France | 🇫🇷 Français (groupe privé) | 🌍 France, Italie et autres sites d’embouteillage | 2026-08-17 |
 
+| Courmayeur | https://www.eau-courmayeur.com/ | 🇫🇷 France | 🇫🇷 Français ([Sources Alma](#sources-alma)) | 🇮🇹 Italie (Courmayeur, Vallée d’Aoste) | 2026-08-17 |
+
 ## Hong Kong 🇭🇰
 
 | Brand | Website                    | Headquarters | Ownership                                 | Manufacturing | Last checked |
