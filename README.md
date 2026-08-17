@@ -318,6 +318,8 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 
 | Senseo | https://www.senseo.fr/ | 🇳🇱 Pays-Bas | 🇺🇸 Américain ([JDE Peet’s](#jde-peets), groupe [Keurig Dr Pepper](#keurig-dr-pepper)) | 🇳🇱 Pays-Bas, notamment Utrecht | 2026-08-17 |
 
+| Vestacy | https://www.vestacy.com/ | 🇳🇱 Pays-Bas | 🇺🇸 Américain (contrôlé par Advent International) | 🌍 Six sites industriels en Europe et dans les Amériques | 2026-08-17 |
+
 ## Pakistan 🇵🇰
 
 | Brand         | Website                         | Headquarters | Ownership                          | Manufacturing | Last checked |
