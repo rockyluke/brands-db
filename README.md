@@ -302,6 +302,8 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 
 | JDE Peet’s | https://www.jdepeets.com/ | 🇳🇱 Pays-Bas | 🇺🇸 Américain ([Keurig Dr Pepper](#keurig-dr-pepper)) | 🌍 Réseau industriel mondial du café | 2026-08-17 |
 
+| Senseo | https://www.senseo.fr/ | 🇳🇱 Pays-Bas | 🇺🇸 Américain ([JDE Peet’s](#jde-peets), groupe [Keurig Dr Pepper](#keurig-dr-pepper)) | 🇳🇱 Pays-Bas, notamment Utrecht | 2026-08-17 |
+
 ## Pakistan 🇵🇰
 
 | Brand         | Website                         | Headquarters | Ownership                          | Manufacturing | Last checked |
