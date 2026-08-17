@@ -61,6 +61,8 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | --------- | ------------------------- | ------------ | -------------------------------- | ------------------------------------------ | ------------ |
 | Wonderbra | https://www.wonderbra.eu/ | 🇨🇦 Canada    | 🇺🇸 Américain ([Regent](#regent)) | 🌍 Fabrication variable selon les produits  | 2026-08-17   |
 
+| Herschel | https://herschel.com/ | 🇨🇦 Canada | 🇨🇦 Canadien (entreprise privée) | 🌏 Fabricants partenaires, principalement en Asie | 2026-08-17 |
+
 ## Chine 🇨🇳
 
 | Brand       | Website                            | Headquarters | Ownership                                                                                                                                      | Manufacturing                                    | Last checked |
