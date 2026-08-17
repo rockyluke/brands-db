@@ -149,6 +149,8 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 
 | Coca-Cola | https://www.coca-cola.com/ | 🇺🇸 États-Unis | 🇺🇸 Américain ([The Coca-Cola Company](#the-coca-cola-company)) | 🌍 Réseau mondial d’embouteilleurs partenaires | 2026-08-17 |
 
+| Philadelphia | https://www.philadelphia.fr/ | 🇺🇸 États-Unis | 🇺🇸 Américain (marque exploitée en Europe par [Mondelēz International](#mondelēz-international)) | 🌍 Europe selon les marchés | 2026-08-17 |
+
 ## Finlande 🇫🇮
 
 | Brand   | Website                  | Headquarters | Ownership                                                                                                          | Manufacturing                                  | Last checked |
