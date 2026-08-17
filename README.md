@@ -10,9 +10,10 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 
 ## Autriche 🇦🇹
 
-| Brand      | Website               | Headquarters | Ownership                            | Manufacturing                              | Last checked |
-| ---------- | --------------------- | ------------ | ------------------------------------ | ------------------------------------------ | ------------ |
-| HEAD Group | https://www.head.com/ | 🇦🇹 Autriche  | 🇦🇹 Autrichien (groupe privé)         | 🌍 Réseau industriel mondial                | 2026-08-05   |
+| Brand      | Website               | Headquarters | Ownership                                 | Manufacturing                              | Last checked |
+| ---------- | --------------------- | ------------ | ----------------------------------------- | ------------------------------------------ | ------------ |
+| HEAD       | https://www.head.com/ | 🇦🇹 Autriche  | 🇦🇹 Autrichien ([HEAD Group](#head-group)) | 🌍 Europe et Asie selon les produits        | 2026-08-17   |
+| HEAD Group | https://www.head.com/ | 🇦🇹 Autriche  | 🇦🇹 Autrichien (groupe privé)              | 🌍 Réseau industriel mondial                | 2026-08-05   |
 
 ## Allemagne 🇩🇪
 
