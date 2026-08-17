@@ -262,6 +262,7 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | Lactel                          | https://www.lactel.fr/                                                     | 🇫🇷 France    | 🇫🇷 Français ([Groupe Lactalis](#groupe-lactalis))                                                               | 🇫🇷 France                                                           | 2026-08-17   |
 | Babybel                         | https://babybel.fr/                                                        | 🇫🇷 France    | 🇫🇷 Français ([Groupe Bel](#groupe-bel))                                                                         | 🌍 France, Slovaquie, États-Unis et Canada                           | 2026-08-17   |
 | Pom’Potes                       | https://www.pompotes.com/                                                  | 🇫🇷 France    | 🇫🇷 Français ([Groupe Bel](#groupe-bel), via MOM)                                                                | 🇫🇷 France (Aisne, Picardie)                                         | 2026-08-17   |
+| Boursin                         | https://www.boursin.fr/                                                    | 🇫🇷 France    | 🇫🇷 Français ([Groupe Bel](#groupe-bel))                                                                         | 🌍 France et États-Unis, selon les marchés                           | 2026-08-17   |
 
 ## Hong Kong 🇭🇰
 
