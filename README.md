@@ -137,6 +137,8 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 
 | The Coca-Cola Company | https://www.coca-colacompany.com/ | 🇺🇸 États-Unis | 🇺🇸 Américain (société cotée au [NYSE](https://www.nyse.com/quote/XNYS:KO)) | 🌍 Réseau mondial d’embouteilleurs partenaires | 2026-08-17 |
 
+| Coca-Cola | https://www.coca-cola.com/ | 🇺🇸 États-Unis | 🇺🇸 Américain ([The Coca-Cola Company](#the-coca-cola-company)) | 🌍 Réseau mondial d’embouteilleurs partenaires | 2026-08-17 |
+
 ## Finlande 🇫🇮
 
 | Brand   | Website                  | Headquarters | Ownership                                                                                                          | Manufacturing                                  | Last checked |
