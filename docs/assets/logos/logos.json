@@ -609,5 +609,96 @@
     "source": "https://commons.wikimedia.org/wiki/File:Volvic_brand_logo.png",
     "license": "Public domain",
     "artist": "Volvic"
+  },
+  "Coca-Cola": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coca-Cola_logo.svg",
+    "commons_title": "File:Coca-Cola logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Coca-Cola_logo.svg",
+    "license": "Public domain",
+    "artist": "The Coca-Cola Company"
+  },
+  "The Coca-Cola Company": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Coca-Cola_Company_logo.svg",
+    "commons_title": "File:The Coca-Cola Company logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Coca-Cola_Company_logo.svg",
+    "license": "Public domain",
+    "artist": "The Coca-Cola Company"
+  },
+  "Nestlé": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Nestlé_textlogo.svg",
+    "commons_title": "File:Nestlé textlogo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Nestlé_textlogo.svg",
+    "license": "Public domain",
+    "artist": "Nestlé"
+  },
+  "Mondelēz International": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mondelez_International.svg",
+    "commons_title": "File:Mondelez International.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Mondelez_International.svg",
+    "license": "Public domain",
+    "artist": "Mondelēz International"
+  },
+  "Electrolux": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Electrolux_2015.svg",
+    "commons_title": "File:Electrolux 2015.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Electrolux_2015.svg",
+    "license": "Public domain",
+    "artist": "Electrolux Group"
+  },
+  "Electrolux Group": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Electrolux_2015.svg",
+    "commons_title": "File:Electrolux 2015.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Electrolux_2015.svg",
+    "license": "Public domain",
+    "artist": "Electrolux Group"
+  },
+  "Unilever": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Unilever_text_logo.svg",
+    "commons_title": "File:Unilever text logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Unilever_text_logo.svg",
+    "license": "Public domain",
+    "artist": "Unilever"
+  },
+  "Barilla": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Barilla_brand_logo_(2022-present).svg",
+    "commons_title": "File:Barilla brand logo (2022-present).svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Barilla_brand_logo_(2022-present).svg",
+    "license": "Public domain",
+    "artist": "Barilla"
+  },
+  "Samsonite": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Samsonite_Logo.svg",
+    "commons_title": "File:Samsonite Logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Samsonite_Logo.svg",
+    "license": "Public domain",
+    "artist": "Samsonite"
+  },
+  "Quiksilver": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Quiksilver_wordmark_2015.svg",
+    "commons_title": "File:Quiksilver wordmark 2015.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Quiksilver_wordmark_2015.svg",
+    "license": "Public domain",
+    "artist": "Quiksilver"
+  },
+  "Geberit": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Geberit-Logo.svg",
+    "commons_title": "File:Geberit-Logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Geberit-Logo.svg",
+    "license": "Public domain",
+    "artist": "Geberit"
+  },
+  "Groupe Lactalis": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lactalis_2023_logo.svg",
+    "commons_title": "File:Lactalis 2023 logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lactalis_2023_logo.svg",
+    "license": "Public domain",
+    "artist": "Groupe Lactalis"
+  },
+  "Picard": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Picard_Surgelés_Logo26.png",
+    "commons_title": "File:Picard Surgelés Logo26.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Picard_Surgelés_Logo26.png",
+    "license": "CC0 1.0",
+    "artist": "Picard Surgelés"
   }
 }
