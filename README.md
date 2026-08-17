@@ -300,6 +300,8 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | XD Connects      | https://www.xdconnects.com/                       | 🇳🇱 Pays-Bas  | 🇺🇸 Américain ([Solo Group](#solo-group), groupe contrôlé par [Platinum Equity](#platinum-equity))                      | 🇷🇴 Personnalisation en Roumanie et sourcing en 🇨🇳 Chine                        | 2026-08-14   |
 | XD Design        | https://xd-design.com/                            | 🇳🇱 Pays-Bas  | 🇺🇸 Américain ([XD Connects](#xd-connects))                                                                             | 🌍 Fabricants partenaires certifiés BSCI                                        | 2026-08-14   |
 
+| JDE Peet’s | https://www.jdepeets.com/ | 🇳🇱 Pays-Bas | 🇺🇸 Américain ([Keurig Dr Pepper](#keurig-dr-pepper)) | 🌍 Réseau industriel mondial du café | 2026-08-17 |
+
 ## Pakistan 🇵🇰
 
 | Brand         | Website                         | Headquarters | Ownership                          | Manufacturing | Last checked |
