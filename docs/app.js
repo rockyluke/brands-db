@@ -121,7 +121,7 @@ function createCard(brand, index) {
     logoLink.href = logo.source;
     logoLink.title = `Logo de ${brand.name} — consulter la source`;
     if (logo.background) logoLink.style.background = logo.background;
-    logoImage.src = `assets/logos/${logo.file}`;
+    logoImage.src = logo.url || `assets/logos/${logo.file}`;
     logoImage.alt = `Logo ${brand.name}`;
   }
   fragment.querySelector(".headquarters").textContent = brand.headquarters;

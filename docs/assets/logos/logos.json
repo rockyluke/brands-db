@@ -1,4 +1,200 @@
 {
+  "Superdry": {
+    "file": "superdry.svg",
+    "commons_title": "File:Superdry logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Superdry_logo.svg",
+    "license": "Public domain",
+    "artist": "Superdry"
+  },
+  "Adidas": {
+    "file": "adidas.svg",
+    "commons_title": "File:Adidas-group-logo-fr.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Adidas-group-logo-fr.svg",
+    "license": "Public domain",
+    "artist": "Adidas"
+  },
+  "Henkel": {
+    "file": "henkel.svg",
+    "commons_title": "File:Henkel-Logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Henkel-Logo.svg",
+    "license": "Public domain",
+    "artist": "Henkel"
+  },
+  "PUMA": {
+    "file": "puma.svg",
+    "commons_title": "File:Puma-logo-(text).svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Puma-logo-(text).svg",
+    "license": "Public domain",
+    "artist": "PUMA"
+  },
+  "Billabong": {
+    "file": "billabong.svg",
+    "commons_title": "File:Billabong.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Billabong.svg",
+    "license": "Public domain",
+    "artist": "Billabong"
+  },
+  "HEAD": {
+    "file": "head-group.svg",
+    "commons_title": "File:HEAD.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:HEAD.svg",
+    "license": "Public domain",
+    "artist": "HEAD"
+  },
+  "Shelly": {
+    "file": "shelly.svg",
+    "title": "Site officiel Shelly",
+    "source": "https://www.shelly.com/cdn/shop/files/logo.svg",
+    "license": "Logo officiel",
+    "artist": "Shelly"
+  },
+  "Aqara": {
+    "file": "aqara.svg",
+    "title": "Site officiel Aqara",
+    "source": "https://www.aqara.com/wp-content/uploads/2023/03/aqara_logo.svg",
+    "license": "Logo officiel",
+    "artist": "Aqara"
+  },
+  "SONGMICS": {
+    "file": "songmics.svg",
+    "title": "Site officiel SONGMICS",
+    "source": "https://www.songmics.com/cdn/shop/files/a39a1e67a323249cb7f2b6a886851f68_280x@2x.svg",
+    "license": "Logo officiel",
+    "artist": "SONGMICS"
+  },
+  "Black & Decker": {
+    "file": "black-and-decker.svg",
+    "commons_title": "File:Black&Decker Logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Black%26Decker_Logo.svg",
+    "license": "Public domain",
+    "artist": "Black & Decker"
+  },
+  "Champion": {
+    "file": "champion.svg",
+    "commons_title": "File:Champion USA logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Champion_USA_logo.svg",
+    "license": "Public domain",
+    "artist": "Champion"
+  },
+  "Nike": {
+    "file": "nike.svg",
+    "commons_title": "File:Logo NIKE.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_NIKE.svg",
+    "license": "Public domain",
+    "artist": "Nike"
+  },
+  "GUESS": {
+    "file": "guess.svg",
+    "commons_title": "File:Guess logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Guess_logo.svg",
+    "license": "Public domain",
+    "artist": "GUESS"
+  },
+  "Levi's": {
+    "file": "levis.svg",
+    "commons_title": "File:Levis-logo-quer.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Levis-logo-quer.svg",
+    "license": "Public domain",
+    "artist": "Levi Strauss & Co."
+  },
+  "Reebok": {
+    "file": "reebok.svg",
+    "commons_title": "File:Reebok wordmark (1977–1993).svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Reebok_wordmark_(1977%E2%80%931993).svg",
+    "license": "Public domain",
+    "artist": "Reebok"
+  },
+  "Volcom": {
+    "file": "volcom.svg",
+    "commons_title": "File:Volcom Circle Stone.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Volcom_Circle_Stone.svg",
+    "license": "Public domain",
+    "artist": "Volcom"
+  },
+  "Tesla": {
+    "file": "tesla.svg",
+    "commons_title": "File:Tesla Motors Logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Tesla_Motors_Logo.svg",
+    "license": "Public domain",
+    "artist": "Tesla"
+  },
+  "Bjorg": {
+    "file": "bjorg.png",
+    "title": "Site officiel Bjorg",
+    "source": "https://www.bjorg.fr/app/uploads/2025/07/Bjorg_Logo2025_Hd-scaled.png",
+    "license": "Logo officiel",
+    "artist": "Bjorg"
+  },
+  "LU": {
+    "file": "lu.svg",
+    "commons_title": "File:Logo LU.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_LU.svg",
+    "license": "Public domain",
+    "artist": "LU"
+  },
+  "La Baleine": {
+    "file": "la-baleine.svg",
+    "title": "Site officiel La Baleine",
+    "source": "https://www.labaleine.fr/wp-content/themes/labaleine/assets/img/logo.svg",
+    "license": "Logo officiel",
+    "artist": "La Baleine"
+  },
+  "MOLLY": {
+    "file": "molly.png",
+    "title": "Site officiel MOLLY",
+    "source": "https://www.molly-fixations.com/wp-content/uploads/2016/10/logo-molly.png",
+    "license": "Logo officiel",
+    "artist": "MOLLY"
+  },
+  "Panzani": {
+    "file": "panzani.png",
+    "title": "Logo Panzani sur Wikipédia",
+    "source": "https://fr.wikipedia.org/wiki/Fichier:Vect_Panzani_LogoPantone_Transversal.png",
+    "license": "Marque déposée",
+    "artist": "Panzani"
+  },
+  "Petit Bateau": {
+    "file": "petit-bateau.svg",
+    "title": "Site officiel Petit Bateau",
+    "source": "https://www.petit-bateau.fr/on/demandware.static/Sites-PB_FR-Site/-/default/dwf7f2db2c/images/logo-petit-bateau.svg",
+    "license": "Logo officiel",
+    "artist": "Petit Bateau"
+  },
+  "Pressade": {
+    "file": "pressade.png",
+    "title": "Site officiel Pressade",
+    "source": "https://www.pressade.fr/images/teisseire/logo-pressade.png",
+    "license": "Logo officiel",
+    "artist": "Pressade"
+  },
+  "Poulain": {
+    "file": "poulain.png",
+    "title": "Site officiel Poulain",
+    "source": "https://www.chocolatpoulain.fr/wp-content/uploads/2025/09/Logo-Poulain.png",
+    "license": "Logo officiel",
+    "artist": "Poulain"
+  },
+  "Saint Michel": {
+    "file": "saint-michel.svg",
+    "title": "Site officiel Saint Michel",
+    "source": "https://www.stmichel.fr/assets/images/header/logo.svg",
+    "license": "Logo officiel",
+    "artist": "Saint Michel"
+  },
+  "Sergent Major": {
+    "file": "sergent-major.avif",
+    "title": "Site officiel Sergent Major",
+    "source": "https://www.sergent-major.com/cdn/shop/files/new_logo.png",
+    "license": "Logo officiel",
+    "artist": "Sergent Major"
+  },
+  "Vachette": {
+    "url": "https://gw-assets.assaabloy.com/is/image/assaabloy/vachette-logo-png",
+    "title": "Site officiel Vachette",
+    "source": "https://gw-assets.assaabloy.com/is/image/assaabloy/vachette-logo-png",
+    "license": "Logo officiel",
+    "artist": "Vachette"
+  },
   "AEG": {
     "file": "aeg.svg",
     "commons_title": "File:Allgemeine Elektricitäts-Gesellschaft (logo).svg",
@@ -97,13 +293,6 @@
     "source": "https://commons.wikimedia.org/wiki/File:Lidl_logo.svg",
     "license": "CC0",
     "artist": "Wyatt123456Fan"
-  },
-  "Fluidra": {
-    "file": "fluidra.svg",
-    "commons_title": "File:Fluidra logo.svg",
-    "source": "https://commons.wikimedia.org/wiki/File:Fluidra_logo.svg",
-    "license": "Public domain",
-    "artist": "Fluidra"
   },
   "Apple": {
     "file": "apple.svg",
@@ -220,10 +409,10 @@
   },
   "Schneider Electric": {
     "file": "schneider-electric.svg",
-    "commons_title": "File:SchneiderElectric Logo.svg",
-    "source": "https://commons.wikimedia.org/wiki/File:SchneiderElectric_Logo.svg",
+    "commons_title": "File:Schneider Electric 2007.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Schneider_Electric_2007.svg",
     "license": "Public domain",
-    "artist": "Unknown authorUnknown author"
+    "artist": "Schneider Electric"
   },
   "Somfy": {
     "file": "somfy.svg",
@@ -317,11 +506,11 @@
     "artist": "CAMIF"
   },
   "Sonoff": {
-    "file": "sonoff.png",
-    "commons_title": "File:SONOFF-logo.png",
-    "source": "https://commons.wikimedia.org/wiki/File:SONOFF-logo.png",
-    "license": "CC BY-SA 4.0",
-    "artist": "Vickyitead"
+    "file": "sonoff.avif",
+    "title": "Site officiel Sonoff",
+    "source": "https://sonoff.tech/cdn/shop/files/SONOFF-LOGO.png",
+    "license": "Logo officiel",
+    "artist": "Sonoff"
   },
   "Sonos": {
     "file": "sonos.png",
@@ -332,10 +521,10 @@
   },
   "Botanic": {
     "file": "botanic.jpg",
-    "commons_title": "File:BOTANIC LOGO.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:BOTANIC_LOGO.jpg",
-    "license": "CC BY-SA 3.0",
-    "artist": "Botanic74"
+    "title": "Logo Botanic sur Wikipédia",
+    "source": "https://fr.wikipedia.org/wiki/Fichier:Logo-botanic.jpg",
+    "license": "Marque déposée",
+    "artist": "Botanic"
   },
   "Groupe SEB": {
     "file": "groupe-seb.svg",
@@ -345,11 +534,11 @@
     "artist": "Arosio Stefano"
   },
   "Jacob Delafon": {
-    "file": "jacob-delafon.jpg",
-    "commons_title": "File:Logo Jacob Delafon.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Logo_Jacob_Delafon.jpg",
-    "license": "CC BY-SA 4.0",
-    "artist": "Metge Dujour"
+    "file": "jacob-delafon.svg",
+    "title": "Site officiel Jacob Delafon",
+    "source": "https://www.jacobdelafon.com/_next/image?url=%2Fimages%2Flogo.svg&w=3840&q=75",
+    "license": "Logo officiel",
+    "artist": "Jacob Delafon"
   },
   "Legrand": {
     "file": "legrand.svg",
