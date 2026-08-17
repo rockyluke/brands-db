@@ -344,6 +344,8 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 
 | Jacobsen | https://www.castorama.fr/marques/jacobsen | 🇬🇧 Royaume-Uni | 🇬🇧 Britannique ([Kingfisher](#kingfisher)) | 🌍 Fabricants partenaires selon les produits | 2026-08-17 |
 
+| Cif | https://www.cifclean.com/ | 🇬🇧 Royaume-Uni | 🇬🇧 Britannique ([Unilever](#unilever)) | 🌍 Réseau industriel mondial d’Unilever | 2026-08-17 |
+
 ## Suède 🇸🇪
 
 | Brand            | Website                          | Headquarters | Ownership                                                                                                             | Manufacturing                                              | Last checked |
