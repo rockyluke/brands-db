@@ -242,6 +242,8 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 
 | Ducros | https://www.ducros.com/fr-fr/ | 🇫🇷 France | 🇺🇸 Américain ([McCormick & Company](#mccormick--company)) | 🇫🇷 France | 2026-08-17 |
 
+| Brioche Pasquier | https://www.pasquier.fr/ | 🇫🇷 France | 🇫🇷 Français (groupe familial privé) | 🌍 Principalement France, plus Espagne, Royaume-Uni et États-Unis | 2026-08-17 |
+
 ## Hong Kong 🇭🇰
 
 | Brand | Website                    | Headquarters | Ownership                                 | Manufacturing | Last checked |
