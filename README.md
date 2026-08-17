@@ -260,6 +260,7 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | La Vache qui rit                | https://www.lavachequirit.com/                                             | 🇫🇷 France    | 🇫🇷 Français ([Groupe Bel](#groupe-bel))                                                                         | 🌍 France et autres sites du Groupe Bel                              | 2026-08-17   |
 | Groupe Lactalis                 | https://www.lactalis.com/                                                  | 🇫🇷 France    | 🇫🇷 Français (famille Besnier)                                                                                   | 🌍 Réseau industriel mondial                                         | 2026-08-17   |
 | Lactel                          | https://www.lactel.fr/                                                     | 🇫🇷 France    | 🇫🇷 Français ([Groupe Lactalis](#groupe-lactalis))                                                               | 🇫🇷 France                                                           | 2026-08-17   |
+| Babybel                         | https://babybel.fr/                                                        | 🇫🇷 France    | 🇫🇷 Français ([Groupe Bel](#groupe-bel))                                                                         | 🌍 France, Slovaquie, États-Unis et Canada                           | 2026-08-17   |
 
 ## Hong Kong 🇭🇰
 
