@@ -44,6 +44,8 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 
 | Melitta Group | https://www.melitta-group.com/ | 🇩🇪 Allemagne | 🇩🇪 Allemand (groupe familial privé) | 🌍 Réseau industriel international | 2026-08-17 |
 
+| Cofresco | https://www.cofresco.de/ | 🇩🇪 Allemagne | 🇩🇪 Allemand ([Melitta Group](#melitta-group)) | 🇩🇪 Allemagne, principalement Minden | 2026-08-17 |
+
 ## Belgique 🇧🇪
 
 | Brand  | Website                 | Headquarters | Ownership                                                                                                                      | Manufacturing                  | Last checked |
