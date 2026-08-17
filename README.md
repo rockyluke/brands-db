@@ -274,6 +274,8 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 
 | Picard | https://www.picard.fr/ | 🇫🇷 France | 🇬🇧 Britannique (contrôlé par Lion Capital) | 🌍 Fabricants partenaires, principalement en France et en Europe | 2026-08-17 |
 
+| Groupe Bel | https://www.groupe-bel.com/ | 🇫🇷 France | 🇫🇷 Français (groupe familial privé) | 🌍 Réseau industriel international | 2026-08-17 |
+
 ## Hong Kong 🇭🇰
 
 | Brand | Website                    | Headquarters | Ownership                                 | Manufacturing | Last checked |
