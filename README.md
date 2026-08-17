@@ -244,6 +244,8 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 
 | Brioche Pasquier | https://www.pasquier.fr/ | 🇫🇷 France | 🇫🇷 Français (groupe familial privé) | 🌍 Principalement France, plus Espagne, Royaume-Uni et États-Unis | 2026-08-17 |
 
+| Système U | https://www.magasins-u.com/ | 🇫🇷 France | 🇫🇷 Français (coopérative de commerçants indépendants) | 🌍 Distributeur; fabricants partenaires selon les produits | 2026-08-17 |
+
 ## Hong Kong 🇭🇰
 
 | Brand | Website                    | Headquarters | Ownership                                 | Manufacturing | Last checked |
