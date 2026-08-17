@@ -268,6 +268,8 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | Saba            | https://sabaitalia.com/           | 🇮🇹 Italie    | 🇮🇹 Italien ([Dexelance](#dexelance))                                                                                                                           | 🇮🇹 Italie                                                  | 2026-08-14   |
 | Sodalis Group   | https://www.sodalisgroup.com/en/  | 🇮🇹 Italie    | 🇮🇹 Italien (groupe familial privé)                                                                                                                             | 🌍 5 sites de production, dont un en France                 | 2026-08-03   |
 
+| Mutti | https://mutti-parma.com/ | 🇮🇹 Italie | 🇮🇹 Italien (entreprise familiale) | 🇮🇹 Italie | 2026-08-17 |
+
 ## Japon 🇯🇵
 
 | Brand  | Website                 | Headquarters | Ownership                                                                                                                            | Manufacturing                                         | Last checked |
