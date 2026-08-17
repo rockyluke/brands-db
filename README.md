@@ -55,6 +55,12 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | ------------ | ----------------------------- | ------------ | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ------------ |
 | Shelly       | https://www.shelly.com/       | 🇧🇬 Bulgarie  | 🇧🇬 Bulgare (société cotée à la [**Bourse de Francfort**](https://www.boerse-frankfurt.de/equity/shelly-group-se)) | 🇨🇳 Chine                                  | 2026-08-15   |
 
+## Canada 🇨🇦
+
+| Brand     | Website                   | Headquarters | Ownership                        | Manufacturing                              | Last checked |
+| --------- | ------------------------- | ------------ | -------------------------------- | ------------------------------------------ | ------------ |
+| Wonderbra | https://www.wonderbra.eu/ | 🇨🇦 Canada    | 🇺🇸 Américain ([Regent](#regent)) | 🌍 Fabrication variable selon les produits  | 2026-08-17   |
+
 ## Chine 🇨🇳
 
 | Brand       | Website                            | Headquarters | Ownership                                                                                                                                      | Manufacturing                                    | Last checked |
