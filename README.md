@@ -336,6 +336,8 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | Magnusson                  | https://www.kingfisher.com/our-banners-and-brands/own-exclusive-brands/magnusson | 🇬🇧 Royaume-Uni | 🇬🇧 Britannique ([Kingfisher](#kingfisher))                                                                            | 🇨🇳 Chine                                                           | 2026-08-13   |
 | Superdry                   | https://www.superdry.com/                                                        | 🇬🇧 Royaume-Uni | 🇬🇧 Britannique (entreprise privée contrôlée par Julian Dunkerton)                                                     | 🌏 Inde, Sri Lanka, Bangladesh, Turquie, Chine, Cambodge et Vietnam | 2026-08-17   |
 
+| Jacobsen | https://www.castorama.fr/marques/jacobsen | 🇬🇧 Royaume-Uni | 🇬🇧 Britannique ([Kingfisher](#kingfisher)) | 🌍 Fabricants partenaires selon les produits | 2026-08-17 |
+
 ## Suède 🇸🇪
 
 | Brand            | Website                          | Headquarters | Ownership                                                                                                             | Manufacturing                                              | Last checked |
