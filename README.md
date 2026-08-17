@@ -129,6 +129,8 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | UniFi                  | https://www.ui.com/                    | 🇺🇸 États-Unis | 🇺🇸 Américain ([Ubiquiti](#ubiquiti))                                                                 | 🌏 Fabricants partenaires en Asie                             | 2026-08-03   |
 | Whirlpool              | https://www.whirlpoolcorp.com/         | 🇺🇸 États-Unis | 🇺🇸 Américain (société cotée au [NYSE](https://www.nyse.com/quote/XNYS:WHR))                          | 🌍 Amériques, Inde et Europe                                  | 2026-08-15   |
 
+| Keurig Dr Pepper | https://www.keurigdrpepper.com/ | 🇺🇸 États-Unis | 🇺🇸 Américain (société cotée au [Nasdaq](https://www.nasdaq.com/market-activity/stocks/kdp)) | 🌍 Réseau industriel mondial | 2026-08-17 |
+
 ## Finlande 🇫🇮
 
 | Brand   | Website                  | Headquarters | Ownership                                                                                                          | Manufacturing                                  | Last checked |
