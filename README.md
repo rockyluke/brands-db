@@ -48,6 +48,8 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 
 | Handy Bag | https://www.handybag.fr/ | 🇩🇪 Allemagne | 🇩🇪 Allemand ([Cofresco](#cofresco), groupe [Melitta Group](#melitta-group)) | 🇩🇪 Allemagne, principalement Minden | 2026-08-17 |
 
+| Albal | https://www.albal.fr/ | 🇩🇪 Allemagne | 🇩🇪 Allemand ([Cofresco](#cofresco), groupe [Melitta Group](#melitta-group)) | 🇩🇪 Allemagne, principalement Minden | 2026-08-17 |
+
 ## Belgique 🇧🇪
 
 | Brand  | Website                 | Headquarters | Ownership                                                                                                                      | Manufacturing                  | Last checked |
