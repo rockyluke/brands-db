@@ -266,6 +266,8 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 
 | St Marc | https://www.st-marc.fr/ | 🇫🇷 France | 🇺🇸 Américain ([Vestacy](#vestacy)) | 🌍 Europe et autres sites Vestacy selon les produits | 2026-08-17 |
 
+| Sources Alma | https://www.sources-alma.com/ | 🇫🇷 France | 🇫🇷 Français (groupe privé) | 🌍 France, Italie et autres sites d’embouteillage | 2026-08-17 |
+
 ## Hong Kong 🇭🇰
 
 | Brand | Website                    | Headquarters | Ownership                                 | Manufacturing | Last checked |
