@@ -1,4 +1,75 @@
 {
+  "AEG": {
+    "file": "aeg.svg",
+    "commons_title": "File:Allgemeine Elektricitäts-Gesellschaft (logo).svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Allgemeine_Elektricit%C3%A4ts-Gesellschaft_(logo).svg",
+    "license": "Public domain",
+    "artist": "Peter Behrens"
+  },
+  "Miele": {
+    "file": "miele.svg",
+    "commons_title": "File:Miele logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Miele_logo.svg",
+    "license": "Public domain",
+    "artist": "Miele"
+  },
+  "Frigidaire": {
+    "file": "frigidaire.svg",
+    "commons_title": "File:Frigidaire.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Frigidaire.svg",
+    "license": "Public domain",
+    "artist": "Frigidaire"
+  },
+  "Whirlpool": {
+    "file": "whirlpool.svg",
+    "commons_title": "File:Whirlpool logo 2017.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Whirlpool_logo_2017.svg",
+    "license": "Public domain",
+    "artist": "Whirlpool Corporation"
+  },
+  "Delsey Paris": {
+    "file": "delsey.svg",
+    "commons_title": "File:Delsey.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Delsey.svg",
+    "license": "Public domain",
+    "artist": "Delsey S.A."
+  },
+  "Bricard": {
+    "file": "bricard.webp",
+    "title": "Site officiel Bricard",
+    "source": "https://bricard.com/particuliers/wp-content/uploads/sites/32/2026/01/bricard-logo-castle.png",
+    "license": "Logo officiel",
+    "artist": "Bricard"
+  },
+  "Calor": {
+    "file": "calor.svg",
+    "title": "Site officiel Rowenta",
+    "source": "https://www.rowenta.fr/assets/icons/commons/icon-brand-calor.svg",
+    "license": "Logo officiel",
+    "artist": "Calor"
+  },
+  "Magimix": {
+    "file": "magimix.png",
+    "commons_title": "File:Logo Magimix.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_Magimix.png",
+    "license": "Public domain",
+    "artist": "Magimix"
+  },
+  "Maille": {
+    "file": "maille.webp",
+    "title": "Site officiel Maille",
+    "source": "https://fr.maille.com/cdn/shop/files/maille-france-company-logo.png",
+    "license": "Logo officiel",
+    "artist": "Maille",
+    "background": "#173d2b"
+  },
+  "Beko": {
+    "file": "beko.svg",
+    "commons_title": "File:New Beko logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:New_Beko_logo.svg",
+    "license": "Public domain",
+    "artist": "Beko"
+  },
   "Bosch": {
     "file": "bosch.svg",
     "commons_title": "File:Bosch-logo.svg",
@@ -309,17 +380,17 @@
     "artist": "Tefal"
   },
   "Krups": {
-    "file": "krups.webp",
-    "commons_title": "File:Krups Logo.svg",
-    "source": "https://commons.wikimedia.org/wiki/File:Krups_Logo.svg",
-    "license": "Public domain",
+    "file": "krups.svg",
+    "title": "Site officiel Rowenta",
+    "source": "https://www.rowenta.fr/assets/icons/commons/icon-brand-krups.svg",
+    "license": "Logo officiel",
     "artist": "Krups"
   },
   "Rowenta": {
-    "file": "rowenta.webp",
-    "commons_title": "File:Rowenta logo.svg",
-    "source": "https://commons.wikimedia.org/wiki/File:Rowenta_logo.svg",
-    "license": "Public domain",
+    "file": "rowenta.svg",
+    "title": "Site officiel Rowenta",
+    "source": "https://www.rowenta.fr/assets/icons/commons/icon-brand-rowenta.svg",
+    "license": "Logo officiel",
     "artist": "Rowenta"
   },
   "BaByliss": {
@@ -338,9 +409,9 @@
   },
   "Danone": {
     "file": "danone.png",
-    "commons_title": "File:DANONE LOGO VERTICAL.png",
-    "source": "https://commons.wikimedia.org/wiki/File:DANONE_LOGO_VERTICAL.png",
-    "license": "CC BY-SA 4.0",
+    "commons_title": "File:Danone 2004 logo.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Danone_2004_logo.png",
+    "license": "Public domain",
     "artist": "Danone"
   },
   "Volvic": {
