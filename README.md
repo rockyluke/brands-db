@@ -131,6 +131,8 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 
 | Keurig Dr Pepper | https://www.keurigdrpepper.com/ | 🇺🇸 États-Unis | 🇺🇸 Américain (société cotée au [Nasdaq](https://www.nasdaq.com/market-activity/stocks/kdp)) | 🌍 Réseau industriel mondial | 2026-08-17 |
 
+| McCormick & Company | https://www.mccormickcorporation.com/ | 🇺🇸 États-Unis | 🇺🇸 Américain (société cotée au [NYSE](https://www.nyse.com/quote/XNYS:MKC)) | 🌍 Réseau industriel mondial | 2026-08-17 |
+
 ## Finlande 🇫🇮
 
 | Brand   | Website                  | Headquarters | Ownership                                                                                                          | Manufacturing                                  | Last checked |
