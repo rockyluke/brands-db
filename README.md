@@ -42,6 +42,8 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | Rowenta       | https://www.rowenta.fr/         | 🇩🇪 Allemagne | 🇫🇷 Français ([Groupe SEB](#groupe-seb))                                                                             | 🌍 France, Allemagne et Chine selon les produits             | 2026-08-15   |
 | Schwarz Group | https://gruppe.schwarz/en/      | 🇩🇪 Allemagne | 🇩🇪 Allemand (groupe privé)                                                                                          | 🇩🇪 Allemagne et 🇬🇧 Royaume-Uni, plus fournisseurs           | 2026-08-03   |
 
+| Melitta Group | https://www.melitta-group.com/ | 🇩🇪 Allemagne | 🇩🇪 Allemand (groupe familial privé) | 🌍 Réseau industriel international | 2026-08-17 |
+
 ## Belgique 🇧🇪
 
 | Brand  | Website                 | Headquarters | Ownership                                                                                                                      | Manufacturing                  | Last checked |
