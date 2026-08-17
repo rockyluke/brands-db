@@ -272,6 +272,8 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 
 | Contrex | https://www.contrex.fr/ | 🇫🇷 France | 🇨🇭 Suisse ([Nestlé](#nestlé)) | 🇫🇷 France (Contrexéville, Vosges) | 2026-08-17 |
 
+| Picard | https://www.picard.fr/ | 🇫🇷 France | 🇬🇧 Britannique (contrôlé par Lion Capital) | 🌍 Fabricants partenaires, principalement en France et en Europe | 2026-08-17 |
+
 ## Hong Kong 🇭🇰
 
 | Brand | Website                    | Headquarters | Ownership                                 | Manufacturing | Last checked |
