@@ -45,6 +45,7 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | Cofresco      | https://www.cofresco.de/        | 🇩🇪 Allemagne | 🇩🇪 Allemand ([Melitta Group](#melitta-group))                                                                       | 🇩🇪 Allemagne, principalement Minden                         | 2026-08-17   |
 | Handy Bag     | https://www.handybag.fr/        | 🇩🇪 Allemagne | 🇩🇪 Allemand ([Cofresco](#cofresco), groupe [Melitta Group](#melitta-group))                                         | 🇩🇪 Allemagne, principalement Minden                         | 2026-08-17   |
 | Albal         | https://www.albal.fr/           | 🇩🇪 Allemagne | 🇩🇪 Allemand ([Cofresco](#cofresco), groupe [Melitta Group](#melitta-group))                                         | 🇩🇪 Allemagne, principalement Minden                         | 2026-08-17   |
+| WENKO         | https://www.wenko.com/          | 🇩🇪 Allemagne | 🇩🇪 Allemand (entreprise familiale)                                                                                  | 🌍 Fabricants partenaires internationaux selon les produits  | 2026-08-17   |
 
 ## Belgique 🇧🇪
 
