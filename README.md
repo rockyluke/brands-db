@@ -270,6 +270,8 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 
 | Courmayeur | https://www.eau-courmayeur.com/ | 🇫🇷 France | 🇫🇷 Français ([Sources Alma](#sources-alma)) | 🇮🇹 Italie (Courmayeur, Vallée d’Aoste) | 2026-08-17 |
 
+| Contrex | https://www.contrex.fr/ | 🇫🇷 France | 🇨🇭 Suisse ([Nestlé](#nestlé)) | 🇫🇷 France (Contrexéville, Vosges) | 2026-08-17 |
+
 ## Hong Kong 🇭🇰
 
 | Brand | Website                    | Headquarters | Ownership                                 | Manufacturing | Last checked |
