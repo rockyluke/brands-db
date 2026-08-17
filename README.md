@@ -284,6 +284,8 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 
 | Groupe Lactalis | https://www.lactalis.com/ | 🇫🇷 France | 🇫🇷 Français (famille Besnier) | 🌍 Réseau industriel mondial | 2026-08-17 |
 
+| Lactel | https://www.lactel.fr/ | 🇫🇷 France | 🇫🇷 Français ([Groupe Lactalis](#groupe-lactalis)) | 🇫🇷 France | 2026-08-17 |
+
 ## Hong Kong 🇭🇰
 
 | Brand | Website                    | Headquarters | Ownership                                 | Manufacturing | Last checked |
