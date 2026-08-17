@@ -240,6 +240,8 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | Ysé                  | https://www.yse-paris.com/                                                 | 🇫🇷 France    | 🇫🇷 Français ([Groupe Etam](#groupe-etam))                                                                       | 🌍 Bassin méditerranéen et Asie                                      | 2026-08-16   |
 | Zodiac (Pool)        | https://www.zodiac-poolcare.com/                                           | 🇫🇷 France    | 🇪🇸 Espagnol (groupe [Fluidra](#fluidra))                                                                        | 🌍 Variable selon les modèles et les sites industriels               | 2026-08-03   |
 
+| Ducros | https://www.ducros.com/fr-fr/ | 🇫🇷 France | 🇺🇸 Américain ([McCormick & Company](#mccormick--company)) | 🇫🇷 France | 2026-08-17 |
+
 ## Hong Kong 🇭🇰
 
 | Brand | Website                    | Headquarters | Ownership                                 | Manufacturing | Last checked |
