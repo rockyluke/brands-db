@@ -8,6 +8,12 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | ------- | ------------------------ | ------------ | ---------------------------------------- | ------------------- | ------------ |
 | Cevital | https://www.cevital.com/ | 🇩🇿 Algérie   | 🇩🇿 Algérien (groupe familial privé)      | 🌍 Réseau industriel | 2026-08-15   |
 
+## Australie 🇦🇺
+
+| Brand     | Website                    | Headquarters | Ownership                                                        | Manufacturing                                          | Last checked |
+| --------- | -------------------------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------ | ------------ |
+| Billabong | https://www.billabong.com/ | 🇦🇺 Australie | 🇺🇸 Américain ([Authentic Brands Group](#authentic-brands-group)) | 🌍 Fabricants et opérateurs licenciés selon les régions | 2026-08-17   |
+
 ## Autriche 🇦🇹
 
 | Brand      | Website               | Headquarters | Ownership                                 | Manufacturing                              | Last checked |
