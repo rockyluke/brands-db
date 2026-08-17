@@ -276,6 +276,8 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 
 | Groupe Bel | https://www.groupe-bel.com/ | 🇫🇷 France | 🇫🇷 Français (groupe familial privé) | 🌍 Réseau industriel international | 2026-08-17 |
 
+| Kiri | https://www.kiri.fr/ | 🇫🇷 France | 🇫🇷 Français ([Groupe Bel](#groupe-bel)) | 🇫🇷 France, notamment Sablé-sur-Sarthe | 2026-08-17 |
+
 ## Hong Kong 🇭🇰
 
 | Brand | Website                    | Headquarters | Ownership                                 | Manufacturing | Last checked |
