@@ -151,6 +151,7 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | Oral-B                 | https://oralb.fr/                      | 🇺🇸 États-Unis | 🇺🇸 Américain ([Procter & Gamble](#procter--gamble))                                                  | 🌍 Réseau industriel mondial de Procter & Gamble              | 2026-08-18   |
 | Whiskas                | https://www.whiskas.fr/                | 🇺🇸 États-Unis | 🇺🇸 Américain ([Mars](#mars))                                                                         | 🌍 Réseau industriel mondial de Mars Petcare                  | 2026-08-18   |
 | Colgate                | https://www.colgate.fr/                | 🇺🇸 États-Unis | 🇺🇸 Américain ([Colgate-Palmolive](#colgate-palmolive))                                               | 🌍 Réseau industriel mondial de Colgate-Palmolive             | 2026-08-18   |
+| Palmolive              | https://www.palmolive.fr/              | 🇺🇸 États-Unis | 🇺🇸 Américain ([Colgate-Palmolive](#colgate-palmolive))                                               | 🌍 Réseau industriel mondial de Colgate-Palmolive             | 2026-08-18   |
 
 ## Finlande 🇫🇮
 
