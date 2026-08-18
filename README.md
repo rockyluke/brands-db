@@ -147,6 +147,7 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | Procter & Gamble | https://us.pg.com/ | 🇺🇸 États-Unis | 🇺🇸 Américain (société cotée au [NYSE](https://www.nyse.com/quote/XNYS:PG)) | 🌍 Réseau industriel mondial | 2026-08-18 |
 | Mars | https://www.mars.com/ | 🇺🇸 États-Unis | 🇺🇸 Américain (famille Mars, groupe privé) | 🌍 Réseau industriel mondial | 2026-08-18 |
 | Oral-B | https://oralb.fr/ | 🇺🇸 États-Unis | 🇺🇸 Américain ([Procter & Gamble](#procter--gamble)) | 🌍 Réseau industriel mondial de Procter & Gamble | 2026-08-18 |
+| Whiskas | https://www.whiskas.fr/ | 🇺🇸 États-Unis | 🇺🇸 Américain ([Mars](#mars)) | 🌍 Réseau industriel mondial de Mars Petcare | 2026-08-18 |
 
 ## Finlande 🇫🇮
 
