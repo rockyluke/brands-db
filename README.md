@@ -378,6 +378,7 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | Laurastar      | https://www.laurastar.com/     | 🇨🇭 Suisse    | 🇨🇭 Suisse (entreprise familiale)                                                                                                                                                   | 🇭🇺 Hongrie                                                            | 2026-08-15   |
 | Partners Group | https://www.partnersgroup.com/ | 🇨🇭 Suisse    | 🇨🇭 Suisse (société cotée à la [SIX Swiss Exchange](https://www.six-group.com/en/market-data/shares/share-explorer/share-details.CH0024608827CHF4.html))                            | 🌍 Portefeuille international                                          | 2026-08-15   |
 | Nestlé         | https://www.nestle.com/        | 🇨🇭 Suisse    | 🇨🇭 Suisse (société cotée à la [SIX Swiss Exchange](https://www.six-group.com/en/market-data/shares/share-explorer/share-details.CH0038863350CHF4.html))                            | 🌍 Réseau industriel mondial                                           | 2026-08-17   |
+| Elmex | https://www.elmex.fr/ | 🇨🇭 Suisse | 🇺🇸 Américain ([Colgate-Palmolive](#colgate-palmolive)) | 🌍 Réseau industriel de Colgate-Palmolive selon les marchés | 2026-08-18 |
 
 ## Taïwan 🇹🇼
 
