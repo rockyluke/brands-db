@@ -281,6 +281,7 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | Paquito                         | https://www.intermarche.com/                                                  | 🇫🇷 France    | 🇫🇷 Français ([Les Mousquetaires](#les-mousquetaires))                                                           | 🇫🇷 Principalement France, plus fabricants partenaires selon les produits | 2026-08-18   |
 | La Croix                        | https://www.colgatepalmolive.fr/snippet/2021/circle-cards/our-brands/la-croix | 🇫🇷 France    | 🇺🇸 Américain ([Colgate-Palmolive](#colgate-palmolive))                                                          | 🇫🇷 France et autres sites européens selon les produits                   | 2026-08-18   |
 | Paic                            | https://www.colgatepalmolive.fr/snippet/2021/circle-cards/our-brands/paic     | 🇫🇷 France    | 🇺🇸 Américain ([Colgate-Palmolive](#colgate-palmolive))                                                          | 🇫🇷 France et autres sites européens selon les produits                   | 2026-08-18   |
+| Soupline                        | https://www.soupline.fr/                                                      | 🇫🇷 France    | 🇺🇸 Américain ([Colgate-Palmolive](#colgate-palmolive))                                                          | 🇫🇷 France et autres sites européens selon les produits                   | 2026-08-18   |
 
 ## Hong Kong 🇭🇰
 
