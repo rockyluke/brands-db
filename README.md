@@ -166,6 +166,7 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | Always                 | https://www.always.fr/                              | 🇺🇸 États-Unis | 🇺🇸 Américain ([Procter & Gamble](#procter--gamble))                                                  | 🌍 Réseau industriel mondial de Procter & Gamble              | 2026-08-18   |
 | Tampax                 | https://www.tampax.fr/                              | 🇺🇸 États-Unis | 🇺🇸 Américain ([Procter & Gamble](#procter--gamble))                                                  | 🌍 Réseau industriel mondial de Procter & Gamble              | 2026-08-18   |
 | Gillette               | https://www.gillette.fr/                            | 🇺🇸 États-Unis | 🇺🇸 Américain ([Procter & Gamble](#procter--gamble))                                                  | 🌍 Réseau industriel mondial de Procter & Gamble              | 2026-08-18   |
+| Head & Shoulders       | https://www.headandshoulders.fr/                    | 🇺🇸 États-Unis | 🇺🇸 Américain ([Procter & Gamble](#procter--gamble))                                                  | 🌍 Réseau industriel mondial de Procter & Gamble              | 2026-08-18   |
 
 ## Finlande 🇫🇮
 
