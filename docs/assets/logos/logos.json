@@ -777,5 +777,12 @@
     "source": "https://commons.wikimedia.org/wiki/File:Royal-Canin-Logo.svg",
     "license": "Public domain",
     "artist": "Royal Canin"
+  },
+  "Kenwood": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kenwood_Ltd_Logo.svg",
+    "commons_title": "File:Kenwood Ltd Logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Kenwood_Ltd_Logo.svg",
+    "license": "Public domain",
+    "artist": "Kenwood Limited"
   }
 }
