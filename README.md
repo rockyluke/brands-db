@@ -156,6 +156,7 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | Ajax                   | https://www.ajax.com/fr-fr/            | 🇺🇸 États-Unis | 🇺🇸 Américain ([Colgate-Palmolive](#colgate-palmolive))                                               | 🌍 Réseau industriel mondial de Colgate-Palmolive             | 2026-08-18   |
 | Kellanova              | https://www.kellanova.com/             | 🇺🇸 États-Unis | 🇺🇸 Américain ([Mars](#mars))                                                                         | 🌍 Réseau industriel mondial                                  | 2026-08-18   |
 | Kellogg’s              | https://www.kelloggs.fr/               | 🇺🇸 États-Unis | 🇺🇸 Américain ([Kellanova](#kellanova), groupe [Mars](#mars), marques internationales)                | 🌍 Réseau industriel mondial de Kellanova                     | 2026-08-18   |
+| M&M’s                  | https://www.mms.com/fr-fr/             | 🇺🇸 États-Unis | 🇺🇸 Américain ([Mars](#mars))                                                                         | 🌍 Europe, États-Unis et autres sites de Mars Snacking        | 2026-08-18   |
 
 ## Finlande 🇫🇮
 
