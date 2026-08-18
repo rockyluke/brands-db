@@ -170,6 +170,7 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | Head & Shoulders       | https://www.headandshoulders.fr/                    | 🇺🇸 États-Unis | 🇺🇸 Américain ([Procter & Gamble](#procter--gamble))                                                  | 🌍 Réseau industriel mondial de Procter & Gamble              | 2026-08-18   |
 | Febreze                | https://www.enviedeplus.com/marques/febreze         | 🇺🇸 États-Unis | 🇺🇸 Américain ([Procter & Gamble](#procter--gamble))                                                  | 🌍 Réseau industriel mondial de Procter & Gamble              | 2026-08-18   |
 | Swiffer                | https://www.swiffer.fr/                             | 🇺🇸 États-Unis | 🇺🇸 Américain ([Procter & Gamble](#procter--gamble))                                                  | 🌍 Réseau industriel mondial de Procter & Gamble              | 2026-08-18   |
+| M. Propre              | https://www.enviedeplus.com/marques/mr-propre       | 🇺🇸 États-Unis | 🇺🇸 Américain ([Procter & Gamble](#procter--gamble))                                                  | 🌍 Réseau industriel mondial de Procter & Gamble              | 2026-08-18   |
 
 ## Finlande 🇫🇮
 
