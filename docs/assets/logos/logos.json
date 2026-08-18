@@ -784,5 +784,12 @@
     "source": "https://commons.wikimedia.org/wiki/File:Kenwood_Ltd_Logo.svg",
     "license": "Public domain",
     "artist": "Kenwood Limited"
+  },
+  "De'Longhi": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/De%E2%80%99Longhi.svg",
+    "commons_title": "File:De’Longhi.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:De%E2%80%99Longhi.svg",
+    "license": "Public domain",
+    "artist": "De’Longhi S.p.A."
   }
 }
