@@ -376,6 +376,7 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | Cif                        | https://www.cifclean.com/                                                        | 🇬🇧 Royaume-Uni | 🇬🇧 Britannique ([Unilever](#unilever))                                                                                | 🌍 Réseau industriel mondial d’Unilever                             | 2026-08-17   |
 | BEAR                       | https://www.bearnibbles.co.uk/                                                   | 🇬🇧 Royaume-Uni | 🇧🇪 Belge ([Lotus Bakeries](#lotus-bakeries))                                                                          | 🇿🇦 Afrique du Sud (Wolseley)                                       | 2026-08-18   |
 | Maltesers                  | https://www.maltesers.fr/                                                        | 🇬🇧 Royaume-Uni | 🇺🇸 Américain ([Mars](#mars))                                                                                          | 🌍 Europe et autres sites de Mars Snacking                          | 2026-08-18   |
+| Mars (confiserie)          | https://www.mars.com/fr-fr/our-brands/mars-snacking                              | 🇬🇧 Royaume-Uni | 🇺🇸 Américain ([Mars](#mars))                                                                                          | 🌍 Europe et autres sites de Mars Snacking                          | 2026-08-18   |
 
 ## Suède 🇸🇪
 
