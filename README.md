@@ -55,6 +55,7 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | Spa       | https://www.spa.be/      | 🇧🇪 Belgique  | 🇧🇪 Belge ([Spadel](#spadel))                                                                                                   | 🇧🇪 Belgique (Spa)                     | 2026-08-15   |
 | Côte d’Or | https://www.cotedor.com/ | 🇧🇪 Belgique  | 🇺🇸 Américain ([Mondelēz International](#mondelēz-international))                                                               | 🇧🇪 Belgique et autres sites européens | 2026-08-17   |
 | Lotus Bakeries | https://www.lotusbakeries.com/ | 🇧🇪 Belgique | 🇧🇪 Belge (famille Boone; société cotée à [Euronext Brussels](https://live.euronext.com/en/product/equities/BE0003604155-XBRU)) | 🌍 Belgique, France, Suède, États-Unis, Afrique du Sud et Thaïlande | 2026-08-18 |
+| Lotus | https://www.lotusbiscoff.com/ | 🇧🇪 Belgique | 🇧🇪 Belge ([Lotus Bakeries](#lotus-bakeries)) | 🌍 Belgique et autres sites de Lotus Bakeries selon les produits | 2026-08-18 |
 
 ## Bulgarie 🇧🇬
 
