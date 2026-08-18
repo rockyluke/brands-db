@@ -700,5 +700,82 @@
     "source": "https://commons.wikimedia.org/wiki/File:Picard_Surgelés_Logo26.png",
     "license": "CC0 1.0",
     "artist": "Picard Surgelés"
+  },
+  "Procter & Gamble": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/P%26G_logo.svg",
+    "commons_title": "File:P&G logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:P%26G_logo.svg",
+    "license": "Public domain",
+    "artist": "Procter & Gamble"
+  },
+  "Always": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Always_logo.png",
+    "commons_title": "File:Always logo.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Always_logo.png",
+    "license": "Public domain",
+    "artist": "Procter & Gamble"
+  },
+  "Tampax": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tampax.svg",
+    "commons_title": "File:Tampax.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Tampax.svg",
+    "license": "Public domain",
+    "artist": "Procter & Gamble"
+  },
+  "Gillette": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Gillette.svg",
+    "commons_title": "File:Gillette.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Gillette.svg",
+    "license": "Public domain",
+    "artist": "Procter & Gamble"
+  },
+  "Head & Shoulders": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Head_Shoulders_Logo.svg",
+    "commons_title": "File:Head Shoulders Logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Head_Shoulders_Logo.svg",
+    "license": "Public domain",
+    "artist": "Procter & Gamble"
+  },
+  "Pantene": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pantene.svg",
+    "commons_title": "File:Pantene.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pantene.svg",
+    "license": "Public domain",
+    "artist": "Procter & Gamble"
+  },
+  "Febreze": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Febreze_Logo.svg",
+    "commons_title": "File:Febreze Logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Febreze_Logo.svg",
+    "license": "Public domain",
+    "artist": "Procter & Gamble"
+  },
+  "Braun": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Braun_Logo.svg",
+    "commons_title": "File:Braun Logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Braun_Logo.svg",
+    "license": "Public domain",
+    "artist": "Braun"
+  },
+  "Braun (soins et rasage)": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Braun_Logo.svg",
+    "commons_title": "File:Braun Logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Braun_Logo.svg",
+    "license": "Public domain",
+    "artist": "Braun"
+  },
+  "M&M’s": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/M%26M%27s_2022.svg",
+    "commons_title": "File:M&M's 2022.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:M%26M%27s_2022.svg",
+    "license": "Public domain",
+    "artist": "Mars, Incorporated"
+  },
+  "Royal Canin": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Royal-Canin-Logo.svg",
+    "commons_title": "File:Royal-Canin-Logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Royal-Canin-Logo.svg",
+    "license": "Public domain",
+    "artist": "Royal Canin"
   }
 }
