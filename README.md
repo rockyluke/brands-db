@@ -379,6 +379,7 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | BEAR                       | https://www.bearnibbles.co.uk/                                                   | 🇬🇧 Royaume-Uni | 🇧🇪 Belge ([Lotus Bakeries](#lotus-bakeries))                                                                          | 🇿🇦 Afrique du Sud (Wolseley)                                       | 2026-08-18   |
 | Maltesers                  | https://www.maltesers.fr/                                                        | 🇬🇧 Royaume-Uni | 🇺🇸 Américain ([Mars](#mars))                                                                                          | 🌍 Europe et autres sites de Mars Snacking                          | 2026-08-18   |
 | Mars (confiserie)          | https://www.mars.com/fr-fr/our-brands/mars-snacking                              | 🇬🇧 Royaume-Uni | 🇺🇸 Américain ([Mars](#mars))                                                                                          | 🌍 Europe et autres sites de Mars Snacking                          | 2026-08-18   |
+| Skittles                   | https://www.skittles.com/                                                        | 🇬🇧 Royaume-Uni | 🇺🇸 Américain ([Mars](#mars))                                                                                          | 🌍 Réseau industriel mondial de Mars Snacking                       | 2026-08-18   |
 
 ## Suède 🇸🇪
 
