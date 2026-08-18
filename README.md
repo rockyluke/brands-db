@@ -361,6 +361,7 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | Superdry                   | https://www.superdry.com/                                                        | 🇬🇧 Royaume-Uni | 🇬🇧 Britannique (entreprise privée contrôlée par Julian Dunkerton)                                                     | 🌏 Inde, Sri Lanka, Bangladesh, Turquie, Chine, Cambodge et Vietnam | 2026-08-17   |
 | Jacobsen                   | https://www.castorama.fr/marques/jacobsen                                        | 🇬🇧 Royaume-Uni | 🇬🇧 Britannique ([Kingfisher](#kingfisher))                                                                            | 🌍 Fabricants partenaires selon les produits                        | 2026-08-17   |
 | Cif                        | https://www.cifclean.com/                                                        | 🇬🇧 Royaume-Uni | 🇬🇧 Britannique ([Unilever](#unilever))                                                                                | 🌍 Réseau industriel mondial d’Unilever                             | 2026-08-17   |
+| BEAR                       | https://www.bearnibbles.co.uk/                                                   | 🇬🇧 Royaume-Uni | 🇧🇪 Belge ([Lotus Bakeries](#lotus-bakeries))                                                                          | 🇿🇦 Afrique du Sud (Wolseley)                                       | 2026-08-18   |
 
 ## Suède 🇸🇪
 
