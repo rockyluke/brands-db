@@ -291,6 +291,7 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | Soupline                        | https://www.soupline.fr/                                                      | 🇫🇷 France    | 🇺🇸 Américain ([Colgate-Palmolive](#colgate-palmolive))                                                          | 🇫🇷 France et autres sites européens selon les produits                   | 2026-08-18   |
 | Tahiti                          | https://www.colgatepalmolive.fr/snippet/2021/circle-cards/our-brands/tahiti   | 🇫🇷 France    | 🇺🇸 Américain ([Colgate-Palmolive](#colgate-palmolive))                                                          | 🇫🇷 France et autres sites européens selon les produits                   | 2026-08-18   |
 | Suzi Wan                        | https://www.suziwan.fr/                                                       | 🇫🇷 France    | 🇺🇸 Américain ([Mars](#mars))                                                                                    | 🌏 Thaïlande et autres sites asiatiques selon les produits                | 2026-08-18   |
+| Royal Canin                     | https://www.royalcanin.com/fr                                                 | 🇫🇷 France    | 🇺🇸 Américain ([Mars](#mars))                                                                                    | 🌍 France et réseau industriel mondial de Royal Canin                     | 2026-08-18   |
 
 ## Hong Kong 🇭🇰
 
