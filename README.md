@@ -143,6 +143,7 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | Coca-Cola              | https://www.coca-cola.com/             | 🇺🇸 États-Unis | 🇺🇸 Américain ([The Coca-Cola Company](#the-coca-cola-company))                                       | 🌍 Réseau mondial d’embouteilleurs partenaires                | 2026-08-17   |
 | Philadelphia           | https://www.philadelphia.fr/           | 🇺🇸 États-Unis | 🇺🇸 Américain (marque exploitée en Europe par [Mondelēz International](#mondelēz-international))      | 🌍 Europe selon les marchés                                   | 2026-08-17   |
 | Colgate-Palmolive | https://www.colgatepalmolive.com/ | 🇺🇸 États-Unis | 🇺🇸 Américain (société cotée au [NYSE](https://www.nyse.com/quote/XNYS:CL)) | 🌍 Réseau industriel mondial | 2026-08-18 |
+| Procter & Gamble | https://us.pg.com/ | 🇺🇸 États-Unis | 🇺🇸 Américain (société cotée au [NYSE](https://www.nyse.com/quote/XNYS:PG)) | 🌍 Réseau industriel mondial | 2026-08-18 |
 
 ## Finlande 🇫🇮
 
