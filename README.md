@@ -381,6 +381,7 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | Maltesers                  | https://www.maltesers.fr/                                                        | 🇬🇧 Royaume-Uni | 🇺🇸 Américain ([Mars](#mars))                                                                                          | 🌍 Europe et autres sites de Mars Snacking                          | 2026-08-18   |
 | Mars (confiserie)          | https://www.mars.com/fr-fr/our-brands/mars-snacking                              | 🇬🇧 Royaume-Uni | 🇺🇸 Américain ([Mars](#mars))                                                                                          | 🌍 Europe et autres sites de Mars Snacking                          | 2026-08-18   |
 | Skittles                   | https://www.skittles.com/                                                        | 🇬🇧 Royaume-Uni | 🇺🇸 Américain ([Mars](#mars))                                                                                          | 🌍 Réseau industriel mondial de Mars Snacking                       | 2026-08-18   |
+| Twix                       | https://www.twix.com/                                                            | 🇬🇧 Royaume-Uni | 🇺🇸 Américain ([Mars](#mars))                                                                                          | 🌍 Europe, États-Unis et autres sites de Mars Snacking              | 2026-08-18   |
 
 ## Suède 🇸🇪
 
