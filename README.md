@@ -13,6 +13,7 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | Brand     | Website                    | Headquarters | Ownership                                                        | Manufacturing                                          | Last checked |
 | --------- | -------------------------- | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------ | ------------ |
 | Billabong | https://www.billabong.com/ | 🇦🇺 Australie | 🇺🇸 Américain ([Authentic Brands Group](#authentic-brands-group)) | 🌍 Fabricants et opérateurs licenciés selon les régions | 2026-08-17   |
+| Jack N’ Jill | https://jackandjillkids.com.au/ | 🇦🇺 Australie | 🇦🇺 Australien (entreprise familiale) | 🇦🇺 Australie et fabricants partenaires selon les produits | 2026-08-18 |
 
 ## Autriche 🇦🇹
 
