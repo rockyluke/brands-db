@@ -153,6 +153,7 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | Whiskas                | https://www.whiskas.fr/                | 🇺🇸 États-Unis | 🇺🇸 Américain ([Mars](#mars))                                                                         | 🌍 Réseau industriel mondial de Mars Petcare                  | 2026-08-18   |
 | Colgate                | https://www.colgate.fr/                | 🇺🇸 États-Unis | 🇺🇸 Américain ([Colgate-Palmolive](#colgate-palmolive))                                               | 🌍 Réseau industriel mondial de Colgate-Palmolive             | 2026-08-18   |
 | Palmolive              | https://www.palmolive.fr/              | 🇺🇸 États-Unis | 🇺🇸 Américain ([Colgate-Palmolive](#colgate-palmolive))                                               | 🌍 Réseau industriel mondial de Colgate-Palmolive             | 2026-08-18   |
+| Ajax                   | https://www.ajax.com/fr-fr/            | 🇺🇸 États-Unis | 🇺🇸 Américain ([Colgate-Palmolive](#colgate-palmolive))                                               | 🌍 Réseau industriel mondial de Colgate-Palmolive             | 2026-08-18   |
 
 ## Finlande 🇫🇮
 
