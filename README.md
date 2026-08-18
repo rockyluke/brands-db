@@ -162,6 +162,7 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | Pringles               | https://www.pringles.com/fr/                        | 🇺🇸 États-Unis | 🇺🇸 Américain ([Kellanova](#kellanova), groupe [Mars](#mars))                                         | 🌍 États-Unis, Europe et Asie selon les marchés               | 2026-08-18   |
 | Snickers               | https://www.snickers.fr/                            | 🇺🇸 États-Unis | 🇺🇸 Américain ([Mars](#mars))                                                                         | 🌍 Europe, États-Unis et autres sites de Mars Snacking        | 2026-08-18   |
 | Pampers                | https://www.pampers.fr/                             | 🇺🇸 États-Unis | 🇺🇸 Américain ([Procter & Gamble](#procter--gamble))                                                  | 🌍 Réseau industriel mondial de Procter & Gamble              | 2026-08-18   |
+| Always                 | https://www.always.fr/                              | 🇺🇸 États-Unis | 🇺🇸 Américain ([Procter & Gamble](#procter--gamble))                                                  | 🌍 Réseau industriel mondial de Procter & Gamble              | 2026-08-18   |
 
 ## Finlande 🇫🇮
 
