@@ -812,5 +812,12 @@
     "source": "https://commons.wikimedia.org/wiki/File:DYMO_logo.svg",
     "license": "Public domain",
     "artist": "DYMO"
+  },
+  "Brother": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Brother_logo.svg",
+    "commons_title": "File:Brother logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Brother_logo.svg",
+    "license": "Public domain",
+    "artist": "Brother Industries"
   }
 }
