@@ -798,5 +798,12 @@
     "source": "https://commons.wikimedia.org/wiki/File:Aliaxis.svg",
     "license": "Public domain",
     "artist": "Aliaxis"
+  },
+  "Newell Brands": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Newell_Brands_logo.svg",
+    "commons_title": "File:Newell Brands logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Newell_Brands_logo.svg",
+    "license": "Public domain",
+    "artist": "Newell Brands"
   }
 }
