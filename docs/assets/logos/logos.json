@@ -805,5 +805,12 @@
     "source": "https://commons.wikimedia.org/wiki/File:Newell_Brands_logo.svg",
     "license": "Public domain",
     "artist": "Newell Brands"
+  },
+  "DYMO": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/DYMO_logo.svg",
+    "commons_title": "File:DYMO logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:DYMO_logo.svg",
+    "license": "Public domain",
+    "artist": "DYMO"
   }
 }
