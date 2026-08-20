@@ -847,5 +847,12 @@
     "source": "https://commons.wikimedia.org/wiki/File:Vans_company_logo.svg",
     "license": "Public domain",
     "artist": "Vans"
+  },
+  "The North Face": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/TheNorthFace_logo.svg",
+    "commons_title": "File:TheNorthFace logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:TheNorthFace_logo.svg",
+    "license": "Public domain",
+    "artist": "Unknown"
   }
 }
