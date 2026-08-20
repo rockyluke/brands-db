@@ -854,5 +854,12 @@
     "source": "https://commons.wikimedia.org/wiki/File:TheNorthFace_logo.svg",
     "license": "Public domain",
     "artist": "Unknown"
+  },
+  "Timberland": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Timberland-logo.png",
+    "commons_title": "File:Timberland-logo.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Timberland-logo.png",
+    "license": "Public domain",
+    "artist": "Timberland"
   }
 }
