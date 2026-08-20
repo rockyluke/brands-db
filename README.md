@@ -63,6 +63,7 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | Dinosaurus     | https://www.lotusbakeries.com/our-brands | 🇧🇪 Belgique  | 🇧🇪 Belge ([Lotus Bakeries](#lotus-bakeries))                                                                                   | 🇧🇪 Belgique (Lembeke)                                              | 2026-08-18   |
 | Biscoff        | https://www.lotusbiscoff.com/            | 🇧🇪 Belgique  | 🇧🇪 Belge ([Lotus Bakeries](#lotus-bakeries))                                                                                   | 🌍 Belgique (Lembeke), États-Unis (Mebane) et Thaïlande (Chonburi)  | 2026-08-18   |
 | Aliaxis        | https://aliaxis.com/                      | 🇧🇪 Belgique  | 🇧🇪 Belge (entreprise privée)                                                                                                   | 🌍 Réseau industriel mondial                                        | 2026-08-19   |
+| Kipling        | https://www.kipling.com/                  | 🇧🇪 Belgique  | 🇺🇸 Américain ([VF Corporation](#vf-corporation))                                                                               | 🌏 Fabricants partenaires principalement en Asie                    | 2026-08-20   |
 
 ## Bulgarie 🇧🇬
 
