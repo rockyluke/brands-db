@@ -321,6 +321,12 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | -------- | ------------------------- | ------------ | ---------------------------------------------------------------------------- | ---------------------------- | ------------ |
 | Allegion | https://www.allegion.com/ | 🇮🇪 Irlande   | 🇮🇪 Irlandais (société cotée au [NYSE](https://www.nyse.com/quote/XNYS:ALLE)) | 🌍 Réseau industriel mondial  | 2026-08-03   |
 
+## Islande 🇮🇸
+
+| Brand                | Website               | Headquarters | Ownership                            | Manufacturing | Last checked |
+| -------------------- | --------------------- | ------------ | ------------------------------------ | ------------- | ------------ |
+| MS Iceland Dairies   | https://www.ms.is/     | 🇮🇸 Islande   | 🇮🇸 Islandais (coopérative laitière) | 🇮🇸 Islande    | 2026-08-20   |
+
 ## Italie 🇮🇹
 
 | Brand           | Website                           | Headquarters | Ownership                                                                                                                                                      | Manufacturing                                              | Last checked |
