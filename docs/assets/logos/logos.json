@@ -840,5 +840,12 @@
     "source": "https://commons.wikimedia.org/wiki/File:Eastpak_2021_logo.svg",
     "license": "Public domain",
     "artist": "Eastpak"
+  },
+  "Vans": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Vans_company_logo.svg",
+    "commons_title": "File:Vans company logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Vans_company_logo.svg",
+    "license": "Public domain",
+    "artist": "Vans"
   }
 }
