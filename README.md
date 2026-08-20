@@ -325,9 +325,10 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 
 ## Islande 🇮🇸
 
-| Brand                | Website               | Headquarters | Ownership                            | Manufacturing | Last checked |
-| -------------------- | --------------------- | ------------ | ------------------------------------ | ------------- | ------------ |
-| MS Iceland Dairies   | https://www.ms.is/     | 🇮🇸 Islande   | 🇮🇸 Islandais (coopérative laitière) | 🇮🇸 Islande    | 2026-08-20   |
+| Brand              | Website                   | Headquarters | Ownership                                                    | Manufacturing                                      | Last checked |
+| ------------------ | ------------------------- | ------------ | ------------------------------------------------------------ | -------------------------------------------------- | ------------ |
+| Ísey Skyr          | https://www.iseyskyr.com/ | 🇮🇸 Islande   | 🇮🇸 Islandais ([MS Iceland Dairies](#ms-iceland-dairies))     | 🇮🇸 Islande et sites licenciés                      | 2026-08-20   |
+| MS Iceland Dairies | https://www.ms.is/         | 🇮🇸 Islande   | 🇮🇸 Islandais (coopérative laitière)                          | 🇮🇸 Islande                                         | 2026-08-20   |
 
 ## Italie 🇮🇹
 
