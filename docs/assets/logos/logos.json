@@ -826,5 +826,12 @@
     "source": "https://commons.wikimedia.org/wiki/File:Paysan_Breton_Logo.png",
     "license": "Public domain",
     "artist": "Paysan Breton"
+  },
+  "Pilot": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pilot_pen_co_logo.svg",
+    "commons_title": "File:Pilot pen co logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pilot_pen_co_logo.svg",
+    "license": "Public domain",
+    "artist": "Pilot Corporation"
   }
 }
