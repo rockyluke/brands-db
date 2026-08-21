@@ -875,5 +875,12 @@
     "source": "https://commons.wikimedia.org/wiki/File:WD-40_logo.svg",
     "license": "Public domain",
     "artist": "WD-40 Company"
+  },
+  "Kinder": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Logo_Kinder.svg",
+    "commons_title": "File:Logo Kinder.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_Kinder.svg",
+    "license": "Public domain",
+    "artist": "Ferrero"
   }
 }
