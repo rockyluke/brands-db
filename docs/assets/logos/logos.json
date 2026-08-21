@@ -868,5 +868,12 @@
     "source": "https://commons.wikimedia.org/wiki/File:HARIBO_Logo.svg",
     "license": "Public domain",
     "artist": "HARIBO Dunhills (Pontefract) PLC"
+  },
+  "WD-40": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/WD-40_logo.svg",
+    "commons_title": "File:WD-40 logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:WD-40_logo.svg",
+    "license": "Public domain",
+    "artist": "WD-40 Company"
   }
 }
