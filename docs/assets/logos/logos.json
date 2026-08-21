@@ -903,5 +903,12 @@
     "source": "https://commons.wikimedia.org/wiki/File:Scotch-logo.svg",
     "license": "Public domain",
     "artist": "Unknown"
+  },
+  "LEGO": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/LEGO_logo.svg",
+    "commons_title": "File:LEGO logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:LEGO_logo.svg",
+    "license": "Public domain",
+    "artist": "The LEGO Group"
   }
 }
