@@ -910,5 +910,12 @@
     "source": "https://commons.wikimedia.org/wiki/File:LEGO_logo.svg",
     "license": "Public domain",
     "artist": "The LEGO Group"
+  },
+  "Playmobil": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Playmobil_logo.svg",
+    "commons_title": "File:Playmobil logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Playmobil_logo.svg",
+    "license": "Public domain",
+    "artist": "Marsupilami"
   }
 }
