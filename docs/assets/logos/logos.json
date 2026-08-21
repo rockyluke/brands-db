@@ -861,5 +861,12 @@
     "source": "https://commons.wikimedia.org/wiki/File:Timberland-logo.png",
     "license": "Public domain",
     "artist": "Timberland"
+  },
+  "Haribo": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/HARIBO_Logo.svg",
+    "commons_title": "File:HARIBO Logo.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:HARIBO_Logo.svg",
+    "license": "Public domain",
+    "artist": "HARIBO Dunhills (Pontefract) PLC"
   }
 }
