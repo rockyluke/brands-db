@@ -889,5 +889,12 @@
     "source": "https://commons.wikimedia.org/wiki/File:Logo_Nutella.svg",
     "license": "Public domain",
     "artist": "Ferrero"
+  },
+  "3M": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/3M_wordmark.svg",
+    "commons_title": "File:3M wordmark.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:3M_wordmark.svg",
+    "license": "Public domain",
+    "artist": "Stephen Dunne, Siegel & Gale"
   }
 }
