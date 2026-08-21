@@ -882,5 +882,12 @@
     "source": "https://commons.wikimedia.org/wiki/File:Logo_Kinder.svg",
     "license": "Public domain",
     "artist": "Ferrero"
+  },
+  "Nutella": {
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Logo_Nutella.svg",
+    "commons_title": "File:Logo Nutella.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_Nutella.svg",
+    "license": "Public domain",
+    "artist": "Ferrero"
   }
 }
