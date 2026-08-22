@@ -67,6 +67,7 @@ Une base ouverte pour retrouver le siège, le capital et les lieux de fabricatio
 | Aliaxis            | https://aliaxis.com/                      | 🇧🇪 Belgique  | 🇧🇪 Belge (entreprise privée)                                                                                                   | 🌍 Réseau industriel mondial                                        | 2026-08-19   |
 | Kipling            | https://www.kipling.com/                  | 🇧🇪 Belgique  | 🇺🇸 Américain ([VF Corporation](#vf-corporation))                                                                               | 🌏 Fabricants partenaires principalement en Asie                    | 2026-08-20   |
 | Smart Toys & Games | https://www.smartgames.com/               | 🇧🇪 Belgique  | 🇧🇪 Belge (entreprise privée)                                                                                                   | 🇨🇳 Chine                                                            | 2026-08-22   |
+| SmartGames         | https://www.smartgames.com/               | 🇧🇪 Belgique  | 🇧🇪 Belge ([Smart Toys & Games](#smart-toys--games))                                                                            | 🇨🇳 Chine                                                            | 2026-08-22   |
 
 ## Bulgarie 🇧🇬
 
